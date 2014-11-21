@@ -2,25 +2,31 @@
   "teamName": "Team Koders",
   "members": [
     {
-      "name": "Emre",
+      "name": "First Last",
+      "twitter": "twitter-handle",
+      "koding": "koding-username",
+      "location": "City, two digit country code"
+    },
+    {
+      "name": "Emre Durmus",
       "twitter": "emre",
       "koding": "emre",
       "location": "Istanbul, TR"
     },
     {
-      "name": "Sinan",
-      "twitter": "sinan",
+      "name": "Sinan Yasar",
+      "twitter": "sinanyasar",
       "koding": "sinan",
       "lead": true
     },
     {
-      "name": "Devrim",
-      "twitter": "devrim",
+      "name": "Devrim Yasar",
+      "twitter": "devrimyasar",
       "koding": "devrim",
       "location": "SF, US"
     },
     {
-      "name": "Stefan",
+      "name": "Stefan Cosma",
       "twitter": "stefanbc",
       "koding": "stefanbc",
       "location": "Romania"
