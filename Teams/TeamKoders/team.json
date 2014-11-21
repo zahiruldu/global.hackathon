@@ -2,28 +2,29 @@
   "teamName": "Team Koders",
   "members": [
     {
-      "name": "Emre Durmus",
-      "twitter": "emre",
-      "koding": "emre",
-      "location": "Istanbul, TR"
+      "name": "Senthil A",
+      "twitter": "sent0hil",
+      "koding": "sent-hil",
+      "location": "Chennai, IN"
     },
     {
       "name": "Sinan Yasar",
       "twitter": "sinanyasar",
       "koding": "sinan",
+      "location": "San Francsico, US"
       "lead": true
     },
     {
       "name": "Devrim Yasar",
       "twitter": "devrimyasar",
       "koding": "devrim",
-      "location": "SF, US"
+      "location": "San Francsico, US"
     },
     {
-      "name": "Stefan Cosma",
-      "twitter": "stefanbc",
-      "koding": "stefanbc",
-      "location": "Romania"
+      "name": "Nitin Gupta",
+      "twitter": "gniting",
+      "koding": "nitin",
+      "location": "Turn, IT"
     }
   ]
 }
