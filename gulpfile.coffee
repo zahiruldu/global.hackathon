@@ -86,6 +86,8 @@ format_json = (data, filepath) ->
   else teamName = teamPathName
   output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
 
+  # Add a newline to end this row.
+  output += '\n'
   # Return the final output
   output
 
