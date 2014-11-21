@@ -15,7 +15,7 @@ The purpose of this repo is two-fold:
 Fork this repo and add a new folder in the existing "teams" folder. Name 
 the folder with your team name and inside this folder, create two files:
 * team.json (see [example file](https://github.com/koding/global.hackathon/blob/master/Teams/TeamKoders/team.json) for details)
-* ABOUT.md (see [example file](https://github.com/koding/global.hackathon/blob/master/Teams/TeamKoders/ABOUT.md) for details
+* ABOUT.md (see [example file](https://github.com/koding/global.hackathon/blob/master/Teams/TeamKoders/ABOUT.md) for details)
 * once the above files are done, make a pull request to get your 
   information merged into the main repo
 * star this repo to show your appreciation (optional)
