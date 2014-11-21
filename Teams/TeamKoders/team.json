@@ -2,12 +2,6 @@
   "teamName": "Team Koders",
   "members": [
     {
-      "name": "First Last",
-      "twitter": "twitter-handle",
-      "koding": "koding-username",
-      "location": "City, two digit country code"
-    },
-    {
       "name": "Emre Durmus",
       "twitter": "emre",
       "koding": "emre",
