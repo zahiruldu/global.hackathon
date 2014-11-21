@@ -11,6 +11,12 @@
 //
 //     node firebase.js
 //
+// Please see the following links for more information:
+//
+// - https://www.firebase.com/docs/web/quickstart.html
+// - https://www.firebase.com/docs/web/guide/
+// - https://www.firebase.com/docs/web/examples.html
+//
 var Firebase = require('firebase');
 
 var id = Math.floor(Math.random()*1000000)
