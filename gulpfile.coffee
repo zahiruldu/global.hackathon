@@ -58,8 +58,8 @@ format_json = (data, filepath) ->
     output += " <a target='_blank'
       href='https://twitter.com/home?status=Go team
       %23#{data.teamName.replace /\W+/g, ""}
-      for @koding %23hackathon
-      #{if teamLead?.twitter? then "led by @"+teamLead.twitter}
+      for @koding %23hackathon\
+      #{if teamLead?.twitter? then " led by @"+teamLead.twitter else ''}
       https://koding.com/Hackathon'>
       <img src='https://g.twimg.com/Twitter_logo_blue.png' height='14'/>
       ##{data.teamName}
