@@ -4,8 +4,8 @@ J-Unit
 We are Ali and Bobby, a strong developer / designer team. Ali is located in Lahore,
 Pakistan, while Bobby is in Boston, U.S.
 
-We met during work a few months ago. Due to our complimentary skills and good working chemistry,
-we decided we'd be the dream team for going into a hackathon together.
+We met during work a few months ago. Due to our complimentary skills and good work chemistry,
+we decided we'd be the dream team for going into this hackathon together.
 
 About us
 ===========================
@@ -18,7 +18,8 @@ unit testing, mixed with the fact that we use Java as our programming language o
 choice, both for the client and server side.
 
 Our biggest motivation for participating in this hackathon, is so we can have a shot at an interview
-with some of the awesome VCs which are on the judges panel. Our dream is to do a startup.
+with some of the awesome VCs which are on the judges' panel. Our dream is to do a startup,
+and we have a few awesome ideas that we'd love to pitch.
 
 
 Our Skills
