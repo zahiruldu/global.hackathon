@@ -1,6 +1,6 @@
 Sample code
 ===========
 
-We will provide copy/paste code samples that you can immediately use, here.
+This folder contains examples on how to connect to the apis of the Hackathon sponsors.
 
-Feel free to push code that you think will help others, you will earn points if you do.
+Please open a pull request with additional examples that you think will help others, you will earn *major points* if you do.
