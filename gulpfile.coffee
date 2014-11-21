@@ -1,12 +1,12 @@
 #
 # # Gulpfile
 #
-path = require 'path'
+path    = require 'path'
 gulp    = require 'gulp'
 concat  = require 'gulp-concat'
 replace = require 'gulp-replace'
-tap = require 'gulp-tap'
-util = require 'gulp-util'
+tap     = require 'gulp-tap'
+util    = require 'gulp-util'
 
 
 
