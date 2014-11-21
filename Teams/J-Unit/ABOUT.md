@@ -19,7 +19,7 @@ choice, both for the client and server side.
 
 Our biggest motivation for participating in this hackathon, is so we can have a shot at an interview
 with some of the awesome VCs which are on the judges' panel. Our dream is to do a startup,
-and we have a few awesome ideas that we'd love to pitch.
+and we have an awesome idea that we'd love to pitch.
 
 
 Our Skills
