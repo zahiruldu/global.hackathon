@@ -1,0 +1,29 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Emre Durmus",
+      "twitter": "emre",
+      "koding": "emre",
+      "location": "Istanbul, TR"
+    },
+    {
+      "name": "Sinan Yasar",
+      "twitter": "sinanyasar",
+      "koding": "sinan",
+      "lead": true
+    },
+    {
+      "name": "Devrim Yasar",
+      "twitter": "devrimyasar",
+      "koding": "devrim",
+      "location": "SF, US"
+    },
+    {
+      "name": "Stefan Cosma",
+      "twitter": "stefanbc",
+      "koding": "stefanbc",
+      "location": "Romania"
+    }
+  ]
+}

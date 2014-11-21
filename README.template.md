@@ -25,4 +25,3 @@ the lower section of this README.md file.
 
 | #TeamNameTeam | Team Lead | Team Members | Team Page |
 |---------------|-----------|--------------|-----------|
-| <a target='_blank' href='https://twitter.com/home?status=Go team %23TeamKoders for @koding %23hackathon led by @sinanyasar https://koding.com/Hackathon'> <img src='https://g.twimg.com/Twitter_logo_blue.png' height='14'/> #Team Koders </a> |[Sinan Yasar](https://koding.com/sinan) |[Emre Durmus](https://koding.com/emre) Istanbul, TR<br>[Sinan Yasar](https://koding.com/sinan) <br>[Devrim Yasar](https://koding.com/devrim) SF, US<br>[Stefan Cosma](https://koding.com/stefanbc) Romania<br> | [Team Koders](./Teams/TeamKoders/ABOUT.md) |
