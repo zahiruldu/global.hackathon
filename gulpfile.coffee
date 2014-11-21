@@ -86,10 +86,6 @@ format_json = (data, filepath) ->
   else teamName = teamPathName
   output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
 
-  # Fifth column, Approved
-  # Faking for now
-  output += " |\n"
-
   # Return the final output
   output
 

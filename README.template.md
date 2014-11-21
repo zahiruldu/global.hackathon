@@ -17,5 +17,5 @@ If your application is not approved yet, correct your team row, click on the twe
 
 SUPPORT YOUR FAVORITE TEAM BY CLICKING THE TWEET LINK! GOOD LUCK TO ALL TEAMS! LET'S HAVE SOME FUN :)
 
-| #TeamNameTeam | Team Lead | Team Members | Team Page | Approved? |
-|---------------|-----------|--------------|-----------|-----------|
+| #TeamNameTeam | Team Lead | Team Members | Team Page |
+|---------------|-----------|--------------|-----------|
