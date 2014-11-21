@@ -32,6 +32,6 @@ Our Skills
 There will be a lot of teams that will be doing yet another CRUD app, or yet another
 spin on some existing website. We hope to do something different, ambitious, and technically
 hard to pull off. Something that should push our limits, both on the design and
-development sides.
+development front.
 
 
