@@ -23,8 +23,8 @@ the folder with your team name and inside this folder, create two files:
 We will periodically run a script that will pull your info and populate 
 the lower section of this README.md file.
 
-| #TeamName     | Team Lead | Team Members | Team Page |
-|---------------|-----------|--------------|-----------|
+| #Team Name     | Team Lead | Team Members | Team Page |
+|----------------|-----------|--------------|-----------|
 | <a target='_blank' href='https://twitter.com/home?status=Go team %23CallbackHell for @koding %23hackathon https://koding.com/Hackathon'> <img src='https://g.twimg.com/Twitter_logo_blue.png' height='14'/> #Callback Hell </a> | |[Zlatko Duric](https://koding.com/zladuric) Munich, DE<br> | [Callback Hell](./Teams/CallbackHell/ABOUT.md) |
 | <a target='_blank' href='https://twitter.com/home?status=Go team %23CodeNotion for @koding %23hackathon led by @jabowocky https://koding.com/Hackathon'> <img src='https://g.twimg.com/Twitter_logo_blue.png' height='14'/> #CodeNotion </a> |[Michael Adam Jablecki](https://koding.com/mjablecki) |[Francisco Facioni](https://koding.com/fran6co) Buenos Aires, AR<br>[Michael Adam Jablecki](https://koding.com/mjablecki) Providence, US<br>[Ezequiel Rabinovich](https://koding.com/warseph) Santiago de Chile, CL<br> | [CodeNotion](./Teams/CodeNotion/ABOUT.md) |
 | <a target='_blank' href='https://twitter.com/home?status=Go team %23JUnit for @koding %23hackathon led by @AliAkhtar_ https://koding.com/Hackathon'> <img src='https://g.twimg.com/Twitter_logo_blue.png' height='14'/> #J-Unit </a> |[Ali Akhtar](https://koding.com/digitman2) |[Bobby Degrot](https://koding.com/eonns) Boston, US<br>[Ali Akhtar](https://koding.com/digitman2) Lahore, PK<br> | [J-Unit](./Teams/J-Unit/ABOUT.md) |
