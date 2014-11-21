@@ -1,0 +1,29 @@
+{
+"teamName": "PumpedDevs",
+"members": [
+{
+"name": "Bryan Salazar",
+"koding": "brysalazar12",
+"location": "Makati City, Philippines"
+},
+{
+"name": "Ron Emerson Cabal",
+"twitter": "RonCabal",
+"koding": "roncabal",
+"lead": true,
+"location": "San Pablo City, Philippines"
+},
+{
+"name": "Joell Lapitan",
+"twitter": "jlapitan",
+"koding": "jlapitan",
+"location": "Calamba Laguna City Philippines"
+},
+{
+"name": "Kenneth Suncaya",
+"twitter": "ksungcaya",
+"koding": "ksungcaya",
+"location": "Dubai, United Arab Emirates"
+}
+]
+}
