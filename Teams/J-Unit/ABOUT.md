@@ -13,9 +13,8 @@ Our team has a yin/yang philosophy. Bobby, the yin, does all the design, CSS,
 and UX work. Ali, the yang, does the backend programming to bring everything together.
 This works great, as we have skills that compliment each others' weaknesses.
 
-Our name, 'J-Unit', comes from our mutual love of hip hop and
-Ali's love of unit testing, mixed with the fact that we use Java as our main programming language,
-for both client and server side.
+Our name, 'J-Unit', comes from our mutual love of hip hop and unit testing,
+mixed with the fact that we use Java as our main programming language, for both client and server side.
 
 Our biggest motivation for participating in this hackathon, is so we can have a shot at an interview
 with some of the awesome VCs which are on the judges' panel. Our dream is to do a startup,
