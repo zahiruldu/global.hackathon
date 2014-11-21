@@ -1,12 +1,11 @@
-This is our page
-We are the Koding team, so we are not really participating. But this page is here to give you an idea about your own page.
+We are...Float-Center
 
-About your team
-Tell us who you are, why you did you decide to join?
+We are skilled
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive. Tell us why you want to win.
+We are front end developers who love kittens, most of us at least. I personally hate the little bastards.
 
-About your skills and what you are going to do?
-Don't reveal too much about your project, this is a competition but maybe you can tell us the technologies, APIs you are going to use and what kind of application you are going to build.
+With joking aside, we are a group of skilled front end developers who are excited to see what we can do against the world.
 
-You can change your mind, that's ok. Just push an update here when you do.
+Love Always,
+
+Float-Center
