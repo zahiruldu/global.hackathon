@@ -2,7 +2,7 @@ Team Invincibles
 
 ================
 
-About your team
+About our team
 
 ===========================
 We are a group of programming enthusiasts very motivated to solve real world problems. All of us 
