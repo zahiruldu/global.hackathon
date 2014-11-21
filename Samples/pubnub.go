@@ -26,8 +26,6 @@ const (
 	TimeToken     = "1000"
 )
 
-var ()
-
 func main() {
 	var pub = messaging.NewPubnub(PublishKey, SubscribeKey, SecretKey, "", false, "")
 
