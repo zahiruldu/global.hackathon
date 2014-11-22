@@ -1,6 +1,6 @@
 About my team
 ===========================
-I am a Web Engineer with experience working with LAMP and MEAN stacks, specialized in front-end web development and web application performance.
+I am a Web Engineer with experience working with LAMP and MEAN stacks, specialized in front-end web development and web application performance. I am a U.S. citizen living in Venezuela by the moment.
 
 With the time, I have gotten senior knowledge in different technologies and functional areas of web development.
 ✔ Front-End: HTML5, CSS3, JavaScript, jQuery and AngularJS.
