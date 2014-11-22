@@ -1,0 +1,26 @@
+{
+  "teamName": "BabesFromVictoria",
+  "members": [
+    {
+      "name": "Erika Burdon",
+      "koding": "Karmaqueenn",
+      "location": "Victoria, CA",
+	  "lead": true
+    },
+	{
+      "name": "Leslie Scott",
+      "koding": "--",
+      "location": "Victoria, CA"
+    },
+	{
+      "name": "Quintan Neville",
+      "koding": "--",
+      "location": "Victoria, CA"
+    },
+	{
+      "name": "Jeremy Kroeker",
+      "koding": "--",
+      "location": "Victoria, CA"
+    }
+  ]
+}
