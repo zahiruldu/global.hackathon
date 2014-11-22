@@ -23,5 +23,5 @@ the folder with your team name and inside this folder, create two files:
 We will periodically run a script that will pull your info and populate 
 the lower section of this README.md file.
 
-| #TeamName     | Team Lead | Team Members | Team Page |
-|---------------|-----------|--------------|-----------|
+| #TeamName     | Team Members | Team Page |
+|---------------|--------------|-----------|

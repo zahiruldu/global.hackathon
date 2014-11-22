@@ -47,9 +47,11 @@ format_json = (data, filepath) ->
   # Get the lead, ahead of time.
   teamLead = null
   if data.members? and data.members instanceof Array
-    for member in data.members
+    for member, i in data.members
       if member.lead is true
         teamLead = member
+        data.members.splice i, 1
+        data.members.unshift teamLead
         break
 
   output = '|'
@@ -67,20 +69,16 @@ format_json = (data, filepath) ->
   else
     output += " |"
 
-  # Second column, TeamLead
-  if teamLead?
-    output += "#{format_member teamLead} |"
-  else
-    output += " |"
-
-  # Third column, TeamMembers
+  # Second column, TeamMembers
   if data.members? and data.members instanceof Array
     for member in data.members
-      output += "#{format_member member}
-        #{member.location ? ''}<br>"
+      output += format_member member
+      output += " #{member.location}" if member.location?
+      output += " *(team lead)*"      if member.lead is true
+      output += "<br>"
   output += " |"
 
-  # Fourth column, TeamPage
+  # Third column, TeamPage
   if data.teamName? then teamName = data.teamName
   else teamName = teamPathName
   output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
