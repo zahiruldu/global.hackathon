@@ -8,7 +8,7 @@ About us.
 
 | Aleksandr Korolev | ![Alexandr](https://pbs.twimg.com/profile_images/437221568356179970/iiJldlEp.jpeg) | Team leader, JavaScript (Node.js, FrontEnd JS, Cordova, WebGL), technical assistance projects (setting servers and services).
 |--- |--- |---
-| Amir Tagirov | ![Amir](http://placepic.me/avatars/600-600) | JavaScript coder and page-proofs for web & mobile (Cordova).
+| Amir Tagirov | ![Amir](https://pbs.twimg.com/profile_images/536216627910426624/lOIcllPh.jpeg) | JavaScript coder and page-proofs for web & mobile (Cordova).
 
 
 
