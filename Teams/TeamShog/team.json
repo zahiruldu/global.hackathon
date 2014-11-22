@@ -6,6 +6,31 @@
       "twitter": "falkirknh",
       "koding": "falkirks",
       "location": "Vancouver, CA"
+    },
+    {
+      "name": "Leon",
+      "twitter": "99leonchang",
+      "koding": "",
+      "location": "Hsinchu, TWN"
+    },
+    {
+      "name": "Samuel",
+      "twitter": "MegaSam_",
+      "koding": "",
+      "location": "Sydney, AU"
+      
+    },
+    {
+      "name": "Adam",
+      "twitter": "TuffDev",
+      "koding": "",
+      "location": "Fishers, US"
+    },
+    {
+      "name": "",
+      "twitter": "PEMapModder",
+      "koding": "",
+      "location": "Hong Kong, CHN"
     }
   ]
 }
