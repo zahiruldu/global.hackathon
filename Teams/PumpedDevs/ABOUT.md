@@ -18,8 +18,11 @@ The team's **goal** for this competition is to *have fun* in the hackathon, *sho
 About our skills and plans?
 =======
 All of us use the following technologies:
+
 1. PHP
 2. Javascript
 3. HTML5
 
 All of the themes given are really interesting. We're still thinking which will fit our skills.
+
+:sweet_potato: Sorry for the long post
