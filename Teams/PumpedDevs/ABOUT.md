@@ -13,9 +13,9 @@ The time we discovered the **hackathon**, we were so *excited*. But when we saw 
 
 I asked the other two members to join me in this hackathon, **Kenneth** who was my classmate in college and **Joell** who was our teacher in college. They both develop for the web so I thought they'd be a perfect fit for the team and invited them. I also had an experience developing with them so it's a big plus.
 
-The team's goal now is not to win but to have fun in the hackathon, show what we can do and what we can contribute.
+The team's goal now is to have fun in the hackathon, show what we can do and what we can contribute.
+We think that this event is a big help for us to reach our goal which is to create our own **start up company** and use our *skills* to help others. Winning in this competition might be hard and intimidating, but what isn't? We'll give it a try and do our best!
 
-
-About out skills and plans?
+About our skills and plans?
 =======
 TODO
