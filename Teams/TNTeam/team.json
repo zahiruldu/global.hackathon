@@ -1,3 +1,4 @@
+
 {
     "teamname": "TNTeam",
     "members":[
@@ -5,7 +6,7 @@
 	    "name":"Rafik Naccache",
 	    "twitter":"turbopape",
 	    "koding":"automagic-tools",
-	    "location":"Tunis,TN"
+	    "location":"Tunis,TN",
 	    "lead":true
 	},
 	
