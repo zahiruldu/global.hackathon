@@ -12,7 +12,9 @@ Coming soon...
 
 About our skills and what we are going to do?
 =======
-
-Coming soon...
+- PHP
+- CSS3
+- HTML5
+- Creativity!
 
 
