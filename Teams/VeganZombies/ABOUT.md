@@ -1,7 +1,7 @@
 The Vegan Zombies
 ================
 
-We're coming for your brains...  but since we're vegan, we won't actuall eat them.
+We're coming for your brains...  but since we're vegan, we won't actually eat them.
 
 
 About your team
@@ -17,6 +17,6 @@ He's also a photographer, hacker, and the founder of Portland's BrainSilo hacker
 
 About your skills and what you are going to do?
 =======
-Currently, our skillset covers most backend systems.  We're looking to add front end developers, and potentially full-stack or additional back-end talent.
+Currently, our skill set covers most backend systems.  We're looking to add front end developers, and potentially full-stack or additional back-end talent.
 
 We want to tackle EULAs and clickwrap agreements at both the software and service levels.
