@@ -6,7 +6,7 @@ does not ring a bell, please
 prizes!
 
 The purpose of this repo is two-fold:
-* for us to share share sample code with you
+* for us to share some sample code with you
 * for you to share your team details and eventually your final project 
   code with us
 
