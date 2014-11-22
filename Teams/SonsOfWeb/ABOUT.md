@@ -6,7 +6,7 @@ Don't get confused. Our names are similar, but we are two different people. :) W
 About Us
 ===========================
 
-| farazahmed84 | fraz
+| Faraz Ahmed | Fraz Ahmed
 |--- |---
 | ![Faraz](http://graph.facebook.com/faraz.ahmed84/picture?type=large) | ![Fraz](http://graph.facebook.com/frazehmad/picture?type=large) |
 
