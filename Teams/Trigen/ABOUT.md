@@ -9,7 +9,7 @@ About your team
 
 | lkalneus | eric_bro | dangreen
 |--- |--- |---
-| ![lkalneus](https://pbs.twimg.com/profile_images/378800000809504640/35d96634830116713a8640a3d802e982_400x400.jpeg) | ![eric_bro](https://pbs.twimg.com/profile_images/478579613396774912/GU0hy_c8_400x400.jpeg) | ![dangreen](https://pbs.twimg.com/profile_images/479266653025226752/Ufa20suY_400x400.jpeg) |
+| ![lkalneus](https://pbs.twimg.com/profile_images/378800000809504640/35d96634830116713a8640a3d802e982_400x400.jpeg) | ![rodionovd](https://pbs.twimg.com/profile_images/478579613396774912/GU0hy_c8_400x400.jpeg) | ![dangreen](https://pbs.twimg.com/profile_images/479266653025226752/Ufa20suY_400x400.jpeg) |
 
 Tell us who you are, why you did you decide to join?
 
