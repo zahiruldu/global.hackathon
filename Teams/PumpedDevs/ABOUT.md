@@ -25,4 +25,4 @@ All of us use the following technologies:
 
 All of the themes given are really interesting. We're still thinking which will fit our skills.
 
-:sweet_potato: Sorry for the long post
+I know this page is a bit long so here's a sweet potato. :sweet_potato: Sorry for the long post
