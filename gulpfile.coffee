@@ -96,7 +96,8 @@ format_json = (data, filepath) ->
 gulp.task 'run', ->
   gulp.src [
     'README.template.md'
-    './Teams/**/*.json'
+    './Teams/**/TeamKoders/team.json'
+    './Teams/**/team.json'
   ]
     .pipe tap tap_json
     .pipe concat 'README.md', newLine: ''
