@@ -1,12 +1,8 @@
 This is our page
 ================
-
-About your team
-===========================
-
 | manohar |
 |--- |
-| ![Manohar](http://https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg) |
+| ![Manohar](https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg) |
 
 Tell us who you are, why you did you decide to join?
 
