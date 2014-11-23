@@ -1,17 +1,36 @@
 {
-  "teamName": "AALuckers",
+  "teamName": "AAVAA",
   "members": [
     {
-      "name": "Chepurnoy Aleksander",
-      "twitter": "biz_ze",
-      "koding": "bizze",
-      "location": "Vladivostok, RU",
+      "name": "Alexandra Anikina",
+      "twitter": "saneshka",
+      "koding": "saneshka",
+      "location": "Kyiv, UA",
+    },
+	{
+      "name": "Anastasia Smakovska",
+      "twitter": "anasmak",
+      "koding": "anasmak",
+      "location": "Kyiv, UA",
+    },
+	{
+      "name": "Vlasyslav Stepanov",
+      "twitter": "picazz0",
+      "koding": "vstepanov",
+      "location": "Kyiv, UA",
       "lead": true
     },
-    {
-      "name": "Feshenko Denis",
-      "koding": "Feshenkod",
-      "location": "Vladivostok, RU"
+	{
+      "name": "Andrew Tesluk",
+      "twitter": "vdjtab",
+      "koding": "vdjtab",
+      "location": "Kyiv, UA",
+    },
+	{
+      "name": "Andrii Usov",
+      "twitter": "andreusov",
+      "koding": "andreusov",
+      "location": "Kyiv, UA",
     }
   ]
 }
