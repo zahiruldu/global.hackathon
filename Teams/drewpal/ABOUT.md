@@ -8,6 +8,9 @@ About your team
 ===========================
 
 | Andrew 
+|--- 
+| ![Andrew](http://satyamediagroup.com/images/team/drew_sang.jpg) | 
+
 
 Skills and intended project
 =======
