@@ -1,19 +1,19 @@
 # The Washington Redskins
 
 We are five high-school students from Los Angeles, only one of whom actually plays football.
-Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Episode 1)](http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself) and we in no way other than name affiliated with the National Football League team of the same name.
+Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Episode 1)](http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself) and we in no other way affiliated with the National Football League team of the same name.
 
 ## About our team
 
 | Ethan | David | Christian | James | Jake
 |--- |--- |--- |--- |---
-| ![Ethan](http://i.imgur.com/gR6zSot.jpg) | ![David](http://i.imgur.com/hKDsoqJ.jpg) | ![Christian](http://i.imgur.com/EofphTD.jpg) | ![James]() | ![Jake] (http://i.imgur.com/YugU9XL.jpg) |
+| ![Ethan](http://i.imgur.com/gR6zSotm.jpg) | ![David](http://i.imgur.com/hKDsoqJm.jpg) | ![Christian](http://i.imgur.com/EofphTDm.jpg) | ![James](http://i.imgur.com/eDAjuqzm.jpg) | ![Jake](http://i.imgur.com/YugU9XLm.jpg?1) |
 
 `Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde](https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper), an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
 
 `David` is passionate about teaching others how to 'Kode', as demonstrated by his project, [Koding 4 Kids](http://koding4kids.com). Right now, however, his teaching is on hold until we teach y'all a lesson.
 
-`Christian`, also known as 'quantum' or '[paralin](http://parl.in)' is known primarily for [D2Moddin](http://paral.in/the-d2moddin-project/), which brought custom game modes to DoTA 2. Christian's resume also includes an in-progress [Kerbal Space Program multiplayer mod](https://github.com/KerbalMultiplayerCommunity/Universe), [a system for massive p2p networks](http://paral.in/airnet-p2p-internet-of-things/), and several meteor and angular libraries.
+`Christian`, also known as 'quantum' or '[paralin](http://parl.in)' is known primarily for [D2Moddin](http://paral.in/the-d2moddin-project/), which brought custom game modes to over 174,000 DOTA 2 players. Christian's in-progress projects include two other DOTA projects, WebLeague and DotaReplay, in addition to his VTOL PixHawk autonomous UAV project. Previous projects are listed on [his website](http://paral.in/projects/) with links to GitHub repositories.
 
 `James` is an algorithms expert and is top 50 on the USACO rankings in 2014. James actually [invented the subordinate-sequential search algorithm](https://koding.com/jlennon1) with the help of fellow Koders. James has also created several published games, including [Nebulus](https://itunes.apple.com/app/nebulous-multiplayer-space/id874328065?mt=8) and [Driftlight](https://itunes.apple.com/us/app/driftlight/id908131148?mt=8).
 
@@ -21,9 +21,11 @@ Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Epis
 
 ## What we're making
 
-It's quite possible that we are inventing the most revolutionary product ever made! [As part of our review of playing field, we have decided to move forward with cloud-based early adopter. Skate to where the puck is going to be.](http://projects.wsj.com/buzzwords2014/#p=13%7C35,13%7C%7C6%7C%7C2%7C2).
+It's quite possible that we are inventing the most revolutionary product ever made! [As part of our review of playing field, we have decided to move forward with cloud-based early adopter. Skate to where the puck is going to be.](http://projects.wsj.com/buzzwords2014/#p=13%7C35,13%7C%7C6%7C%7C2%7C2) Steve Jobs may [1] have decreed "the iRedskins (formerly The Washington Redksins) is the most revolutionary and magical product Apple has made yet" while tripping on an LCD in India.
 
-[Expect us on Kickstarter] [1] [soon] [2]!
+Expect us on Kickstarter [2] soon [3]!
 
-[1]: See "Go Fund Yourself"
-[2]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29)
+[1]: It's not in _Steve Jobs_ by Walter Isaacson, but it's still possible [4] that he did say it <br>
+[2]: See "Go Fund Yourself"'s above link <br>
+[3]: See [Valve Time](https://developer.valvesoftware.com/wiki/Valve_Time) or [never](http://lmgtfy.com/?q=define+never) or [soon (tm)](http://www.urbandictionary.com/define.php?term=soon%20%28tm%29) <br>
+[4]: Literally and totally impossible
