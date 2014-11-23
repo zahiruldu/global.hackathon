@@ -1,0 +1,17 @@
+{
+  "teamName": "Develofy",
+  "members": [
+    {
+      "name": "Federico Zivolo",
+      "twitter": "FezVr4sta",
+      "koding": "fezvrasta",
+      "location": "Milan, IT",
+      "lead": true
+    },
+    {
+      "name": "",
+      "koding": "",
+      "location": ""
+    }
+  ]
+}
