@@ -4,7 +4,7 @@ Drewpal
 I am an IT enthusiast and Web Developer based in Nairobi Kenya.
 
 
-About your team
+My Team
 ===========================
 
 | Andrew 
