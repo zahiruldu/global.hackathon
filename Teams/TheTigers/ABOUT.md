@@ -10,7 +10,7 @@ About your team
 
 | kuldip |
 |---|
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) |
+| ![kuldippipaliya](https://http://kuldippipaliya.com/img/author.png) |
 
 Tell us who you are, why you did you decide to join?
 
