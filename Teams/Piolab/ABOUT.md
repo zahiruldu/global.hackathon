@@ -1,6 +1,6 @@
 Piolab
 ================
-A funny team.
+A team of "pioneers".
 
 About your team
 ===========================
