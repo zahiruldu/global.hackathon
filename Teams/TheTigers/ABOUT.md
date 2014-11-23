@@ -10,7 +10,7 @@ About your team
 
 | kuldip |
 |---|
-| ![kuldippipaliya](https://http://kuldippipaliya.com/img/author.png) |
+| ![kuldippipaliya](http://kuldippipaliya.com/img/author.png) |
 
 Tell us who you are, why you did you decide to join?
 ======
