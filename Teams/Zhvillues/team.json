@@ -14,12 +14,13 @@
     {
       "name": "Rajith Vidanaarachchi",
       "koding": "rajithv",
-      "location": "Luneburg, Germany"
+      "location": "Luneburg, DE"
     },
     {
       "name": "Sachini Herath",
       "koding": "sachini",
-      "location": "Colombo, LK"
+      "location": "Colombo, LK",
+      "lead" : true
     },
     {
       "name": "Vipula Dissanayaka",
