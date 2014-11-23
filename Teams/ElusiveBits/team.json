@@ -4,7 +4,8 @@
     {
       "name": "Tim Sidie",
       "koding": "tims",
-      "location": "Washington D.C., US"
+      "location": "Washington D.C., US",
+      "lead": true
     },
     {
       "name": "Pat Quinn",
