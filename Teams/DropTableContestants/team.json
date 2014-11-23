@@ -1,0 +1,29 @@
+{
+  "teamName": "DROP TABLE Contestants",
+  "members": [
+    {
+      "name": "Daniel Brownell",
+      "twitter": "",
+      "koding": "salient",
+      "location": "Cape Town, RSA"
+    },
+	    {
+      "name": "Lumka Mangxongxoza",
+      "twitter": "https://twitter.com/LuNaturelle",
+      "koding": "lunaturelle",
+      "location": "Cape Town, RSA"
+    },
+	    {
+      "name": "Michael Champanis",
+      "twitter": "",
+      "koding": "mchampanis",
+      "location": "Cape Town, RSA"
+    },
+	    {
+      "name": "Aurelia Drummer",
+      "twitter": "",
+      "koding": "thisisaurelia",
+      "location": "Cape Town, RSA"
+    }
+  ]
+}
