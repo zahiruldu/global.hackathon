@@ -14,5 +14,10 @@ My Team
 
 Skills and intended project
 =======
-I will be bulding a WebRTC Application under a drupal CMS. 
-My intention is a plug and play Application.
+- PHP
+- CSS3
+- HTML5
+- Javascript
+- JQuery
+- Drupal
+
