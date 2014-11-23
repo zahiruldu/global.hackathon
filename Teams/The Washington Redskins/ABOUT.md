@@ -7,7 +7,7 @@ Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Epis
 
 | Ethan | David | Christian | James | Jake
 |--- |--- |--- |--- |---
-| ![Ethan](http://i.imgur.com/gR6zSotm.jpg) | ![David](http://i.imgur.com/hKDsoqJm.jpg) | ![Christian](http://i.imgur.com/EofphTDm.jpg) | ![James](http://i.imgur.com/eDAjuqzm.jpg) | ![Jake](http://i.imgur.com/YugU9XLm.jpg?1) |
+| ![Ethan](http://i.imgur.com/gR6zSotm.jpg) | ![David](http://i.imgur.com/hKDsoqJm.jpg) | ![Christian](http://i.imgur.com/EofphTDm.jpg?1) | ![James](http://i.imgur.com/eDAjuqzm.jpg) | ![Jake](http://i.imgur.com/IFEuZNEm.png?2) |
 
 `Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde](https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper), an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
 
