@@ -10,7 +10,7 @@ Here are some of the team members, more are coming
 
 | Julius | 
 | ----- |
-| ![Julius](https://pbs.twimg.com/profile_images/536811769658736640/nAUFEBAY.jpeg) |
+| ![Julius](http://ntaftie.com/myportfolio/images/me.png) |
 
 Our Skills and Project
 =======================
