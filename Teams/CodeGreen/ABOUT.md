@@ -2,9 +2,9 @@ About CodeGreen Team
 ===========================
 
 
-| Maurizio | Max | Meni | Dimuthu
+
 |--- |--- |--- |---
 | ![Maurizio](https://pbs.twimg.com/profile_images/536400530075971584/_zOPB12Q_400x400.jpeg) | ![Max](https://pbs.twimg.com/profile_images/536841741039464448/Z8QM0uFh_400x400.jpeg) | ![Meni](https://pbs.twimg.com/profile_images/477843469705048064/twGS0AqE_400x400.jpeg) | ![Dimuthu](https://pbs.twimg.com/profile_images/3479129667/6c1a558922081e80e2a825cb7e5334a7_400x400.jpeg) |
-|--- |--- |--- |---
+| Maurizio | Max | Meni | Dimuthu
 
 
