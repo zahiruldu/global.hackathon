@@ -1,9 +1,8 @@
-720devs
+*720devs*
 We're the founders of 720developments.com, as you can see in our webpage, we're a couple that is working with web developments together since we're just 21 years old (and dating since we're just 17). 7 years later since we starting on our own, we are still here, doing the same but in more interesting projects, trying to learn as much as we can in our free time, and trying to travel as much as we can with our budget.
 Also we love to eat, drink good beer (we may start making our own next year) and walk long distances talking about, well, anything, with our 3 little dogs.
-[Picture Here]
 
-What are we going to do?
+*What are we going to do?*
 
 Theme: Problems facing our planet, explained using interactive data visualization.
 We will focus in using an API to gather data about different problematics we're (as humanity) facing in this moment. 
@@ -18,7 +17,7 @@ efforts to build a better and more equal world.
 Also we think about learning tools, because we believe the future of education is in the web, but we prefer the
 other theme better as we think they're already great tools out there that are doing very good right now.
 
-Why are we participating?
+*Why are we participating?*
 
 Is the first time in a hackaton together, and the reasons are several, 
 I'll enumerate the most important ones:
