@@ -9,7 +9,8 @@ About the team
 
 | kmiloaguilar | realpasro | rsiwady29 | dcaballeroc
 |--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| ![kmiloaguilar](https://pbs.twimg.com/profile_images/468754688364802048/rwKwnz_g_400x400.jpeg) | ![realpasro](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![rsiwady29](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![dcaballeroc](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+
 
 Tell us who you are, why you did you decide to join?
 
