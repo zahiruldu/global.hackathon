@@ -26,8 +26,8 @@ Cherry is an engineering student at the University of Waterloo, and has a lot of
 
 吴昌龙
 =======
-吴昌龙 has earned a Masters degree in computer science at Beijing University of Posts & Telecommunications, and has three years of experience in C++, Linux, web development, and has recently been developing in Ruby. Currently he is working at Rakuten, the largest e-commerce site in Japan, and among the world's largest in sales. He will be one of the engineers on this team. [LinkedIn](https://www.linkedin.com/pub/changlong-wu/7a/614/248)
+吴昌龙 is an accomplished software engineer and has earned a Masters degree in computer science at Beijing University of Posts & Telecommunications, and has three years of experience in C++, Linux, web development, and has recently been developing in Ruby. Currently he is working at Rakuten, the largest e-commerce site in Japan, and among the world's largest in sales. He will be one of the engineers on this team. [LinkedIn](https://www.linkedin.com/pub/changlong-wu/7a/614/248)
 
 Fan
 =======
-Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He also really likes Gundam. [Website](http://thefanzhang.com/)
+Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He will be one of the engineers on this team. He also really likes Gundam. [Website](http://thefanzhang.com/)
