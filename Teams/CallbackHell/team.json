@@ -5,7 +5,20 @@
       "name": "Zlatko Duric",
       "twitter": "zladuric",
       "koding": "zladuric",
-      "location": "Munich, DE"
+      "location": "Munich, DE",
+      "lead": true
+    },
+    {
+      "name": "Alexander Saldivar",
+      "twitter: "",
+      "koding": "agsaldivar",
+      "location": "California, USA"
+    },
+    {
+      "name": "Adam Lopatko",
+      "twitter: "",
+      "koding": "traynor",
+      "location": "Zagreb, Croatia"
     }
   ]
 }
