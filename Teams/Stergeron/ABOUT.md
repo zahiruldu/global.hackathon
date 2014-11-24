@@ -23,4 +23,4 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 ###Nick Hluska
 
-> Nick is the team leader for Stergeron. He has competed in the American Computer Science League and attended the Blueprint Hackathon. He is the President of his high school’s Theoretical Physics Club and has collaborated with Fermi National Accelerator Laboratory scientists on experiments. He is a retired semi-professional Starcraft player and is an active semi-professional Super Smash Brothers Melee Player. He has experience with C++ and memory hacking.
+> Nick is the team leader for Stergeron. He has competed in the American Computer Science League and attended the Blueprint Hackathon. He is the President of his high school’s Theoretical Physics Club and has collaborated with Fermi National Accelerator Laboratory scientists on experiments. He is a retired semi-professional Starcraft player and is an active semi-professional Super Smash Brothers Melee Player. He has experience with C++.
