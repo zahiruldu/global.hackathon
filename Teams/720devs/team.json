@@ -12,7 +12,8 @@
 	      "name"	 : "Franco Risso",
 	      "twitter"	 : "francorisso",
 	      "koding"	 : "francorisso",
-	      "location" : "Villa Carlos Paz, AR"
+	      "location" : "Villa Carlos Paz, AR",
+	      "lead"	 : true
 	    },
 	]
 }
