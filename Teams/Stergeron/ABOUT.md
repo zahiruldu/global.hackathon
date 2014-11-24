@@ -11,7 +11,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 #Team
 
 ###William Tan
- > William, senior in high school, has been coding and using GNU and Linux for 6 years. Some people call him insane for using GNU and Linux exclusively, taping his webcams, password protecting his hacked up calculator, and using Vim instead of an IDE. He is Head of Software Development for his First Tech Challenge Robotics team and also Head of Technology for his school's Physics Club. This year, he carried his team to 113th place out of the over 3000 teams competing in PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, C, Axe, and dabbles in dozens of other languages. He specializes in computer security, GNU and Linux, and networks.
+ > William, senior in high school, has been coding and using GNU and Linux for 6 years. Some people call him insane for using GNU and Linux exclusively, taping his webcams, password protecting his hacked up calculator, and using Vim instead of an IDE. He is Head of Software Development for his First Tech Challenge Robotics team and also Head of Technology for his school's Physics Club. This year, he carried his team to 113th place out of the over 3000 teams competing in PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, C, Axe, and dabbles in dozens of other languages. He specializes in computer security, GNU and Linux, and servers.
 
 ###Max Krieger
 
@@ -23,4 +23,4 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 ###Nick Hluska
 
-> Nick is the team leader for Stergeron. He has competed in the American Computer Science League and attended the Blueprint Hackathon. He is the President of his high school’s Theoretical Physics Club and has collaborated with Fermi National Accelerator Laboratory scientists on experiments. He is a retired semi-professional Starcraft player and is an active semi-professional Super Smash Brothers Melee Player. He has experience with C++.
+> Nick is the team leader for Stergeron. He has competed in the American Computer Science League and attended the Blueprint Hackathon. His other STEM endeavours include being the President and founder of his high school’s Theoretical Physics Club and having collaborated with Fermi National Accelerator Laboratory scientists on experiments involving cosmic ray detection and analysis. He is a retired semi-professional Starcraft player, an active semi-professional Super Smash Brothers Melee Player, and a baseball player. His competitive hobbies outside of STEM, baseball, and esports include chess, where he is the Co-Captain of the Needham High School Chess Team. He has experience with C++.
