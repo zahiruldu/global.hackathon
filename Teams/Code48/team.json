@@ -5,7 +5,8 @@
 			"name": "B Donald",
 			"twitter": "apostleBDHarris",
 			"koding": "bdonaldharris",
-			"location": "Cordova, US"
+			"location": "Cordova, US",
+			"lead": true
 		},
 		{
 			"name": "Mike F",
