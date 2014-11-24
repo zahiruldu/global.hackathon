@@ -21,3 +21,5 @@ Skills
 Vijayinder : I have started my coding journey with .net technology and then i have started html development -> responsive html -> joomla -> magento --> and now reached at wordpress from last 3 years , I am working with a team and doing development of wordpress themes apart from that i am also dealing with internet marketing 
 
 Swapnil : 
+
+We are going to create some interactive wordpress theme which is totally customized and user friendly.
