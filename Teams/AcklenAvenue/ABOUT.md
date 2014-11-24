@@ -12,6 +12,7 @@ About the team
 | ![kmiloaguilar](https://pbs.twimg.com/profile_images/468754688364802048/rwKwnz_g_400x400.jpeg) | ![realpasro](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![rsiwady29](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![dcaballeroc](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
 
 
+
 Tell us who you are, why you did you decide to join?
 
 Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
