@@ -18,13 +18,13 @@
       "twitter": "madytyoo",
       "koding": "madytyoo",
       "location": "Milazzo, IT",
+      "lead": true      
     },
     {
       "name": "Max Jacobson",
       "twitter": "maxthegringo",
       "koding": "maxmjacobson",
-      "location": "Sao Paulo,BR",
-      "lead": true
+      "location": "Sao Paulo,BR"
     }
   ]
 }
