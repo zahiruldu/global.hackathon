@@ -8,7 +8,7 @@ No regrets, ever.
 
 We're a bunch of high schoolers from Massachusetts, wanting to make a better world in computers.
 
-*TEAM*
+**TEAM**
 
 `William Tan`
  * Carried team ▲ ▲ ▲ to 113th place in PicoCTF
