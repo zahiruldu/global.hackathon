@@ -11,20 +11,31 @@ About the team
 |--- |--- |--- |---
 | ![kmiloaguilar](https://pbs.twimg.com/profile_images/468754688364802048/rwKwnz_g_400x400.jpeg) | ![realpasro](https://pbs.twimg.com/profile_images/3761557269/797d18c3cf075032a6acffbdb96cb945.jpeg) | ![rsiwady29](https://pbs.twimg.com/profile_images/434762726921887744/_VHiAI9E.jpeg) | ![dcaballeroc](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
 
+Who we are?
+===========================
 
+More coming soon...
 
-Tell us who you are, why you did you decide to join?
+Why we decide to join?
+===========================
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+We love Hackathons and we love coding. 
+More coming soon..
 
+Our skill
+===========================
+- HTML5
+- CSS3
+- Nodejs
+- .NET
+- Angular
+- MongoDB
+- Scrum
+- More coming soon...
 
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+What are we going to do?
+===========================
 
-You can change your mind, that's ok. Just push an update here when you do.
+More coming soon...
 
 
