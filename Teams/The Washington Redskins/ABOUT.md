@@ -14,7 +14,7 @@ Please support us and share your experiences/money with us on our [team page](ht
 [Ethan]: http://i.imgur.com/gR6zSotm.jpg "Eating his signature food, gormeh sabzi"
 [David]: http://i.imgur.com/hKDsoqJm.jpg "Basic"
 [Christian]: http://i.imgur.com/EofphTDm.jpg?1 "at NASA JPL"
-[James]: http://i.imgur.com/eDAjuqzm.jpg "And the Giant Peach"
+[James]: http://i.imgur.com/6WhfoIZm.png?2 "And the Giant Peach"
 [Jake]: http://i.imgur.com/IFEuZNEm.png?2 "Khakis"
 
 `Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde](https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper), an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
