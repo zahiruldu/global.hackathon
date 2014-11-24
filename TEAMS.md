@@ -1,3 +1,36 @@
+This is our page
+================
+
+We are the Koding team, so we are not really participating. But this page is here
+to give you an idea about your own page.
+
+
+About your team
+===========================
+
+| devrim | nitin | sinan | emre
+|--- |--- |--- |---
+| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+
+Tell us who you are, why you did you decide to join?
+
+Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
+Tell us why you want to win.
+
+
+About your skills and what you are going to do?
+=======
+Don't reveal too much about your project, this is a competition but maybe
+you can tell us the technologies, APIs you are going to use and what kind
+of application you are going to build.
+
+You can change your mind, that's ok. Just push an update here when you do.
+
+
+
+
+---------------------------------------
+
 3DPG
 ====
 
@@ -991,39 +1024,6 @@ Thank you for learning a bit about team Iron Squad and CODE ON!
 ![Carter's profile image](https://s.gravatar.com/avatar/97d0a5b32bd1a47dd0c2b6f4baabb97d?s=300)
 
 I like Gameboy Advance games and putting strange Unicode characters in places they shouldn't be and HTML and CSS and Javascript and Infocom text adventures and SuperTuxKart and TeX and C and Lego Mindstorms and U+202E RIGHT-TO-LEFT OVERRIDE and assembly language and GLSL shaders and Blender and installing Linux on things and writing Python scripts to convert things into other things and SQL and the Source engine and making apps for iOS and wiping my hard drive before updating OS X to a new major version and `M-x tetris` and NetHack and Portal and writing long lists of things I like.
-
----------------------------------------
-
-This is our page
-================
-
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
-
-
-About your team
-===========================
-
-| devrim | nitin | sinan | emre
-|--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
-
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
-
-
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
-
-
-
 
 ---------------------------------------
 

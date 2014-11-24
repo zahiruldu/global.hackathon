@@ -105,6 +105,7 @@ gulp.task 'readme', ->
 # ## Generate the TEAMS.md
 gulp.task 'teams', ->
   gulp.src [
+    './Teams/**/TeamKoders/ABOUT.md'
     './Teams/**/ABOUT.md'
   ]
     .pipe concat 'TEAMS.md', newLine: "\n\n#{Array(40).join("-")}\n\n"
