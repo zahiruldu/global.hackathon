@@ -12,13 +12,19 @@
       "name": "Alexander Saldivar",
       "twitter": "",
       "koding": "agsaldivar",
-      "location": "Los Angeles, California, USA"
+      "location": "Los Angeles, US"
     },
     {
       "name": "Adam Lopatko",
       "twitter": "",
       "koding": "traynor",
-      "location": "Zagreb, Croatia"
+      "location": "Zagreb, HR"
+    },
+    {
+      "name": "Dragisa Jevtic",
+      "twitter": "drjevtic",
+      "koding": "drjevtic",
+      "location": "Belgrade, RS"
     }
   ]
 }
