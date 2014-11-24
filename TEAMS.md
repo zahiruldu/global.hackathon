@@ -10,7 +10,7 @@ About your team
 
 | devrim | nitin | sinan | emre
 |--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg' alt='Devrim'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg' alt='Nitin'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg' alt='Sinan'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg' alt='Emre'/> |
 
 Tell us who you are, why you did you decide to join?
 
@@ -93,7 +93,7 @@ About Me
 
 | alaminopu
 |--- |--- |--- |---
-| ![alaminopu](https://avatars1.githubusercontent.com/u/1296554?v=2&s=460) 
+| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/1296554?v=2&s=460' alt='alaminopu'/> 
 
 I am an undergraduate Student. Problem solver, Web application developer, Nix* user, Technology enthusiastic.   
 
@@ -158,7 +158,7 @@ About your team
 
 | sadovnychyi |
 |--- |
-| ![sadovnychyi](https://lh5.googleusercontent.com/-OCr68mindZ0/VAM6AJXjA9I/AAAAAAAAvMk/1KgvWbVnWjA/s1276-no/669fd2663f2911e38d1322000a1fb079_8.jpg) |
+| <img width="100" height="100" src='https://lh5.googleusercontent.com/-OCr68mindZ0/VAM6AJXjA9I/AAAAAAAAvMk/1KgvWbVnWjA/s1276-no/669fd2663f2911e38d1322000a1fb079_8.jpg' alt='sadovnychyi'/> |
 
 There's a lof of places to spend money on Bali...
 
@@ -231,7 +231,7 @@ we are from great place [Chennai, INDIA](https://www.youtube.com/watch?v=VKMyYO2
 
 | Fizer Khan | Yogeswaran | Dheeraj Joshi
 |--- |--- |---
-| ![Fizer Khan](https://avatars3.githubusercontent.com/u/1433380?v=3&s=200) | ![Yogeswaran](https://avatars3.githubusercontent.com/u/1505586?v=3&s=200) | ![Dheeraj Joshi](https://pbs.twimg.com/profile_images/489018856506011648/_3yNhEXD_200x200.jpeg) |
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1433380?v=3&s=200' alt='Fizer Khan'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1505586?v=3&s=200' alt='Yogeswaran'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/489018856506011648/_3yNhEXD_200x200.jpeg' alt='Dheeraj Joshi'/> |
 
 Still thinking about it. But it will surely be something special!
 
@@ -300,7 +300,7 @@ About our team
 
 | Eduardo | Arturo | Andrei
 |--- |--- |---
-| ![Eduardo](https://avatars3.githubusercontent.com/u/690443?v=3&s=200) | ![Arturo](https://pbs.twimg.com/profile_images/1580205013/melenudo_200x200.jpg) | ![Andrei](https://avatars0.githubusercontent.com/u/1467605?v=3&s=200) |
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/690443?v=3&s=200' alt='Eduardo'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1580205013/melenudo_200x200.jpg' alt='Arturo'/> | <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1467605?v=3&s=200' alt='Andrei'/> |
 
 We are all profesional software developers, we love to code so here we are :)
 
@@ -323,10 +323,10 @@ DROP TABLE Contestants
 
 | N     | Member           
 | :---- | :----           
-| 0     | ![Dan](http://zoiz.org/dan.jpg)
-| 1     | ![Lumka](http://zoiz.org/lumka.jpg)
-| 2     | ![Mike](http://zoiz.org/mike.jpg)
-| 3     | ![Aurelia](http://zoiz.org/aurelia.jpg)
+| 0     | <img width="100" height="100" src='http://zoiz.org/dan.jpg' alt='Dan'/>
+| 1     | <img width="100" height="100" src='http://zoiz.org/lumka.jpg' alt='Lumka'/>
+| 2     | <img width="100" height="100" src='http://zoiz.org/mike.jpg' alt='Mike'/>
+| 3     | <img width="100" height="100" src='http://zoiz.org/aurelia.jpg' alt='Aurelia'/>
 
 About Us
 ========
@@ -423,7 +423,7 @@ About Me
 
 | Zak
 |---
-| ![Zak](https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/901953_317480351710823_880912190_o.jpg)
+| <img width="100" height="100" src='https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/t31.0-8/901953_317480351710823_880912190_o.jpg' alt='Zak'/>
 
 I began doing freelance web development in high school, and had become disenchanted with it by the time I reached
 University.  However, after working some co-op positions with some passionate web developers, I gained a appreciation
@@ -470,7 +470,7 @@ Funky Fresh Boyz
 
 More info coming soon...
 
-![Crisboot](http://cortezcristian.com/images/fpo-carousel-imge-4.jpg)
+<img width="100" height="100" src='http://cortezcristian.com/images/fpo-carousel-imge-4.jpg' alt='Crisboot'/>
 
 
 ---------------------------------------
@@ -486,7 +486,7 @@ About your team
 
 | Gerasim |  Why I am here?
 |--- |--- 
-| ![Gerasim](https://photos-3.dropbox.com/t/1/AACUjcWMxCifqTpxL4R_PhRq3rs_R5AhPNI_Gh2s52npEg/12/303000477/jpeg/1024x768/3/1416675600/0/2/gerasim.jpg/3pJi0HVvIutcqMbQ5gxX8YEh3UnvLRA8I_THEV8un94) | I have a cat and it wants to eat everyday. It needs more "Whiskas". I am here to win and do something good for people.
+| <img width="100" height="100" src='https://photos-3.dropbox.com/t/1/AACUjcWMxCifqTpxL4R_PhRq3rs_R5AhPNI_Gh2s52npEg/12/303000477/jpeg/1024x768/3/1416675600/0/2/gerasim.jpg/3pJi0HVvIutcqMbQ5gxX8YEh3UnvLRA8I_THEV8un94' alt='Gerasim'/> | I have a cat and it wants to eat everyday. It needs more "Whiskas". I am here to win and do something good for people.
 
 
 About your skills and what you are going to do?
@@ -540,7 +540,7 @@ About Our Team
 
 | Jumpei | Cherry | 吴昌龙 | Fan
 |--- |--- |--- |---
-| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) |
+| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg' alt='Jumpei'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg' alt='Cherry'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg' alt='吴昌龙'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg' alt='Fan'/> |
 
 
 Jumpei
@@ -572,7 +572,7 @@ About your team
 ===========================
 | Minhaz | Abhinav | Dhruv | Archit
 |--- |--- |--- |---
-| ![Minhaz](https://avatars1.githubusercontent.com/u/3007365?v=3&s=460) | ![Abhinav](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/s960x960/615248_323829101104120_6965169501901928238_o.jpg) | ![Dhruv](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1234196_444894548976706_677806001_n.jpg?oh=0175134380cbec1fef57e412ca9470f1&oe=54D8C465&__gda__=1426991894_053c51ce082a0b1ee150c3ecbe5f690a) | ![Archit](https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1151066_10154023356930570_2452548761872936636_n.jpg?oh=561f7ba9aaa24db02d8099920a509b54&oe=54D78361)
+| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/3007365?v=3&s=460' alt='Minhaz'/> | <img width="100" height="100" src='https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/s960x960/615248_323829101104120_6965169501901928238_o.jpg' alt='Abhinav'/> | <img width="100" height="100" src='https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1234196_444894548976706_677806001_n.jpg?oh=0175134380cbec1fef57e412ca9470f1&oe=54D8C465&__gda__=1426991894_053c51ce082a0b1ee150c3ecbe5f690a' alt='Dhruv'/> | <img width="100" height="100" src='https://scontent-a-lhr.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/1151066_10154023356930570_2452548761872936636_n.jpg?oh=561f7ba9aaa24db02d8099920a509b54&oe=54D78361' alt='Archit'/>
 
 We are four students of **Delhi Technological University, New Delhi**, there is no single reason we love coding (but sure there are many :) its makes our work easier, daily problems interesting, make dull and monotonous tasks hell lot of fun), however we enjoy the way we can use it to solve real world problems. 
 
@@ -623,7 +623,7 @@ About your team
 
 | Matt Huggins |
 |---|
-| ![Matt Huggins](https://avatars3.githubusercontent.com/u/169093) |
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/169093' alt='Matt Huggins'/> |
 
 I've only been a part of one 3-hour hackathon in the past, and I'd like to start
 participating in more.  I have a long history of work, but I'd like to have a
@@ -656,7 +656,7 @@ Our Team
 
 | Kamyar | Mehran
 |--- |--- 
-| ![Kamyar](https://gravatar.com/avatar/478ef9a000a615df6d701cc435312e36?size=143) | ![Mehran](https://gravatar.com/avatar/a8067c4c164eda058858d0ca0da09b84?size=143) |
+| <img width="100" height="100" src='https://gravatar.com/avatar/478ef9a000a615df6d701cc435312e36?size=143' alt='Kamyar'/> | <img width="100" height="100" src='https://gravatar.com/avatar/a8067c4c164eda058858d0ca0da09b84?size=143' alt='Mehran'/> |
 
 We have both studied Computer Science for a while. We believe it's all in the details. The best ideas, with bad implementations, will always go to waste. 
 
@@ -681,7 +681,7 @@ About our team
 
 | anik | karan | atul
 |--- |--- |--- |---
-| ![Anik](https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/l/t1.0-9/15575_3472875760332_364001067_n.jpg?oh=4b499b92f00b1ecb476c27f74046e51b&oe=5510D93E) | ![Karan](http://en.gravatar.com/userimage/36015560/f98b10da748f41de109b102d5e363782.jpg?size=400) | ![Atul](http://oi57.tinypic.com/x53ucl.jpg) |
+| <img width="100" height="100" src='https://scontent-a.xx.fbcdn.net/hphotos-xap1/v/l/t1.0-9/15575_3472875760332_364001067_n.jpg?oh=4b499b92f00b1ecb476c27f74046e51b&oe=5510D93E' alt='Anik'/> | <img width="100" height="100" src='http://en.gravatar.com/userimage/36015560/f98b10da748f41de109b102d5e363782.jpg?size=400' alt='Karan'/> | <img width="100" height="100" src='http://oi57.tinypic.com/x53ucl.jpg' alt='Atul'/> |
 
 We are technofreaks working with new technologies and exploring new and elegant way to give a cutting edge application to this universe.
 
@@ -760,7 +760,7 @@ About your team
 
 | Mona
 |--- 
-| ![Mona](https://avatars1.githubusercontent.com/u/7070418?v=3&u=626d9d4b98f5610a4a714c96f7e857ce217c8182&s=140) |
+| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/7070418?v=3&u=626d9d4b98f5610a4a714c96f7e857ce217c8182&s=140' alt='Mona'/> |
 
 My name is Mona. I've worked as a software developer using C# and .Net framework. I chose to learn python and RoR to develop open source programs.
 
@@ -871,9 +871,9 @@ Hey!! We are a team startups. Launching their startups and help other people to 
 About us.
 ===========================
 
-| Aleksandr Korolev | ![Alexandr](https://pbs.twimg.com/profile_images/437221568356179970/iiJldlEp.jpeg) | Team leader, JavaScript (Node.js, FrontEnd JS, Cordova, WebGL), technical assistance projects (setting servers and services).
+| Aleksandr Korolev | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/437221568356179970/iiJldlEp.jpeg' alt='Alexandr'/> | Team leader, JavaScript (Node.js, FrontEnd JS, Cordova, WebGL), technical assistance projects (setting servers and services).
 |--- |--- |---
-| Amir Tagirov | ![Amir](https://pbs.twimg.com/profile_images/536216627910426624/lOIcllPh.jpeg) | JavaScript coder and page-proofs for web & mobile (Cordova).
+| Amir Tagirov | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/536216627910426624/lOIcllPh.jpeg' alt='Amir'/> | JavaScript coder and page-proofs for web & mobile (Cordova).
 
 
 
@@ -897,7 +897,7 @@ About Us
 
 | Faraz Ahmed | Fraz Ahmed
 |--- |---
-| ![Faraz](http://graph.facebook.com/faraz.ahmed84/picture?type=large) | ![Fraz](http://graph.facebook.com/frazehmad/picture?type=large) |
+| <img width="100" height="100" src='http://graph.facebook.com/faraz.ahmed84/picture?type=large' alt='Faraz'/> | <img width="100" height="100" src='http://graph.facebook.com/frazehmad/picture?type=large' alt='Fraz'/> |
 
 
 Fraz Ahmed
@@ -912,7 +912,7 @@ No regrets, ever.
 
 #About
 
-![Alt text](image.png)
+<img width="100" height="100" src='image.png' alt='Alt text'/>
 
 We're a bunch of high schoolers from Massachusetts, wanting to make a better world in computers.
 
@@ -976,7 +976,7 @@ And here's what we all look like:
 
 Rafik | Mohamed | Ibtissem | Elyes
 ----- |-------- |--------- |------
-![Rafik](https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png)|![Mohamed](TODO) |![IBtissem](https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png) |![Elyes](https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg)
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='TODO' alt='Mohamed'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>
 
 ## So what are we cooking for you?
 
@@ -1006,7 +1006,7 @@ About our team
 
 | Irwin | Cameron | Jennifer | Mike | Projjol
 |--- |--- |--- |---
-| ![Irwin](http://i.imgur.com/1xf5lIl.jpg) | ![Cameron](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10426745_10100487310173638_7677407935971777239_n.jpg?oh=798c5c70ecfcf954b13fc9f2233f3e94&oe=550B920E&__gda__=1423981915_f4bd1f2f225207f0c187e78b9744e97f) | ![Jennifer](https://pbs.twimg.com/profile_images/430394579406163968/habhkRy1.jpeg) | ![Mike](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/1913230_984429184046_1487094217_o.jpg) | ![Projjol](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10678861_10205407304850031_7159509395688039995_n.jpg?oh=3f01f4979db04aae89be179614352a8b&oe=551BA0BD&__gda__=1426977218_762ba5d706ccbdf9dca6bdfd1a4d249f) |
+| <img width="100" height="100" src='http://i.imgur.com/1xf5lIl.jpg' alt='Irwin'/> | <img width="100" height="100" src='https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/10426745_10100487310173638_7677407935971777239_n.jpg?oh=798c5c70ecfcf954b13fc9f2233f3e94&oe=550B920E&__gda__=1423981915_f4bd1f2f225207f0c187e78b9744e97f' alt='Cameron'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/430394579406163968/habhkRy1.jpeg' alt='Jennifer'/> | <img width="100" height="100" src='https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/1913230_984429184046_1487094217_o.jpg' alt='Mike'/> | <img width="100" height="100" src='https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpf1/v/t1.0-9/10678861_10205407304850031_7159509395688039995_n.jpg?oh=3f01f4979db04aae89be179614352a8b&oe=551BA0BD&__gda__=1426977218_762ba5d706ccbdf9dca6bdfd1a4d249f' alt='Projjol'/> |
 
 We decided to join the Hackathon for the opportunity to learn and be a part of a large community. This Hackathon will prove individual skills and ways for us to improve certain areas that we lack. Collaborating with various individuals on similar tasks is a fun and educational way to learn coding as well as building something innovative. 
 
@@ -1021,7 +1021,7 @@ Thank you for learning a bit about team Iron Squad and CODE ON!
 
 # [Carter Sande](https://github.com/cartr)
 
-![Carter's profile image](https://s.gravatar.com/avatar/97d0a5b32bd1a47dd0c2b6f4baabb97d?s=300)
+<img width="100" height="100" src='https://s.gravatar.com/avatar/97d0a5b32bd1a47dd0c2b6f4baabb97d?s=300' alt='Carter's profile image'/>
 
 I like Gameboy Advance games and putting strange Unicode characters in places they shouldn't be and HTML and CSS and Javascript and Infocom text adventures and SuperTuxKart and TeX and C and Lego Mindstorms and U+202E RIGHT-TO-LEFT OVERRIDE and assembly language and GLSL shaders and Blender and installing Linux on things and writing Python scripts to convert things into other things and SQL and the Source engine and making apps for iOS and wiping my hard drive before updating OS X to a new major version and `M-x tetris` and NetHack and Portal and writing long lists of things I like.
 
@@ -1038,7 +1038,7 @@ Please support us and share your experiences/money with us on our [team page](ht
 
 | Ethan | David | Christian | James | Jake
 |--- |--- |--- |--- |---
-| <a href="https://github.com/ethanmad"> ![Ethan] </a> | <a href="https://github.com/dwoldenberg1">![David]</a> | <a href="https://github.com/paralin">![Christian]</a> | <a href="https://github.com/jameslennon321">![James]</a> | <a href="https://github.com/thesafo">![Jake]</a> |
+| <a href="https://github.com/ethanmad"> <img width="100" height="100" src='https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper' alt='Ethan] </a> | <a href="https://github.com/dwoldenberg1">![David]</a> | <a href="https://github.com/paralin">![Christian]</a> | <a href="https://github.com/jameslennon321">![James]</a> | <a href="https://github.com/thesafo">![Jake]</a> |
 
 [Ethan]: http://i.imgur.com/gR6zSotm.jpg "Eating his signature food, gormeh sabzi"
 [David]: http://i.imgur.com/hKDsoqJm.jpg "Basic"
@@ -1046,7 +1046,7 @@ Please support us and share your experiences/money with us on our [team page](ht
 [James]: http://i.imgur.com/6WhfoIZm.png?2 "A day in the life"
 [Jake]: http://i.imgur.com/IFEuZNEm.png?2 "Khakis"
 
-`Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde](https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper), an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
+`Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde'/>, an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
 
 `David` is passionate about teaching others how to 'Kode', as demonstrated by his project, [Koding 4 Kids](http://koding4kids.com). Right now, however, his teaching is on hold until we teach y'all a lesson.
 
@@ -1081,7 +1081,7 @@ About Us
 
 | @jamonek | @the_mystery_one | @MrJones1914
 |--- |--- |---
-| ![jamonek](https://pbs.twimg.com/profile_images/531868003521269761/SEl1Ri5I.jpeg) | ![the_mystery_one](https://pbs.twimg.com/profile_images/520661492153077760/uGelVzez.jpeg) | ![MrJones1914](https://pbs.twimg.com/profile_images/535657314687410176/69ZhigHM.jpeg)
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/531868003521269761/SEl1Ri5I.jpeg' alt='jamonek'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/520661492153077760/uGelVzez.jpeg' alt='the_mystery_one'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/535657314687410176/69ZhigHM.jpeg' alt='MrJones1914'/>
 
 Coming soon..
 
@@ -1104,7 +1104,7 @@ About your team
 
 | kuldip |
 |---|
-| ![kuldippipaliya](http://kuldippipaliya.com/img/author.png) |
+| <img width="100" height="100" src='http://kuldippipaliya.com/img/author.png' alt='kuldippipaliya'/> |
 
 Tell us who you are, why you did you decide to join?
 ======
@@ -1175,16 +1175,16 @@ About your team
 
 | lkalneus | rodionovd | dangreen
 |--- |--- |---
-| ![lkalneus](https://pbs.twimg.com/profile_images/378800000809504640/35d96634830116713a8640a3d802e982_400x400.jpeg) | ![rodionovd](https://pbs.twimg.com/profile_images/478579613396774912/GU0hy_c8_400x400.jpeg) | ![dangreen](https://pbs.twimg.com/profile_images/479266653025226752/Ufa20suY_400x400.jpeg) |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000809504640/35d96634830116713a8640a3d802e982_400x400.jpeg' alt='lkalneus'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/478579613396774912/GU0hy_c8_400x400.jpeg' alt='rodionovd'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479266653025226752/Ufa20suY_400x400.jpeg' alt='dangreen'/> |
 
 
 
 Hi all!
 We are three ordinary tech-guys from far Siberia (http://goo.gl/pN8DgP); It's -35 outside the office, so we've prepared mulled wine and energy drinks to code non-stop for these two days. 
-![Novosibrisk. Siberia](http://ak.picdn.net/shutterstock/videos/3366422/preview/stock-footage-seat-bench-covered-with-frost-near-the-street-novosibirsk-russia.jpg)
+<img width="100" height="100" src='http://ak.picdn.net/shutterstock/videos/3366422/preview/stock-footage-seat-bench-covered-with-frost-near-the-street-novosibirsk-russia.jpg' alt='Novosibrisk. Siberia'/>
 
 By the way, we will be online with you from the last floor of this beautiful office building :-P
-![Our office for these two days](http://i.imgur.com/Sxu9XCY.jpg)
+<img width="100" height="100" src='http://i.imgur.com/Sxu9XCY.jpg' alt='Our office for these two days'/>
 
 So, we inspired by challenges, especial if they are global :) We belevie that global cooperation will make this World better. Also we believe in "Learning By Doing" concept. It will be our pleasure to spend these weekends with you!
 
@@ -1268,7 +1268,7 @@ We have an idea
 
 | Stoyan | Desi
 |--- |--- 
-| ![strachev](https://avatars2.githubusercontent.com/u/3617358?v=3&s=460) | ![sishub](https://avatars2.githubusercontent.com/u/8769723?v=3&s=460) | 
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3617358?v=3&s=460' alt='strachev'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/8769723?v=3&s=460' alt='sishub'/> | 
 
 
 
@@ -1308,7 +1308,7 @@ My Team
 
 | Andrew 
 |--- 
-| ![Andrew](http://satyamediagroup.com/images/team/drew_sang.jpg) | 
+| <img width="100" height="100" src='http://satyamediagroup.com/images/team/drew_sang.jpg' alt='Andrew'/> | 
 
 
 Skills and intended project
@@ -1365,7 +1365,7 @@ This is our page
 ================
 | manohar |
 |--- |
-| ![Manohar](https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg) |
+| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg' alt='Manohar'/> |
 
 Tell us who you are, why you did you decide to join?
 

@@ -88,6 +88,32 @@ format_json = (data, filepath) ->
   # Return the final output
   output
 
+# ## Tap Teams
+# Modify the markdown of the teams (brute forcing currently)
+tap_teams = (file, t) ->
+  markdown = file.contents.toString()
+  # Example string:   ![Alt Text](source.jpg)
+  # Expected groups:   (Alt Text)(source.jpg)
+  image_regex = ///
+    !\[(        # Match opening alt text, with group for text
+    [\w\W^\]]   # Any character that's not a closing bracket
+    *?          # Zero or more times, non-greedy
+    )\]         # Closing alt text, close group
+    \((         # Opening paren, and open group
+    [\w\W^\)]   # Any character that's not a closing paren
+    *?          # Zero or more times, non-greedy
+    )\)         # Closing paren, closing group
+  ///g
+
+  while match = image_regex.exec markdown
+    [orig, alt, source] = match
+    # Need to eventually escape alt and source
+    replaceWith = "<img
+      width=\"100\" height=\"100\"
+      src='#{source}' alt='#{alt}'/>"
+    markdown = markdown.replace orig, replaceWith
+
+  file.contents = new Buffer markdown
 
 
 # ## Generate the readme from the template and team json files
@@ -108,6 +134,7 @@ gulp.task 'teams', ->
     './Teams/**/TeamKoders/ABOUT.md'
     './Teams/**/ABOUT.md'
   ]
+    .pipe tap tap_teams
     .pipe concat 'TEAMS.md', newLine: "\n\n#{Array(40).join("-")}\n\n"
     .pipe gulp.dest './'
 
