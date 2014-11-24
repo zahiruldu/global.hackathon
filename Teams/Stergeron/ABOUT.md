@@ -11,7 +11,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 #Team
 
 ###William Tan
- > William carried his team to 113th place out of the 3000 teams there were at PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, and Axe. He is a GNU and Linux enthusiast, and specializes in computer security.
+ > William has been coding and using GNU and Linux since 6th grade. This year, he carried his team to 113th place out of the over 3000 teams there were at PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, C, and Axe. He is a GNU and Linux enthusiast, and specializes in computer security.
 
 ###Max Krieger
 
