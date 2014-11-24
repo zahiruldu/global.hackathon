@@ -11,7 +11,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 #Team
 
 ###William Tan
- > William is a senior in high school and has been coding and using GNU and Linux for 6 years. He is head of Software Development for his First Tech Challenge Robotics team. He is also Head of Technology for his school's Physics Club. This year, he carried his team to 113th place out of the over 3000 teams competing in PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, C, and Axe. He is a GNU and Linux enthusiast, and specializes in computer security.
+ > William, senior in high school, has been coding and using GNU and Linux for 6 years. Some people call him insane for using GNU and Linux exclusively, taping his webcams, and password protecting his hacked up calculator. He is head of Software Development for his First Tech Challenge Robotics team and also Head of Technology for his school's Physics Club. This year, he carried his team to 113th place out of the over 3000 teams competing in PicoCTF, a computer security challenge. He knows Python, Java, Lua, Javascript, C, Axe, and dabbles in dozens of other languages. He specializes in computer security, GNU and Linux, and servers.
 
 ###Max Krieger
 
