@@ -1,17 +1,17 @@
 254Coders
+=========
+
+We are `254Coders`, a team from Nairobi, KE ready to crush the competition!
+
+The Team
+========
+
+
+| [Julius](https://github.com/njmwas) | [Salama](https://github.com/aksalj) |
+| ----------------------------------- | ----------------------------------- |
+| ![Julius](http://ntaftie.com/myportfolio/images/me.png) | ![aksalj](https://avatars0.githubusercontent.com/u/2534772?v=3&s=300) |
+
+
+Skills and Project
 ==================
-
-We are the 254Coders a team of 5 ready to make a mark on the globe.
-
-About the team
-=================
-
-Here are some of the team members, more are coming
-
-| Julius | 
-| ----- |
-| ![Julius](http://ntaftie.com/myportfolio/images/me.png) |
-
-Our Skills and Project
-=======================
-We are still brainstoming on which project to hack on but we are optimistic that what we will come up with will be great
+We are still brainstoming...
