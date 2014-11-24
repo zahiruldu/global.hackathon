@@ -10,7 +10,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 *TEAM*
 
-‘William Tan’
+`William Tan`
  * Carried team ▲ ▲ ▲ to 113th place in PicoCTF
  * Knows Python, Java, Lua, Javascript, Axe
  * GNU+Linux enthuisiast
