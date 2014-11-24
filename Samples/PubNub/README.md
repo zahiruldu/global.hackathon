@@ -22,7 +22,11 @@ PUBNUB.subscribe({ channel: 'chat', callback: function(m){console.log(m)}});
 
 Super easy!
 
-## So, What is PubNub?
+## Debugging using PubNub Console
+
+Go to [Console][console], and enter your channel name (for this example demo, *mchat*), and your subscribe/publish keys to see if your code is sending and receiving data to/from PubNub service correctly! 
+
+## OK, So What is PubNub?
 
 PubNub is a globally distributed *data stream* network, a cloud service that developers use to build and scale real-time applications. We connect to over 250 million devices with billions of monthly real-time transactions for financial services, social apps, online auctions, multi-player games, telecom infrastructure, retail apps etc. PubNub also enables many Internet of Things (IoT) solutions for home automation, connected cars, retail, transportation and many others.
 
@@ -34,3 +38,4 @@ Happy hacking :-)
 [Demo]: http://pubnub.github.io/super-simple-chat/index.html
 [pubnub]: http://www.pubnub.com/docs/javascript/javascript-sdk.html
 [dev]: http://www.pubnub.com/developers/
+[console]: http://www.pubnub.com/console/
