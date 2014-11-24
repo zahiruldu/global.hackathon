@@ -19,7 +19,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 ###Dianne Lee
 
-> Dianne is a dreamer, a wisher, a reader, a writer, a soccer player, a journalist, and a coder. As captain of her high school's math team and founder of the Needham Chapter of Girls Who Code Clubs, she is passionate about encouraging interest in STEM. She pursues journalism as editor in chief of her school newspaper and writing for her local paper, with a special interest in the increasing shift towards digital in the publication industry. Dianne's favorite languages are Latin and Java.
+> Dianne is a dreamer, a wisher, a reader, a writer, a soccer midfielder, a journalist, and a coder. As captain of her high school's math team and founder of the Needham Chapter of Girls Who Code Clubs, she is passionate about encouraging interest in STEM. She pursues journalism as editor in chief of her school newspaper and writing for her local paper, with a special interest in the increasing shift towards digital in the publication industry. Dianne's favorite languages are Latin and Java.
 
 ###Nick Hluska
 
