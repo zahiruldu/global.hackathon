@@ -3,6 +3,8 @@
 We are five high-school students from Los Angeles, only one of whom actually plays football.
 Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Episode 1)](http://southpark.cc.com/full-episodes/s18e01-go-fund-yourself) and we in no other way affiliated with the National Football League team of the same name.
 
+Please support us and share your experiences/money with us on our [team page](https://www.facebook.com/thewashingtonredskinshack)!
+
 ## About our team
 
 | Ethan | David | Christian | James | Jake
@@ -12,7 +14,7 @@ Our name was inspired by South Park episode ["Go Fund Yourself" (Season 18, Epis
 [Ethan]: http://i.imgur.com/gR6zSotm.jpg "Eating his signature food, gormeh sabzi"
 [David]: http://i.imgur.com/hKDsoqJm.jpg "Basic"
 [Christian]: http://i.imgur.com/EofphTDm.jpg?1 "at NASA JPL"
-[James]: http://i.imgur.com/eDAjuqzm.jpg "And the Giant Peach"
+[James]: http://i.imgur.com/6WhfoIZm.png?2 "A day in the life"
 [Jake]: http://i.imgur.com/IFEuZNEm.png?2 "Khakis"
 
 `Ethan`'s experience lies primarily with Java, although he has dabbled in and is learning other languages. He has published two applications: [En Garde](https://play.google.com/store/apps/details?id=com.ethanmad.fencingscorekeeper), an Android fencing score-keeping app, and [HyperTyper](http://ethanmad.com/HyperTyper), a Chrome extension that helps (cheats) in online typing competitions. He has little experience with the Web outside of static websites, so he is looking to learn a lot with The Washington Redskins.
