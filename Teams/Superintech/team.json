@@ -1,0 +1,20 @@
+{
+    "teamName": "Superintech",
+    "members": [
+	{
+	    "name": "Vijayinder Singh",
+	    "koding": "vijayinder",
+	    "github": "panaah",
+        "twitter": "thakurvj23",
+	    "location": "Chandigarh, IN",
+	    "lead": true
+	},
+    {
+      "name": "Swapnil Samfrancisco",
+	    "koding": "neal7969",
+	    "twitter": "neal7969",
+	    "location": "Chandigarh, IN",
+    }
+    ]
+    
+}
