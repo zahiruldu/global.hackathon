@@ -1,0 +1,36 @@
+{
+  teamName: "Birmingham.IO",
+  members: [
+    {
+      name: "Daniel Hollands",
+      twitter: "limeblast",
+      koding: "limeblast",
+      location: "Birmingham, UK",
+      lead: true
+    },
+    {
+      name: "Omar Qureshi",
+      twitter: "omarqureshi",
+      koding: "",
+      location: "Birmingham, UK"
+    },
+    {
+      name: "Tajinder Singh",
+      twitter: "TajinderSD",
+      koding: "",
+      location: "Birmingham, UK"
+    },
+    {
+      name: "Will Parker",
+      twitter: "",
+      koding: "",
+      location: "Birmingham, UK"
+    },
+    {
+      name: "",
+      twitter: "",
+      koding: "a9261",
+      location: ""
+    }
+  ]
+}
