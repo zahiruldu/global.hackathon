@@ -6,7 +6,7 @@ We are a team of designers & developers with a strong focus on providing the bes
 We are well known for: 
 BEAUTIFUL DESIGNS  |  PERFECT CODING  |  ENSURED TRUST
 
-About Superintech
+About Us
 ===========================
 
 | Vijayinder Singh | Swapnil Samfrncisco
