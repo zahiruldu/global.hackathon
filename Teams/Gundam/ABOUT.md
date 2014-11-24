@@ -1,5 +1,8 @@
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
+<p align="center">
+  <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
+</p>
 
 Hello, we are a team mostly from Japan (Tokyo), except for one of us, Fan, that I would like to call "Fan Fan". Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
 
