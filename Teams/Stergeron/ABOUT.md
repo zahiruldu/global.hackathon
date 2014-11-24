@@ -15,7 +15,7 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 
 ###Max Krieger
 
-> Max has been doing web development for the past three years, both for fun and for some clients. His projects include [Tabmaster](https://chrome.google.com/webstore/detail/tabmaster/pojgemmobcnjmnpodjmgeofdgojpkepn), a chrome extension to help better manage your tabs, and [seae](http://a9.io/Steam-Emoticon-Art-Editor/), a utility for people to create their own pixel art out of the emoticons they own on steam. He programs in full stack js, and has experience in other fields such as game design, UI/UX, graphic design, and photography. He is interested in AI, Control Systems, and eSports.  This is his first hackathon, and he is ready.
+> Max has been doing web development for the past three years, both for fun and for some clients. His projects include [Tabmaster](https://chrome.google.com/webstore/detail/tabmaster/pojgemmobcnjmnpodjmgeofdgojpkepn), a Chrome extension to help better manage your tabs, and [seae](http://a9.io/Steam-Emoticon-Art-Editor/), a utility for people to create their own pixel art out of the emoticons they own on steam. He programs in full stack js, and has experience in other fields such as game design, UI/UX, graphic design, and photography. He is interested in AI, Control Systems, and eSports.  This is his first hackathon, and he is ready.
 
 ###Dianne Lee
 
