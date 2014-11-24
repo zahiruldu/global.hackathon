@@ -9,7 +9,7 @@ About the team
 
 | kmiloaguilar | realpasro | rsiwady29 | dcaballeroc
 |--- |--- |--- |---
-| ![kmiloaguilar](https://pbs.twimg.com/profile_images/468754688364802048/rwKwnz_g_400x400.jpeg) | ![realpasro](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![rsiwady29](https://pbs.twimg.com/profile_images/434762726921887744/_VHiAI9E.jpeg) | ![dcaballeroc](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| ![kmiloaguilar](https://pbs.twimg.com/profile_images/468754688364802048/rwKwnz_g_400x400.jpeg) | ![realpasro](https://pbs.twimg.com/profile_images/3761557269/797d18c3cf075032a6acffbdb96cb945.jpeg) | ![rsiwady29](https://pbs.twimg.com/profile_images/434762726921887744/_VHiAI9E.jpeg) | ![dcaballeroc](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
 
 
 Tell us who you are, why you did you decide to join?
