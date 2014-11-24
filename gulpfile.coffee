@@ -90,8 +90,8 @@ format_json = (data, filepath) ->
 
 
 
-
-gulp.task 'run', ->
+# ## Generate the readme from the template and team json files
+gulp.task 'readme', ->
   gulp.src [
     'README.template.md'
     './Teams/**/TeamKoders/team.json'
@@ -101,4 +101,14 @@ gulp.task 'run', ->
     .pipe concat 'README.md', newLine: ''
     .pipe gulp.dest './'
 
-gulp.task 'default', ['run']
+
+# ## Generate the TEAMS.md
+gulp.task 'teams', ->
+  gulp.src [
+    './Teams/**/ABOUT.md'
+  ]
+    .pipe concat 'TEAMS.md', newLine: "\n\n#{Array(40).join("-")}\n\n"
+    .pipe gulp.dest './'
+
+
+gulp.task 'default', ['readme', 'teams']
