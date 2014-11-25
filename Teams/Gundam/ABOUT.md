@@ -16,7 +16,7 @@ About Our Team
 
 | Jumpei | Cherry | 吴昌龙 | Fan | Tommy
 |--- |--- |--- |--- |---
-| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | [Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
+| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | ![Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
 
 
 Jumpei
