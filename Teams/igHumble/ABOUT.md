@@ -1,12 +1,6 @@
-This is our page
+igHumble
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
-
-
-About your team
-===========================
 
 | Owen | Tony | Nick 
 |--- |--- |--- |---
@@ -17,6 +11,7 @@ After working together in a corporate market research company we've since gone o
 
 About your skills and what you are going to do?
 =======
-We're all full stack C#/.NET developers, although we're most likely going to be using a NodeJS backend. We've a fair amount of ecperience with data visualisation so you may see something from us there, although we all love to learn so watch this space.
+
+We're all full stack C#/.NET developers, although we're most likely going to be using a NodeJS backend. We've a fair amount of experience with data visualisation so you may see something from us there, although we all love to learn so watch this space.
 
 
