@@ -11,9 +11,9 @@ Fanさん以外、私たちは日本にいても、Fanさんも日本が好き�
 About Our Team
 ===========================
 
-| Jumpei | Cherry | 吴昌龙 | Fan
+| Jumpei | Cherry | 吴昌龙 | Fan | Tommy
 |--- |--- |--- |---
-| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) |
+| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | [Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
 
 
 Jumpei
@@ -31,3 +31,7 @@ Cherry is an engineering student at the University of Waterloo, and has a lot of
 Fan
 =======
 Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He will be one of the engineers on this team. He also really likes Gundam. [Website](http://thefanzhang.com/)
+
+Tommy
+=======
+Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript.
