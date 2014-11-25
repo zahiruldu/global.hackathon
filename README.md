@@ -20,6 +20,11 @@ the folder with your team name and inside this folder, create two files:
   information merged into the main repo
 * star this repo to show your appreciation (optional)
 
+#### INSTRUCTION FOR FILE `team.json` 
+* Please, don't add extra social ids like facebook, linkedin, etc.
+* Location should be in [CityName], [TwoCharachterCountyCode]
+
+
 We will periodically run a script that will pull your info and populate 
 the lower section of this README.md file.
 
