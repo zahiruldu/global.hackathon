@@ -7,9 +7,9 @@ We are the Random Hackers team.
 About your team
 ===========================
 
-| Dylson | member 2 | member 3
-|--- |--- |--- 
-| ![Dylson](https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png) | ![]() | ![]()
+| Dylson | Ildus | member 3
+|--- |--- |---
+| ![Dylson](https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png) | ![Ildus](https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg) | ![]()
 
 Tell us who you are, why you did you decide to join?
 
