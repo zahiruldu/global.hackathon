@@ -250,6 +250,32 @@ The idea is to create a mesh of the existing public APIs and gather publicly ava
 
 ---------------------------------------
 
+Team Cardboard Coders
+================
+
+We're a team of developers from Bucharest, Romania and we love to code. We're really excited to be a part of this first Global Hackathon and we're sure we'll have a blast.
+
+
+Team Members
+===========================
+
+| Member | Bio
+|:---: |--- 
+| Andrei <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1401901846/me_crop_200x200.jpg' alt='Andrei'/> | <p>Web developer.  I mostly work on the backend part of applications usually in PHP. </p><p>You can get in touch with me on twitter @neamtua.</p> |
+| Khez <img width="100" height="100" src='https://dl.dropboxusercontent.com/u/8039858/khez02.png' alt='Khez'/> | <p>My skills: Not many, you ?</p><p>My job: I am entropy man ! </p><p>My title: Wall.</p>
+| Vlad <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479548892145410048/zdErLGTX_200x200.png' alt='Vlad'/> | "No, thanks."
+
+
+Project
+=======
+We haven't decided yet on what we'll work on. We have so many ideas but we will definitely use PHP and JavaScript for it.
+
+We will update this as soon as we've made up our minds.
+
+
+
+---------------------------------------
+
 ChennaiNerd
 ===========
 
@@ -507,6 +533,33 @@ More info coming soon...
 
 ---------------------------------------
 
+G Force
+================
+
+About your team
+===========================
+
+| Andrea | Marcelo | Juan José
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/469276?v=3&s=460' alt='Andrea'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/9948218?v=3&s=460' alt='Marcelo'/> | <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/914157?v=3&s=460' alt='Juan José'/> |
+
+
+We are young passionate about technology, we grew, and grow in the Net, and around it we have developed our culture. For us working with technologies not only give us job opportunities but pose challenges and satisfactions us: D. We overcome challenges, perform at their best, winning will be the natural consequence of our effort.
+
+We are a team of two programmers and one multimedia communicator. Andrea is based backend Scala developer, passionate about functional programming, her favorite programming language is Haskell, also she has been managing software projects using agile methodologies the last 3 years. Marcelo is the multimedia communicator during the last  4 years he was involved in planning and implementation of Information Technology and Communication; Juan José is a backend Scala developer, Free Software activist, and also does Frontend development sometimes.
+
+
+About your skills and what you are going to do?
+=======
+
+We will use  Scala, Liftweb framework, and maybe MongoDB, Twitter Bootstrap and AngularJS. 
+
+We will maybe work on topics #2 or #3
+
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -564,15 +617,15 @@ Hello, we are a team mostly from Japan (Tokyo), except for one of us, Fan, that 
 
 Although there is an explosion in the popularity of computer science in the United States and such, computer science and engineering is still looked down upon in Japan. Engineers are looked down upon in Japan. We want to change this mindset. If we win, we want to use this opportunity and make it so that all Japanese people will realize the power and potential of coding, computer science, and hackathons!
 
-Fanさん以外、私たちは日本にいても、Fanさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性をきづかせます。
+Fanさん以外、私たちは日本にいても、Fanさんも日本が好きです！アメリカなどでは情報工学はもっと大人気になるのに、日本ではまだ工学部は人気ではありません。私たちはその考えを変えたい。もし勝てば、この機会で全部の日本人に情報工学とハッカソンの力と可能性を気づかせます。 
 
 
 About Our Team
 ===========================
 
-| Jumpei | Cherry | 吴昌龙 | Fan
-|--- |--- |--- |---
-| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg' alt='Jumpei'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg' alt='Cherry'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg' alt='吴昌龙'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg' alt='Fan'/> |
+| Jumpei | Cherry | Fan | Tommy
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg' alt='Jumpei'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg' alt='Cherry'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg' alt='Fan'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg' alt='Tommy'/>
 
 
 Jumpei
@@ -583,13 +636,13 @@ Cherry
 =======
 Cherry is an engineering student at the University of Waterloo, and has a lot of Android and Java experience. She is passionate about Android development, technology, and internet of things. She is currently interning at Microsoft and wants to learn more web development from this hackathon. She will be one of the engineers of this team. She also really likes Gundam. [Website](http://cherryzhang.net)
 
-吴昌龙
-=======
-吴昌龙 is an accomplished software engineer and has earned a Masters degree in computer science at Beijing University of Posts & Telecommunications, and has three years of experience in C++, Linux, web development, and has recently been developing in Ruby. Currently he is working at Rakuten, the largest e-commerce site in Japan, and among the world's largest in sales. He will be one of the engineers on this team. [LinkedIn](https://www.linkedin.com/pub/changlong-wu/7a/614/248)
-
 Fan
 =======
 Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He will be one of the engineers on this team. He also really likes Gundam. [Website](http://thefanzhang.com/)
+
+Tommy
+=======
+Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
 
 
 ---------------------------------------
@@ -810,6 +863,26 @@ We will tell more about us later...
 
 ---------------------------------------
 
+This is our page
+================
+
+|aneel
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/537257527113568256/O1kjC-me_400x400.png' alt='Aneel'/> |
+
+I'm Computer Science Graduate (2013), and I like solving problems.
+
+It's not about winning or losing, it's about facing challenges, learning and solving problems.
+
+About your skills and what you are going to do?
+=======
+Coming soon...
+
+
+
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -837,7 +910,7 @@ This is our page
 We are NUS Technology team. We are very excited to join this Hackathon and we are going to do our best in this contest. If you are reading this page and you are on another team, be ready to fight to win the prize :)
 
 
-About your team
+About our team
 ===========================
 
 We are a group of young and passionate Web developers in Ho Chi Minh City, Vietnam. We are all interested in developing web application using cutting-edge technologies such as HTML5, CSS3, Twitter Bootstrap. Our main framework for developing application would be in Ruby on Rails as we have been using it daily for several years.
@@ -845,7 +918,7 @@ We are a group of young and passionate Web developers in Ho Chi Minh City, Vietn
 This contest is a great opportunity for us to test our limits and bring our skills to a new level. We also want to show to the world what we can do to help solve problems we are facing each day. It is all about ideas and how to turn those ideas into reality, and we want to be part of it.
 
 
-About your skills and what you are going to do?
+About our skills and what we are going to do?
 =======
 
 Our skills: HTML5, CSS3, Javascript, jQuery, BackboneJS, AngularJS, Twitter Boostrap, Ruby on Rails, MySQL, PostgreSQL, MongoDB.
@@ -1079,18 +1152,21 @@ Chakib are Kenshis). But all in all, TNTeam is made of only friends,
 that share a deep love for hacking and love arts.
 
 * `Rafik` and `Mohamed` are Back-End Developers and
-architects. They'll probably will write Clojure and Java.
+architects. They'll probably will write Clojure and Java. `Mohamed` is
+an egg on twitter because he chose to.
 * `Ibtissem` is an experienced Front-End infrastructure engineer,
 though also having her word to say on back-end side of things. She
 knows a couple of things about Clojure, Java, HTML5 and JS.
 * `Elyes` is a promising Web Developer, experienced in designing and
 integrating cool web apps.
+* `Chakib` is the artist of the team. He will create unique AND
+  amazing artwork for our work.
 
 And here's what we all look like:
 
-Rafik | Mohamed | Ibtissem | Elyes
------ |-------- |--------- |------
-<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='TODO' alt='Mohamed'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>
+Rafik | Mohamed | Ibtissem | Elyes | Chakib
+----- |-------- |--------- |------ |--------
+<img width="100" height="100" src='https://pbs.twimg.com/profile_images/458271244425519104/a11j9FTm_400x400.png' alt='Rafik'/>|<img width="100" height="100" src='https://abs.twimg.com/sticky/default_profile_images/default_profile_5_400x400.png' alt='Mohamed'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/519453378078707712/QEduGGT-_400x400.png' alt='IBtissem'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1496394485/photo_400x400.jpg' alt='Elyes'/>|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/1366999478/3am-Ettaher-Hurahara_400x400.jpg' alt='Chakib'/>
 
 ## So what are we cooking for you?
 
