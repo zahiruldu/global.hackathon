@@ -1,6 +1,6 @@
 Random Hackers
 ==============
-[Random Hackers Logo](http://i.imgur.com/wt91X85.png)
+![Random Hackers Logo](http://i.imgur.com/wt91X85.png)
 
 We are the Random Hackers team.
 
