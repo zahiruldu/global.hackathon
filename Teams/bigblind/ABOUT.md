@@ -7,7 +7,7 @@ About your team
 
 | Frederik Creemers
 |--- 
-| ![bigblind](gravatar.com/avatar/5e4575fdaacc879dc2199490417d170a)
+| ![bigblind](http://gravatar.com/avatar/5e4575fdaacc879dc2199490417d170a)
 
 Koding's instructions for writing ABOUT.md tell you to make it emotional and impressive. I find it more important to make it honest. I'm Frederik Creemers, a Belgian web geek. I'm visually impaired. My optic nerves never fully developed, so glasses don't help.
 Because of my impairment, I've always needed the help of technology. In high school, at a point where I was supposed to be doing homework, I started toying around in powerpoint. I found out a feature that allowed you to go to a different slide when the mouse hovered
