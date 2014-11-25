@@ -14,9 +14,9 @@ Fanさん以外、私たちは日本にいても、Fanさんも日本が好き�
 About Our Team
 ===========================
 
-| Jumpei | Cherry | 吴昌龙 | Fan | Tommy
+| Jumpei | Cherry | Fan | Tommy
 |--- |--- |--- |--- |---
-| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![吴昌龙](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/081/2da/294f62e.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | ![Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
+| ![Jumpei](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/06d/198/380d5cd.jpg) | ![Cherry](https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08c/262/22146e7.jpg) | ![Fan](https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/050/1b8/207f073.jpg) | ![Tommy](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/293/05fbee6.jpg)
 
 
 Jumpei
@@ -26,10 +26,6 @@ Jumpei Yamane is an accomplished and experienced manager of various hackathons i
 Cherry
 =======
 Cherry is an engineering student at the University of Waterloo, and has a lot of Android and Java experience. She is passionate about Android development, technology, and internet of things. She is currently interning at Microsoft and wants to learn more web development from this hackathon. She will be one of the engineers of this team. She also really likes Gundam. [Website](http://cherryzhang.net)
-
-吴昌龙
-=======
-吴昌龙 is an accomplished software engineer and has earned a Masters degree in computer science at Beijing University of Posts & Telecommunications, and has three years of experience in C++, Linux, web development, and has recently been developing in Ruby. Currently he is working at Rakuten, the largest e-commerce site in Japan, and among the world's largest in sales. He will be one of the engineers on this team. [LinkedIn](https://www.linkedin.com/pub/changlong-wu/7a/614/248)
 
 Fan
 =======
