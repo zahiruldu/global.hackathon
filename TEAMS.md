@@ -64,6 +64,38 @@ maybe, will be a game ^^.
 
 ---------------------------------------
 
+*720devs*
+
+We're the founders of 720developments.com, as you can see in our webpage, we're a couple that is working with web developments together since we're just 21 years old (and dating since we're just 17). 7 years later since we starting on our own, we are still here, doing the same but in more interesting projects, trying to learn as much as we can in our free time, and trying to travel as much as we can with our budget.
+Also we love to eat, drink good beer (we may start making our own next year) and walk long distances talking about, well, anything, with our 3 little dogs.
+
+*What are we going to do?*
+
+Theme: Problems facing our planet, explained using interactive data visualization.
+We will focus in using an API to gather data about different problematics we're (as humanity) facing in this moment. 
+We're going to try to do so in a simpler manner, so everyone can read clearly what's going on.
+
+We choose that because we think that we are in the era of knowledge, because we have tons of data collected,
+and every year more and more people is accessing to the internet.
+Having companies focusing on getting objective data to show to the people instead of having just a few organizations 
+deciding what information to show us, is a great step to get to a global agreement of how to manage our resources and
+efforts to build a better and more equal world.
+
+Also we think about learning tools, because we believe the future of education is in the web, but we prefer the
+other theme better as we think they're already great tools out there that are doing very good right now.
+
+*Why are we participating?*
+
+Is the first time in a hackaton together, and the reasons are several, 
+I'll enumerate the most important ones:
+1. We have a bit more of time this year, and we think is a fun way to spend a weekend.
+2. We think we're in a good moment as developers to do something great in just 2 days. 
+3. We get surprised by the big amount of APIs out there with awesome information, and is a good excuse to play with them.
+4. We will love to show our work to the great jury, having some chance to get to talk with some of them, is really the great prize of this competition.
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -755,6 +787,29 @@ Our Skills
 
 ---------------------------------------
 
+# KawaiiDesuDevs
+
+We are two high-school students (and maybe the only ones in this hackatoon) from Brazil.
+We decided to get this awful name due to our lack of imagination (actually, we just think we are too hot, and saw a bunch of animes before applying to the event)
+
+## About our team
+
+| Igor | Nivaldo
+|--- |--- 
+| <a href="https://github.com/igormp"> <img width="100" height="100" src='http://projects.wsj.com/buzzwords2014/#p=7|37,33|18|0|||2' alt='Igor] </a> | <a href="https://github.com/masternivas">![Nivaldo]</a>
+
+[Igor]: http://i.imgur.com/Mo0vXrE.jpg?1 "Look how sexy I am"
+[Nivaldo]: http://i.imgur.com/BdojcNV.jpg?1 "Not so sexy as the other one, but ok"
+
+
+We will tell more about us later...
+
+## What we're will create
+
+[Moving forward, it's time to act with 24/7 skillsets and leverage our team paradigms.'/> We actually don't have much of an idea on what to do, but we will get it up sometime.
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -860,6 +915,31 @@ All of the themes given are really interesting. We're still thinking which will 
 
 I know this page is a bit long so here's a sweet potato. :sweet_potato: Sorry for the long post
 
+
+---------------------------------------
+
+
+This is our page
+================
+
+I am RaphaëlTM, a designer, developer and artist located in Halifax Nova Scotia, Canada.
+
+
+About your team
+===========================
+
+| Raph|
+|--- |
+| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/910895?v=3&s=300' alt='Raph'/> |
+
+I like the idea of the challenge of a  hackothon as a psychological space well suited to motivating creativity and productivity.  I'm hoping that helps me come up with something interesting and worthwhile outside the scope of my normal work.
+
+
+About your skills and what you are going to do?
+=======
+I'm interested in both the theme of realtime communication and translation and the theme of problems facing our planet and data visualization.
+
+I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather some other devs/designers and come up with a more concrete idea soon.
 
 ---------------------------------------
 
@@ -1024,6 +1104,12 @@ Thank you for learning a bit about team Iron Squad and CODE ON!
 <img width="100" height="100" src='https://s.gravatar.com/avatar/97d0a5b32bd1a47dd0c2b6f4baabb97d?s=300' alt='Carter's profile image'/>
 
 I like Gameboy Advance games and putting strange Unicode characters in places they shouldn't be and HTML and CSS and Javascript and Infocom text adventures and SuperTuxKart and TeX and C and Lego Mindstorms and U+202E RIGHT-TO-LEFT OVERRIDE and assembly language and GLSL shaders and Blender and installing Linux on things and writing Python scripts to convert things into other things and SQL and the Source engine and making apps for iOS and wiping my hard drive before updating OS X to a new major version and `M-x tetris` and NetHack and Portal and writing long lists of things I like.
+
+---------------------------------------
+
+TeamShog
+=========
+
 
 ---------------------------------------
 
