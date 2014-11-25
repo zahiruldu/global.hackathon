@@ -6,7 +6,7 @@ to give you an idea about your own page.
 
 
 aneel
-|--- |--- |--- |---
+|--- 
 | ![Aneel](https://pbs.twimg.com/profile_images/537257527113568256/O1kjC-me_400x400.png) |
 
 I'm Computer Science Graduate (2013), and I like solving problems.
