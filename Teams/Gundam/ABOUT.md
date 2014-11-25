@@ -37,4 +37,4 @@ Fan is an ambitious engineer at the University of Waterloo, and has been doing f
 
 Tommy
 =======
-Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript.
+Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript. [Facebook](https://www.facebook.com/tommyjungis)
