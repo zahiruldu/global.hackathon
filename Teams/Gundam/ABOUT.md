@@ -1,5 +1,8 @@
 Welcome to GUNDAM team page! ガンダムチームのページへようこそ！
 ================
+<p align="center">
+  <img src="http://www.rapidfiregames.com/sites/default/files/pics/gundammemories/mobile-suit-gundam.jpg"/>
+</p>
 
 Hello, we are a team mostly from Japan (Tokyo), except for one of us, Fan, that I would like to call "Fan Fan". Our team name is called Gundam because we like ガンダム！Gundam/ガンダム is a Japanese giant robot mecha anime series and is very popular.
 
@@ -31,7 +34,10 @@ Cherry is an engineering student at the University of Waterloo, and has a lot of
 Fan
 =======
 Fan is an ambitious engineer at the University of Waterloo, and has been doing front-end web development, and also recently back-end development as well (PHP and MySQL). He will be one of the engineers on this team. He also really likes Gundam. [Website](http://thefanzhang.com/)
+<<<<<<< HEAD
 
 Tommy
 =======
 Tommy just recently started app development and web development, and he has fallen in love with it. He is an engineer at the University of Waterloo, and has learned a lot of languages very quickly, including python, iOS development, html, css, and JavaScript.
+=======
+>>>>>>> 784175de43380cc1ae4cd1ad6cd4a07ed39bc008
