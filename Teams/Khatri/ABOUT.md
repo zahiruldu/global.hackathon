@@ -5,7 +5,7 @@ We are the Koding team, so we are not really participating. But this page is her
 to give you an idea about your own page.
 
 
-aneel
+|aneel
 |--- 
 | ![Aneel](https://pbs.twimg.com/profile_images/537257527113568256/O1kjC-me_400x400.png) |
 
