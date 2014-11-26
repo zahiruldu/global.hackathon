@@ -2,8 +2,8 @@ About your team
 ===========================
 
 | marina | sergiy | oleksiy | rudeg | yurk
-|--- |---
-| ![Marina](https://avatars0.githubusercontent.com/u/538843?v=3&s=400) | ![Sergiy](https://avatars3.githubusercontent.com/u/925580?v=3&s=460) | ![Oleksiy](https://avatars3.githubusercontent.com/u/2910707?v=3&s=460) | ![Sergii](https://avatars2.githubusercontent.com/u/1915554?v=3&s=400) | [Yurk](https://avatars1.githubusercontent.com/u/4581398?v=3&s=400) 
+|--- |--- |--- |--- |--- 
+|![Marina](https://avatars0.githubusercontent.com/u/538843?v=3&s=400) | ![Sergiy](https://avatars3.githubusercontent.com/u/925580?v=3&s=460) | ![Oleksiy](https://avatars3.githubusercontent.com/u/2910707?v=3&s=460) | ![Sergii](https://avatars2.githubusercontent.com/u/1915554?v=3&s=400) | [Yurk](https://avatars1.githubusercontent.com/u/4581398?v=3&s=400) 
 
 We all live in the same city and know each other personally, but never tried
 to work together... So why not try?  After all, who would resist opportunity
