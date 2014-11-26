@@ -9,4 +9,4 @@ We are Kuzma and Vadim, we like both hacking and games, and we believe it's some
 
 ## Our goals
 
-We love to create and we want to show anybody it can be pleasure to build your own program. Who likes boring lessons? Who likes lessons at all? Let's play and then you realise you can do much more and it's fun!
+We love creativity and we want to show anybody it can be pleasure to build your own program. Who likes boring lessons? Who likes lessons at all? Let's play and then you realise you can do much more and it's fun!
