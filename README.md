@@ -10,7 +10,7 @@ The purpose of this repo is two-fold:
 * for you to share your team details and eventually your final project 
   code with us
 
-#### WATCH THIS VIDEO FOR INSTRUCTIONS
+#### VIDEO INSTRUCTIONS: ADD YOUR TEAM TO THIS REPO
 
 [![INSTRUCTIONS](http://img.youtube.com/vi/fgy05QFD0vw/0.jpg)](http://www.youtube.com/watch?v=fgy05QFD0vw)
 
