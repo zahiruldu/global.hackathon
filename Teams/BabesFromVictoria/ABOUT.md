@@ -18,7 +18,7 @@ Our skills
 =======
 Erika - 3rd year Software Engineering student who loves python, user interaces, and is able to make C cooperate.
 
-Leslie - blurb
+Leslie - 4th year Computer Science student. Co-op experience in cloud computing, database management and front-end design & implementation. 
 
 Quintan - blurb
 
