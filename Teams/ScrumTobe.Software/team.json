@@ -5,32 +5,26 @@
       "name": "Hai Bui",
       "twitter": "haibt@",
       "github": "haibt",
+      "koking": "scrum2b",
       "location": "Hanoi, VN",
       "lead": true
     },
     {
       "name": "Hung Kieu",
       "github": "hungkv",
-      "location": "Hanoi, VN"
-    },
-    {
-      "name": "Tuan Ho",
-      "github": "tuanha",
-      "location": "Hanoi, VN"
-    },
-    {
-      "name": "Long Bui",
-      "github": "builong",
+      "koking": "hungkv",
       "location": "Hanoi, VN"
     },
     {
       "name": "Giang Phan",
       "github": "giangphanthanh",
+      "koking": "giangpt",
       "location": "Hanoi, VN"
     },
     {
       "name": "Thai Nguyen",
       "github": "thainqit",
+      "koking": "thainq",
       "location": "Hanoi, VN"
     }
   ]
