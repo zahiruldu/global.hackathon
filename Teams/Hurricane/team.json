@@ -1,0 +1,30 @@
+{
+  "teamName": "Hurricane",
+  "members": [
+    {
+      "name": "Anushka Sandaruwan Samaranayake",
+      "twitter": "AnushkaSandaru1",
+      "koding": "anushkasandaruwan",
+      "location": "Colombo, SL",
+      "lead": true
+    },
+    {
+      "name": "Grainier Perera",
+      "twitter": "_grainier",
+      "koding": "grainier",
+      "location": "Colombo, SL"
+    },
+    {
+      "name": "Praminda Jayawardana",
+      "twitter": "pramindabj",
+      "koding": "praminda",
+      "location": "Colombo, SL"
+    },
+    {
+      "name": "Yehan Pemarathne",
+      "twitter": "yehancha",
+      "koding": "yehancha",
+      "location": "Colombo, SL"
+    }
+  ]
+}
