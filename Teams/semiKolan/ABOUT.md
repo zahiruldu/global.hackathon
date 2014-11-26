@@ -1,6 +1,6 @@
 # Welcome to team SemiKolan's About Page...
 ## 
-### All the team members in our team are undergraduates at University of Moratuwa
+###### *"Unity is strength... when there is teamwork and collaboration, wonderful things can be achieved."* - _Mattie Stepanek_
 
 
 This is our page
@@ -11,7 +11,7 @@ We are a group of passionate programmers from the beautiful island Sri Lanka. An
 
 
 
-About your team
+About our team
 ===========================
 
 | 12maryam | adw19 | drexonraid | pubudu91 | wik2kassa
