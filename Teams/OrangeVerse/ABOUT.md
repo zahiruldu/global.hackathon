@@ -23,6 +23,7 @@ I'm Vladimir, a [freelancer at oDesk](https://www.odesk.com/users/~01c0d7f151e8f
 I'm happy to see NGINX as partners of this event. 
 
 ![Rodion's Selfie](https://raw.githubusercontent.com/vladignatyev/global.hackathon/master/Teams/OrangeVerse/martynovselfie.jpeg)
+
 Our team is completely virtual and remote. I met Rodion on Twitter few days ago and have never seen him before. He is great and I love to read his code, that's why we hack together at *OrangeVerse*.
 
 'OrangeVerse' is the random name created using [Koding Global Hackathon Team Name Generator](https://vast-cove-6783.herokuapp.com/), which I created a few days before to give the name for our team. :-)
