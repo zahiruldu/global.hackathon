@@ -21,4 +21,4 @@ Since we are not github users, please refer to our projects on bitbucket:
 - [papab](https://bitbucket.org/radekhofman)
 
 ## Project
-We are seeking synergy between computers, science and improvement of life on Earth.
+We are seeking synergy between computers, science and improvement of life.
