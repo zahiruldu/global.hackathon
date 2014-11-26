@@ -1,27 +1,21 @@
 This is our page
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+I am software developer and want to realize my idea in koding hackaton
 
 
-About your team
+About me
 ===========================
 
-| devrim | nitin | sinan | emre
-|--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
 
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+I am 26 and software developer and some monthes ago I found are there any online hackatons. And it was very surprisingly when I didn't find any. 
+But now  I have got a mail from elance with explanation of koding.com hackaton and was very happy to know about it.
+When I registered and was approved for participating I found that first theme (about global problems of the Earth) is very interesting for me.
+I want to make something interesting, beatiful and of course  useful . And I want to win not for the money but for the communication with interesting people.
 
 
-About your skills and what you are going to do?
+About my skills
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+I think that programming is general skill. But of course there must be the platform where a programmer realizes his ideas.And 
+nowadays I am focusing on web projects. I program on C# for ASP.NET /MVC/WebApi platforms, Javascript (jQuery and Angular.js mainly) for frontend. And I love alghoritms and especially I  like machine learning and big data, and using for it Python (May be I will move to that language in future :) )
 
-You can change your mind, that's ok. Just push an update here when you do.
