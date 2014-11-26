@@ -5,7 +5,8 @@
       "name": "Isaac Rowe",
       "twitter": "Isaac_rowe1",
       "koding": "irowe",
-      "location": "Lexington, US"
+      "location": "Lexington, US",
+	"lead" : "true"
     },
     {
       "name": "Joel Ewing",
