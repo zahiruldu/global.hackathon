@@ -8,7 +8,7 @@ We are a team of developers from the Philippines. We studied Computer Engineerin
 Now each of us are working in different fields of Software development. We built this team to make our own start up Company,as of now we are just getting simple projects. We already have used many different languages in our projects. Mostly our Projects are Desktop Application, but we are also used in creating Web applications and Mobile Apps. 
 
 
-| Nehto | MaiLin | Al | Del
+| Nehto | Mai Lin | Al | Del
 |--- |--- |--- |---
 | <a href="https://github.com/JohnKenneth/"> ![Nehto] </a> | <a href="https://github.com/mnbayan">![MaiLin]</a> | <a href="https://www.facebook.com/CentCoE18">![Al]</a> | <a href="https://www.facebook.com/Redel.E">![Del]</a> |
 
