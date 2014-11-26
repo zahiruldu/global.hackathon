@@ -14,6 +14,8 @@ The purpose of this repo is two-fold:
 
 [![INSTRUCTIONS](http://img.youtube.com/vi/fgy05QFD0vw/0.jpg)](http://www.youtube.com/watch?v=fgy05QFD0vw)
 
+#### OR CONTINUE READING
+
 Fork this repo and add a new folder in the existing "teams" folder. Name 
 the folder with your team name and inside this folder, create two files:
 * team.json (see [example file](https://github.com/koding/global.hackathon/blob/master/Teams/TeamKoders/team.json) for details)
