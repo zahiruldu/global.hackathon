@@ -10,7 +10,7 @@ About
 
 | Dylson | Ildus | Jenthebest
 |--- |--- |---
-| ![Dylson](https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png) | ![Ildus](https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg) | ![Jenthebest](https://pbs.twimg.com/profile_images/537042120821862401/X37nkZ0U_bigger.png)
+| ![Dylson](https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png) | ![Ildus](https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg) | ![Jenthebest](https://pbs.twimg.com/profile_images/537042120821862401/X37nkZ0U_400x400.png)
 
 We're still gathering.
 
