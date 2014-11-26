@@ -389,6 +389,27 @@ Python for sure!
 
 ---------------------------------------
 
+Birmingham.IO
+===========================
+
+This team is made up of members of [Birmingham.IO](http://birmingham.io/), a community forum aimed at the tech industry in Birmingham.
+
+About your team
+===========================
+
+| [Daniel Hollands](https://talk.birmingham.io/users/limeblast/activity)                      | [Omar Qureshi](https://talk.birmingham.io/users/omarqureshi/activity)                            | [Tajinder Singh](https://talk.birmingham.io/users/tajindersd/activity)                | [Will Parker](https://talk.birmingham.io/users/wprk/activity)                       | [Ping-Yuan 'Aaron' Chang](https://talk.birmingham.io/users/king_jk/activity)              |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| <img width="100" height="100" src='https://talk.birmingham.io/user_avatar/talk.birmingham.io/limeblast/120/2.png' alt='limeblast'/> | <img width="100" height="100" src='https://talk.birmingham.io/user_avatar/talk.birmingham.io/omarqureshi/120/13.png' alt='omarqureshi'/> | <img width="100" height="100" src='https://talk.birmingham.io/user_avatar/talk.birmingham.io/tajindersd/120/101.png' alt=''/> | <img width="100" height="100" src='https://talk.birmingham.io/user_avatar/talk.birmingham.io/wprk/120/215.png' alt='wprk'/> | <img width="100" height="100" src='https://talk.birmingham.io/user_avatar/talk.birmingham.io/king_jk/120/255.png' alt='king_jk'/> |
+
+
+About your skills and what you are going to do?
+===========================
+
+Right now, we don't have a clue, but I'm hoping inspiration will hit soon. Watch this space.
+
+
+---------------------------------------
+
 We are The Black Rabbits
 ================
 Why do we want to join the competition and what do we have to bring? 
@@ -1462,6 +1483,19 @@ as3
 
 ---------------------------------------
 
+About your team
+===========================
+
+We are experienced software professional, with business and marketing skill, specialized in web application development. As we had developed not only highly scalable web application with social media integration to support millions of user but also enterprise grade financial application, we would like to apply our experiences and knowledges into innovative idea by accepting the global hackathon chanllenge.
+
+About your skills and what you are going to do?
+=======
+
+We are good at most of the common web application languages such as NodeJs, PHP, J2EE, ASP.NET and varity of javascript libraries and frameworks such as Jquery and AngularJs. 
+We are going to implement an interesting game to introduce software development for a new comer.
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -2040,6 +2074,48 @@ Plans
 =======
 Expertise in C#, Java, Web and API integrations. I defiantly will work with theme # 1
 
+
+---------------------------------------
+
+Team Arcoiris
+================
+
+We are a part of small company called Arcoiris Labs owned by Amey Kshirsagar. Indraneel Potnis is a friend and works privately for a firm in India and he is happy to help us in this competition. We know each other from our school days. We are very creative about our ideas and know how to achieve a soft spot in innovation and creativity.
+
+About your team
+===========================
+
+| ameyhk | Indraneelpotnis | 
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/527805270932480001/QHlq9h19_400x400.jpeg' alt='ameyhk'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479328653931593729/oIb1pzTV_reasonably_small.jpeg' alt='Indraneelpotnis'/> | 
+
+*Why are we participating?*
+We simply love to be challenged. Our team is a mixture of creativity and freedom of thinking in technical world. We are open to all kinds of technology and we have some impressive research going on these days in the field of mobile security and scaling. Simplicity is the ultimate sophistication is what we have always beleived and we will try to make you believe from our work. 
+
+We would love to win this competition to fund our research and release our vision to general public for free of cost. 
+
+
+Skills:
+ * HTML5
+ * CSS3
+ * JS
+ * PHP
+ * Java
+ * MySQL
+ * MongoDB
+ * Python
+ * Socket Programming
+ * REST-API
+ * NodeJS
+ * Intel Appframework
+ * JQuery
+
+=======
+Project
+
+We will be writing a real-time translator using SPA architechture and it is going to implement a new way of showing notifications which has been never implemented till now.
+
+---------------------------------------
 
 ---------------------------------------
 
