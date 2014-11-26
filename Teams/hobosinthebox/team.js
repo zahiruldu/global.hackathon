@@ -18,8 +18,7 @@
       "name": "morris",
       "twitter": "",
       "koding": "",
-      "location": "Berlin, DE",
-      "lead": true
+      "location": "Berlin, DE"
     }
   ]
 }
