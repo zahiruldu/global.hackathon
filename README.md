@@ -10,7 +10,9 @@ The purpose of this repo is two-fold:
 * for you to share your team details and eventually your final project 
   code with us
 
-#### DO THIS NOW!
+#### WATCH THIS VIDEO FOR INSTRUCTIONS
+
+[![INSTRUCTIONS](http://img.youtube.com/vi/fgy05QFD0vw/0.jpg)](http://www.youtube.com/watch?v=fgy05QFD0vw)
 
 Fork this repo and add a new folder in the existing "teams" folder. Name 
 the folder with your team name and inside this folder, create two files:
