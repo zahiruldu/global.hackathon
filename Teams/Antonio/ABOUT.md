@@ -22,7 +22,7 @@ Looking forward when the koding battle begins... And let the strongest to win!
 -- [Twitter Bootstrap](http://getbootstrap.com/2.3.2/) (honestly didn't use, but want to try (!) )  
 
 -- and Java (I know it is completely different from PHP, but since I tried it, I really liked it. Although I'm not going 
-to use it for the Hackathon, because don't have enough XP fro that.)
+to use it for the Hackathon, because don't have enough XP for that.)
 
 ## About my project
 
