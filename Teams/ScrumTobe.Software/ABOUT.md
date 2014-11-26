@@ -7,7 +7,7 @@ We provide services to build the Software systems like E-commerce, CMS, CRM, SNS
 About Our Team
 ===========================
 
-| HaiBT | HungKV | TuanHA | GiangPT | LongBH | ThaiNQ |
+| HaiBT | HungKV | GiangPT | ThaiNQ |
 |--- |--- |--- |--- |--- |---
 | ![HaiBT](https://avatars3.githubusercontent.com/u/154286?v=3&s=460) | ![HungKV](https://avatars2.githubusercontent.com/u/2276767?v=3&s=460) | ![GiangPT](https://avatars0.githubusercontent.com/u/7134388?v=3&s=460) | ![ThaiNQ](https://avatars3.githubusercontent.com/u/8359014?v=3&s=460) |
 
