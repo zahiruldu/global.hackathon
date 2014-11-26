@@ -41,6 +41,7 @@ We can do a variety of things but our main focus resides within the web.
 * PHP *(If we HAVE to)*
 * JAVA
 * C/C++
+* Golang
 * Python
 * and more!
 
