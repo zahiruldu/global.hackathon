@@ -14,11 +14,10 @@ Here are some projects on which we participated:
 - [Cru.do](http://cru.do)
 - [Edicio.us](http://edicio.us)
 - [Quicklook](https://bitbucket.org/radekhofman/quicklook/overview)
-- 
 
 As we are not using githup here are out repositories on bitbucket:
 
-- [krablak](https://bitbucket.org/radekhofman)
+- [krablak](https://bitbucket.org/krablak)
 - [papab](https://bitbucket.org/radekhofman)
 
 ## Project
