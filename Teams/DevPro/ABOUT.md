@@ -14,6 +14,17 @@ saifulapm
 
 OUR SKILLS
 =======
-# PHP
-# Javascript
-# Ruby
+ * HTML5
+ * CSS3
+ * JS
+ * PHP
+ * Laravel
+ * Codeigniter
+ * MySQL
+ * SQlite
+ * Python
+ * Flask
+ * REST-API
+ * NodeJS
+ * AngularJS
+ * JQuery
