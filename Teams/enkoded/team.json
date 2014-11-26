@@ -1,0 +1,18 @@
+{
+  "teamName": "enkoded",
+  "members": [
+    {
+      "name": "Oleksiy Syvokon",
+      "twitter": "",
+      "koding": "alexsivokon",
+      "location": "Kharkiv, UA",
+      "lead": true
+    },
+    {
+      "name": "Sergey Podgurskiy",
+      "twitter": "",
+      "koding": "wulf",
+      "location": "Kharkiv, UA"
+    }
+  ]
+}
