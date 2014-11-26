@@ -1,12 +1,6 @@
 {
   "teamName": "Team Koders",
   "members": [
-    {
-      "name": "Full Name",
-      "twitter": "twitter acct no @",
-      "koding": "koding username",
-      "location": "city, 2 digit country code"
-    },
     {"name":"Elise A. Ralph",
     "twitter": "wiseeddy",
     "koding":"wise-eddy",
