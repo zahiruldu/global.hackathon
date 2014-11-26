@@ -21,7 +21,7 @@ I also love being creative and developing all kinds of stuff.
 [crypticman]
 hardworking coder and designer, love to customize stuff.
 
-About your skills and what you are going to do?
+About our skills
 =======
 We're excellent all-around programmers, good in alot of areas, ranging from software design and implementation in a number of programming languages to UX design.
 
