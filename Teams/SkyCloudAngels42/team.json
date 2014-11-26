@@ -5,7 +5,7 @@
       "name": "Bruno Interlandi",
       "twitter": "@binterlandi88",
       "koding": "brunointerlandi88",
-      "location": "Caserta, IT"
+      "location": "Caserta, IT",
       "lead": true
     },
     {
@@ -22,6 +22,6 @@
       "name": "Simion Zafiu",
       "koding": "simi27",
       "location": "Copenaghen, DK"
-    },
+    }
   ]
 }
