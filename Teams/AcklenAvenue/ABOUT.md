@@ -22,11 +22,11 @@ Why we decide to join?
 We love Hackathons and we love coding. 
 More coming soon..
 
-Our skill
+Our skills
 ===========================
 - HTML5
 - CSS3
-- Nodejs
+- NodeJS
 - .NET
 - Angular
 - MongoDB
