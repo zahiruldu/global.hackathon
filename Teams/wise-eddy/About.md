@@ -17,18 +17,19 @@ make sense of the world in beautiful ways.
 Why I want to win
 ===================================
 I have an idea about how to create more beautiful and interactive visualizations of global climate fields 
-(like temperature, or pressure, or vorticity, or ... ) and I want to bring that idea into production for a large audience 
-so they can see for themselves how the global climate has behaved ... and that they can play with the data to draw their 
-own conclusions from them.
+(like surface temperature) and I want to bring that idea into production for a large audience 
+so they can see for themselves how the global climate has behaved, and that they can play with the data to draw their own conclusions from data.
 
 Skills
 ============== 
- javascript | HTML5 | SVG | sed/awk/shell scripts etc | Monte Carlo methods | large climate datasets | visualizations | differential equations | statistics
+- Javascript 
+- HTML5 
+- SVG 
+- sed/awk/shell scripts etc
+- NOAA/NASA APIs for the data
 
 The idea
 =======             
 I'm going to tackle the climate question...by developing a better way to present public datasetes from 
 NOAA and NASA.
-
-                      
 
