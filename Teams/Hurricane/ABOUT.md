@@ -7,7 +7,7 @@ We are bunch of CrAzY developers.
 
 | Anushka | Grainier | Praminda | Yehan
 |--- |--- |--- |---
-| ![Anushka](https://pbs.twimg.com/profile_images/537646278746726400/65s2YpP6.jpeg) | ![Grainier](https://pbs.twimg.com/profile_images/2086027014/4uP53X72) | ![Praminda](https://pbs.twimg.com/profile_images/3048579121/d050957532e5383d5523d6dd7b7561b7.jpeg) | ![Yehan](https://pbs.twimg.com/profile_images/378800000108519312/0edf97424347830cf2abddf31aa8f8ee.jpeg) |
+| ![Anushka](https://media.licdn.com/media/p/7/000/1d0/35e/3b20e07.jpg) | ![Grainier](https://media.licdn.com/media/p/7/005/065/1f8/1abc1c9.jpg) | ![Praminda](https://media.licdn.com/media/p/8/005/075/1df/3fa41b0.jpg) | ![Yehan](https://media.licdn.com/media/p/4/005/06d/2f6/2229270.jpg) |
 
 
 ## Languages we love
