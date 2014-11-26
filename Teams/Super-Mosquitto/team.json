@@ -2,14 +2,8 @@
   "teamName": "Super-Mosquitto",
   "members": [
     {
-      "name": "Full Name",
-      "twitter": "twitter acct no @",
-      "koding": "koding username",
-      "location": "city, 2 digit country code"
-    },
-    {
       "name": "Hristo Hristov",
-      "koding": "interdrift",
+      "koding": "hristo135",
       "location": "Bourgas,BG"
     }
   ]
