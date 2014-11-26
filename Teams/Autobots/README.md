@@ -32,4 +32,5 @@ APIs
 Social
 ------
 
-[Twitter](https://twitter.com/harshjv)
+* [Twitter](https://twitter.com/harshjv)
+* [LinkedIn](https://www.linkedin.com/in/harshjv)
