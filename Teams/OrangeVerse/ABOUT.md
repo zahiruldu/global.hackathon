@@ -17,9 +17,12 @@ About the team
 ===========================
 Our team composed from two tech guys (http://twitter.com/v_ignatyev and http://twitter.com/rmartynov), passionate to build and hack. We are from web-app development background.
 
+![Vladimir's Selfie](https://raw.githubusercontent.com/vladignatyev/global.hackathon/master/Teams/OrangeVerse/lolselfie.jpg)
+
 I'm Vladimir, a [freelancer at oDesk](https://www.odesk.com/users/~01c0d7f151e8f88b99), software developer, entrepreneur and dog breeder (seriously!). Personally I would like to thank Koding and team to give developers from over the world an opportunity for collaboration and communication. 
 I'm happy to see NGINX as partners of this event. 
 
+![Rodion's Selfie](https://raw.githubusercontent.com/vladignatyev/global.hackathon/master/Teams/OrangeVerse/martynovselfie.jpeg)
 Our team is completely virtual and remote. I met Rodion on Twitter few days ago and have never seen him before. He is great and I love to read his code, that's why we hack together at *OrangeVerse*.
 
 'OrangeVerse' is the random name created using [Koding Global Hackathon Team Name Generator](https://vast-cove-6783.herokuapp.com/), which I created a few days before to give the name for our team. :-)
