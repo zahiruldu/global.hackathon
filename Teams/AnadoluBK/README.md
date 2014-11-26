@@ -1,7 +1,7 @@
 
 #AnadoluBK
 
-We are Yusuf, Oğuzhan and Baran.
+We are members of Anadolu University Computer Club.
 
 ##About us
 
