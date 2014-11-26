@@ -7,7 +7,7 @@ we hail from ankara 3 university undergraduates
 About us
 ===========================
 
-| ben | ata | oguz
+| cagdas | ata | oguz
 |--- |--- |--- 
 | ![ben](http://i.imgur.com/puc0MFW.png) | ![atacim](http://i.imgur.com/8upi3Dp.png) | ![oguz](http://i.imgur.com/6UK8sRj.png)
 
