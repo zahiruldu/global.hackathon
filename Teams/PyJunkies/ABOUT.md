@@ -3,7 +3,7 @@
 Bunch of devs addicted to Python.
 
 ## About Us
-We are just long year frieds which are time to time coding together. 
+We are just long year friends which are time to time coding together. 
 
 ![](https://dl.dropboxusercontent.com/u/78826/koding/koding-photos.png)
 
