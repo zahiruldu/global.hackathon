@@ -1,0 +1,24 @@
+{
+  "teamName": "CloudSolvers",
+  "members": [
+    {
+      "name": "Ronoaldo Pereira",
+      "twitter": "ronoaldopereira",
+      "koding": "ronoaldo",
+      "location": "São Paulo, BR",
+      "lead": true
+    },
+    {
+      "name": "Filipe Peixoto",
+      "twitter": "filipenos",
+      "koding": "filipenos",
+      "location": "São Paulo, BR",
+    },
+    {
+      "name": "Gilliard Okano",
+      "twitter": "GilliardOkano",
+      "koding": "gilliard",
+      "location": "São Paulo, KE"
+    }
+  ]
+}
