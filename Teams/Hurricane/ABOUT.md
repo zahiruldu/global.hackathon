@@ -8,7 +8,7 @@ We always are looking for new technologies and new ways to find solutions for re
 
 | Anushka | Grainier | Praminda | Yehan
 |--- |--- |--- |---
-| ![Anushka](https://media.licdn.com/media/p/7/000/1d0/35e/3b20e07.jpg) | ![Grainier](https://media.licdn.com/media/p/7/005/065/1f8/1abc1c9.jpg) | ![Praminda](https://media.licdn.com/media/p/8/005/075/1df/3fa41b0.jpg) | ![Yehan](https://media.licdn.com/media/p/4/005/06d/2f6/2229270.jpg) |
+| ![Anushka](https://media.licdn.com/media/p/7/000/1d0/35e/3b20e07.jpg) | ![Grainier](https://media.licdn.com/media/p/7/005/065/1f8/1abc1c9.jpg) | ![Praminda](https://lh4.googleusercontent.com/-FiYRqsqI2ZQ/AAAAAAAAAAI/AAAAAAAABbg/j2zioUiVNLY/s120-c/photo.jpg) | ![Yehan](https://media.licdn.com/media/p/4/005/06d/2f6/2229270.jpg) |
 
 
 ## Languages we love
