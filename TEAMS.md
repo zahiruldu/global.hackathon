@@ -936,6 +936,20 @@ cyp901 is a professional database developer and architect with a love for coding
 
 ---------------------------------------
 
+About CodeGreen Team
+===========================
+
+| Maurizio | Max | Meni | Dimuthu
+|--- |--- |--- |---
+| <img src="https://pbs.twimg.com/profile_images/536400530075971584/_zOPB12Q_400x400.jpeg" width="200px"/>|<img src="https://pbs.twimg.com/profile_images/536841741039464448/Z8QM0uFh_400x400.jpeg" width="200px"/>| <img width="100" height="100" src='https://lh4.googleusercontent.com/-o6M_83UTvfQ/VHN8Wjl2vRI/AAAAAAAAAFc/p1cziyNrXNo/w849-h848-no/profile_pic.jpg  =400x' alt='Meni'/> | <img width="100" height="100" src='http://oi61.tinypic.com/5p3r6r.jpg  =400x' alt='Dimuthu'/> |
+|CTO at Mylaensys, entrepreneur and globetrotter. Apache Software Foundation fellow  Mentor at the Google Summer of Code 2013 passionate developer.|Max is a traveler and entrepreneur.  An ex-BCGe, he owns his own businesses in Brazil and the US with a focus on quantative modeling, analytics, and tourism. He holds a degree in Operations Research and Financia Engineering from Princeton University.|Software Engineer at AppScale Systems, Inc. Studied Computer Systems Technology at University of Athens, Greece. I like challenge and I'm passionate about writing code and traveling the world.|Computer Engineering Undergraduate at University of Moratuwa - Sri Lanka. Google Summer of Code participant in year 2013 and 2014 with Apache Software Foundation.
+
+
+We are a passionate group of developers, interested in making a difference and determined to help protect the environment by taking small, everyday steps. We look forward to collaborate and create something unique by participating to this challenge
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -1976,6 +1990,25 @@ Our Skills
 
 
 
+
+---------------------------------------
+
+
+Introduction
+================
+
+I am Levi Campbell, I've been developing for several years living in Northeast Colorado, when I'm not coding I love to read, write, and cook. I have experience with and I have experience with Python, Java, C, C++, C#, Common Lisp, PLT Racket, Clojure, Boo, JavaScript, and Haskell.
+
+
+About Team Bad Aces
+===========================
+
+Being blind my whole life, technology has been my window into a world I couldn't see, I got started in te world of software development by writing [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) scripts to make programs work properly. I heard about the hackathon through [Hacker News](https://news.ycombinator.com/item?id=8517846), it sounded like a lot of fun, and I have a few ideas I'd like to work on.
+
+How we are getting to the moon...
+=======
+
+I'll be using AngularJS and WebGL to write the frontend and Java on Google App Engine to persist state.tea
 
 ---------------------------------------
 
