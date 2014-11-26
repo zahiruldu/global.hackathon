@@ -9,7 +9,7 @@ Someone will most probably think that we are some crazy bunch of guys since we f
 
 | Anushka | Grainier | Praminda | Yehan
 |--- |--- |--- |---
-| ![Anushka](https://avatars3.githubusercontent.com/u/2684554?v=3&s=460) | ![Grainier](https://avatars1.githubusercontent.com/u/3824254?v=3&s=460) | ![Praminda](https://avatars2.githubusercontent.com/u/2655553?v=3&s=460) | ![Yehan](https://avatars3.githubusercontent.com/u/2751847?v=3&s=460) |
+| ![Anushka](https://avatars3.githubusercontent.com/u/2684554?v=3&s=460) lk.linkedin.com/in/yehancha| ![Grainier](https://avatars1.githubusercontent.com/u/3824254?v=3&s=460) | ![Praminda](https://avatars2.githubusercontent.com/u/2655553?v=3&s=460) | ![Yehan](https://avatars3.githubusercontent.com/u/2751847?v=3&s=460) |
 
 
 ## Languages we love
