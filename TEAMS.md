@@ -538,6 +538,22 @@ Still thinking about it. But it will surely be something special!
 
 ---------------------------------------
 
+# Coddee Break Team
+
+We are Kuzma and Vadim, we like both hacking and games, and we believe it's sometimes the same thing!
+
+## About us
+
+* *Kuzma* — Being mostly PHP back end web developer recent years, used to code in a variety of languages starting from low-level assemblers to exotic Prolog.
+* *Vadim* — Third year university student, full-stack PHP+HTML+CSS+JS web developer, interested in games.
+
+## Our goals
+
+We love creativity and we want to show anybody it can be pleasure to build your own program. Who likes boring lessons? Who likes lessons at all? Let's play and then you realise you can do much more and it's fun!
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -1507,6 +1523,25 @@ Member of Tech Staffs at Nethram India Innovation Centre. Graduates from Governm
 
 ---------------------------------------
 
+
+# Oldmonks
+
+Coming soon
+
+## About Us
+
+- Ankur
+- Meherzad
+
+## Languages we love
+
+- Java
+- Javascript
+- Sql
+
+
+---------------------------------------
+
 About my team
 ===========================
 I am a Software Engineer with experience of MEAN stack, specialized in back-end web development. I am a citizen of Sri Lanka.
@@ -1673,6 +1708,34 @@ About your skills and what you are going to do?
 I'm interested in both the theme of realtime communication and translation and the theme of problems facing our planet and data visualization.
 
 I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather some other devs/designers and come up with a more concrete idea soon.
+
+---------------------------------------
+
+This is our page
+================
+
+Rhinoceros is a team of one (for now!) eager to participate in Koding Hackathon.
+
+
+About your team
+===========================
+
+| ilim
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1233453249/another_recent.jpg' alt='Ilim'/> |
+
+I am a recent graduate of [Middle East Technical University](http://www.metu.edu.tr/), working at a independent game development company called [Taleworlds Entertainment]. (https://www.taleworlds.com/) Even though I am really interested in the idea, I was not able to participate in more than a couple of hackathons, usually due to the location of most of them being too remote to participate. This one being online is yet another reason that got me excited.
+
+Assignments at school or work may be exciting or educational, but the spontaneity of creativity encouraged in hackathons help get the experience of developing to a whole new level.
+
+I don't think my goal is to win. Rather, it is to produce something that I, and hopefully others as well, would like to make use of.
+
+
+About our skills and what we are going to do?
+=======
+
+The TOS and EULA are one tough nut to crack, but it sure would be fun to tackle it as a weekend project. Any attempt to simplify understanding their coverage would surely require working on the front-end, which would make the implementation part an experimental endeavor to me, as I am more used to working in the back-end. I am still going through the wondrous APIs encouraged, though, and I may end up implementing something based on one (or a few) or them.
+
 
 ---------------------------------------
 
