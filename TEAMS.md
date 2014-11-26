@@ -31,6 +31,11 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
+/////////LOADING/////////
+
+
+---------------------------------------
+
 254Coders
 =========
 
@@ -80,6 +85,28 @@ The goal of my project is to show how simplicity and composability can
 be used to create extensible, scalable, flexible, small, and fast
 software. This corresponds to theme 2 for the hackathon, and there,
 maybe, will be a game ^^.
+
+
+---------------------------------------
+
+
+
+55by19Koders
+
+We are programmers working on our day jobs writing software,web apps, scripts,android apps et al. But there is something about
+writing code that you really want to write, stuff that you try and build ( stuff that you dream off) in your free time.
+This is what we would like to do, doing it in a time constraint environment, so as to have a minimum viable solution working
+in quick time.
+
+What are we going to do?
+
+Theme: Problems facing our planet, explained using interactive data visualization. We love data and how to visualise it, we live in a world
+where increasingly we are collecting data for various purposes, right from selling adverts to doing health research. This hack weekend
+gives us a great opportunity to play with various APIs and build something useful off them.
+
+Why are we participating?
+
+This is our first hackathon per see. We just want to have a blast trying to do stuff , that we really would like to do. Period!
 
 
 ---------------------------------------
@@ -705,6 +732,20 @@ We will update this as soon as we've made up our minds.
 
 ---------------------------------------
 
+# CheapyWay
+
+We are CheapyWay, a young and very active team of web developers.
+
+## Languages we'are going to use
+
+ - HTML
+ - CSS (SCSS)
+ - JavaScript (jQuery)
+ - PHP
+
+
+---------------------------------------
+
 Cheers Page
 ================
 
@@ -1026,6 +1067,33 @@ We will use PHP, Javascript, Google Translate API, Bootstrap and lots of love...
 
 ---------------------------------------
 
+DaAkuMahApa
+================
+
+We are located in [Bandung](https://www.google.com/maps/d/viewer?msa=0&mid=zD0D0WIRzaPM.kvaBDqAutL3Y) Indonesia. We're not professional coders. But we love to code.
+
+Our team
+===========================
+
+| diorahman | irfannurhakim
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/485484703458140160/Tn4WZndf_200x200.jpeg' alt='Dhi'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/508212506066550786/SyImIRFJ_200x200.jpeg' alt='Irfan'/> |
+
+Dhi is a baker at http://rockybars.com, while Irfan is a university student. We're motivated to get involved to push the limit of ourselves, that we can give something to the *universe*!
+
+Dhi loves to code in **c++**, and also **javascript** (who doesn't love javascript?), especially on top of **nodejs**. Dhi has managed to have some [npm modules](https://www.npmjs.org/~diorahman).
+
+Irfan very good in **php**, **html5**, **css** and also **javascript**. He loves to play with frontend thingy.
+
+What you are going to do?
+=======
+We're interested in exploring theme number 1 or 3. We will try to combine the available APIs with our capabilities to deliver suitable app to answer the narrated problems.
+
+
+
+
+---------------------------------------
+
 # DeadWookie #
 
 _TODO: update this page_
@@ -1225,6 +1293,26 @@ Languages :
 
 ---------------------------------------
 
+Team F00 Pill
+================
+
+The name of this group is a reference to Neo taking the red pill "#F00" in The Matrix movie.
+
+
+About Me
+===========================
+
+I'm Ismael Jimenez, and this is a great opportunnity to test my skills.
+
+Languages
+=======
+
+- Javascript
+- Python
+
+
+---------------------------------------
+
 Fire Inside
 ================
 
@@ -1281,19 +1369,19 @@ We're a team of young, innovative developers looking to have fun and do what we 
 About us
 ===========================
 
-| demonic | alex
+| vlad | alex
 |--- |--- |--- |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/422425944070946816/cg2F5NjW_400x400.jpeg' alt='demonic'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1594713657/nightsoul_100x100_400x400.jpg' alt='crypticman'/> |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/422425944070946816/cg2F5NjW_400x400.jpeg' alt='vlad'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1594713657/nightsoul_100x100_400x400.jpg' alt='alex'/> |
 
 We saw an opportunity to develop something nice, boost our skills and be part of a new and innovative competition. We're primarily looking to have fun and turn some coffee into some high quality code.
 
-[demonic]
+[vlad]
 I have been developing websites and web applications for 12 years. I am currently developing and coordinating development of Enterprise applications and services.
 From a technical point of view, I have a great understanding and knowledge of Object Oriented Programming and Design Patterns, integration mechanisms and communication formats. I have worked with a number of different languages on different platforms. I'm currently interested in and developing Cloud and BigData-based solutions.
 I love Linux (specifically Debian, Ubuntu and Android) and I use it everyday, both on the desktop and on the server.
 I also love being creative and developing all kinds of stuff.
 
-[crypticman]
+[alex]
 hardworking coder and designer, love to customize stuff.
 
 About our skills
@@ -1494,6 +1582,30 @@ Pretty much my first hackathon, looking forward to having a good time..
 
 ---------------------------------------
 
+This is our page
+================
+
+Hey Mate! Let me present you the super duper extra megantastic geekomatic **Hack Lenotta Team!** (Badum Cha!)
+
+About your team
+===========================
+
+| Edoardoo | Baldarn 
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000628549804/0fa3b62a9437d0d6271ffa893c59453c_400x400.png' alt='Edoardoo'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000849480405/be5e58e35437e4ee5154010d0031e696_400x400.jpeg' alt='Baldarn'/>|
+
+We are a two friends, **Edoardo Odorico (edoardoo)** and **Lorenzo Farnararo (baldarn)** from Florence, Italy. We studied both engineer. While we were studying we joined our University Open Source Software Lab, LILiK, where we developed our coding and unix skills, and some free software philosophy. 
+Together with other **LILiK** members we began to meet together at Edoardoo's house, in hacking sessions during the weekends. This is where we thought at first one of our success projects: turning lights on and off with an arduino, a raspberry, a pinch of javascript and a lot of hacking nights (usually with some wine, don't forget we're italian). Since we wanted to share our hard and funny work with the rest of the world, we've built a blog/tutorial about our hacking projects, hack.lenotta.com. We mainly hack on arduino, raspberry, antennas, HTML5, Javascript and CSS3. 
+
+
+About your skills and what you are going to do?
+=======
+We're skilled on both frontend and backend development. We'll probably use baaskets of javacript (perhaps for the server side too, why not?) and we would like to bleach the mess of EULA and TOS around, compress it, colour it and... you'll see (me heheheh)...
+
+
+
+---------------------------------------
+
 HackOwls
 ========
 __Why do we want to join the competition?__
@@ -1597,6 +1709,28 @@ OUR SKILLS
 
 We both enjoy spontaneous projects and enjoy a love for Linux and open source technology. We have experience with multiple coding technologies such as Python frameworks, Ruby on Rails, Java, C#, and as low level as C. We also aren't afraid to delve into the hardware and the occasional spark.
 
+
+
+---------------------------------------
+
+
+# Heterotopias
+
+We are Spyridon, Georgios and Pantelis, we are a new team with great ambitions!
+
+## About us
+
+- Spyridon: Data scientist!
+- Georgios: Curious about data!
+- Pantelis: I love to create projects using Laravel framework!
+
+## Languages and other stuff that we love
+
+- Hadoop
+- Javascript
+- Laravel
+- Neo4j
+- R
 
 
 ---------------------------------------
@@ -1815,6 +1949,23 @@ So, we develop backend systems, frontend and mobile apps. It seems to be a full-
 
 I'm Duong from Vietnam!
 
+
+
+---------------------------------------
+
+# Some info =)
+
+Maxim: I'm experienced developer, 8 years web development and last year I started developing mobile applications on iOS platform. Also I have skills in C/C++/C# programming.
+
+Natalie: I'm a designer with 5 years experience, most of my works are websites, but I like to design user interfaces and want to try make one for the mobile app.
+
+# Languages
+We can use this languages in our project:
+- Objective-C
+- C
+- C++
+- PHP
+- JavaScript
 
 
 ---------------------------------------
@@ -2069,6 +2220,28 @@ I am deciding to work the theme #1 or #3, using the MEAN stack and d3.js for int
 
 ---------------------------------------
 
+This is our page
+================
+
+Coming soon
+
+
+About your team
+===========================
+
+Coming soon
+
+
+About your skills and what you are going to do?
+=======
+
+Coming soon
+
+
+
+
+---------------------------------------
+
 Sadique Ali P
 Sachin Murali G
 Akhil Balakrishnan
@@ -2088,6 +2261,39 @@ I am not sure what I will create, but I have some really creative ideas in mind.
 
 Follow me on Twitter: @Stefan Blamberg
 Visit my Website: www.blamberg.org
+
+
+---------------------------------------
+
+Nilofer
+================
+
+We are named after the storm, Nilofer. We are working on track 2 for the hackathon. Details to be posted later.
+
+
+About your team
+===========================
+
+| amar | dharmesh | pratik
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000082073549/ae5996bc745e3b1d774002eb337df175_400x400.jpeg' alt='amar'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1833734117/430652_10150553227823363_804813362_8779268_2007078582_n__1__400x400.jpeg' alt='Dharmesh'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2655174063/4300addfd96a9bbacf84c2716ba621bf_400x400.png' alt='Pratik'/> |
+
+Tell us who you are, why you did you decide to join?
+
+Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
+Tell us why you want to win.
+
+
+About your skills and what you are going to do?
+=======
+
+Don't reveal too much about your project, this is a competition but maybe
+you can tell us the technologies, APIs you are going to use and what kind
+of application you are going to build.
+
+You can change your mind, that's ok. Just push an update here when you do.
+
+
 
 
 ---------------------------------------
@@ -2148,8 +2354,12 @@ About the team
 ===========================
 Our team composed from two tech guys (http://twitter.com/v_ignatyev and http://twitter.com/rmartynov), passionate to build and hack. We are from web-app development background.
 
+<img width="100" height="100" src='https://raw.githubusercontent.com/vladignatyev/global.hackathon/master/Teams/OrangeVerse/lolselfie.jpg' alt='Vladimir's Selfie'/>
+
 I'm Vladimir, a [freelancer at oDesk](https://www.odesk.com/users/~01c0d7f151e8f88b99), software developer, entrepreneur and dog breeder (seriously!). Personally I would like to thank Koding and team to give developers from over the world an opportunity for collaboration and communication. 
 I'm happy to see NGINX as partners of this event. 
+
+<img width="100" height="100" src='https://raw.githubusercontent.com/vladignatyev/global.hackathon/master/Teams/OrangeVerse/martynovselfie.jpeg' alt='Rodion's Selfie'/>
 
 Our team is completely virtual and remote. I met Rodion on Twitter few days ago and have never seen him before. He is great and I love to read his code, that's why we hack together at *OrangeVerse*.
 
@@ -3330,6 +3540,18 @@ Comming soon
 
 ---------------------------------------
 
+#WE ARE 27
+Hi. We are [Twentyseven](http://twentyseven.in) & we create beautiful and efficient code.
+
+#Skills
+* JavaScript
+* jQuery
+* Canvas
+* PHP
+
+
+---------------------------------------
+
 U-section
 ================
 We have started to develop software from infancy by using wooden cubes.
@@ -3383,6 +3605,15 @@ About your skills and what you are going to do?
 Currently, our skill set covers most backend systems.  We're looking to add front end developers, and potentially full-stack or additional back-end talent.
 
 We want to tackle EULAs and clickwrap agreements at both the software and service levels.
+
+
+---------------------------------------
+
+# The Velocitones
+
+## Members
+---
+ - Ridley: Toilet Control Software Engineer (created the Velocity ToiletPi)
 
 
 ---------------------------------------
@@ -3571,6 +3802,28 @@ About our team
 Srikanth Kasukurthi (http://github.com/srikanthk16) - Lead
 
 We love coding and we will do it on koding.
+
+
+---------------------------------------
+
+da Grinchy Code
+===========================
+
+| danstever | christianelden
+|--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000248257296/3c6ba37282ae4e63436494663ab04657_200x200.jpeg' alt='danstever'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/487411579286474752/8HTOZ8fg_200x200.jpeg' alt='christianelden'/> |
+
+**Dan**: Code junkie and coffee lover building web apps and living the startup life.
+
+**Christian**: I design. I draw. I write.
+
+Both transplanted from larger tech and design markets and out to prove that small town can make an impact.
+
+The Secret Sauce
+=======
+- Use equal parts of each Node.js, UX and Design
+- Add APIs, JavaScript, and styling to taste
+- Stir continuously for up to 24 hours -- make sure to simmer for remaining time
 
 
 ---------------------------------------
