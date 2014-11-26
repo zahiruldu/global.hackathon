@@ -4480,6 +4480,23 @@ I am Azmath Shamrad from Colombo, Sri Lanka
 
 ---------------------------------------
 
+mapQuest
+=====
+
+We are mapQuest team ready to build interactive game using Google Maps™ and get you out of your chair and make you run and conquer virtual areas physically present :)
+
+## About the team
+
+* Milica - front-end developer passionate about building hybrid mobile applications using newest web technologies
+* Damnjan - back-end developer eager to build big data systems
+
+## Technology stack
+
+We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
+
+
+---------------------------------------
+
 
 # megusta
 
@@ -4607,4 +4624,43 @@ you can tell us the technologies, APIs you are going to use and what kind
 of application you are going to build.
 
 You can change your mind, that's ok. Just push an update here when you do.
+
+
+
+---------------------------------------
+
+Wise Eddy
+============================
+[WE](http://wiseeddy.com) develop interactive and highly visual software for education and science applications. 
+
+===========================
+
+|elise
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/537667109556207616/FJGGygAp.png' alt='Elise'/>       
+
+I'm a scientist (mainly with climate-related subjects) who has been writing code for research and 
+outreach for many years. I am interested in numerical modeling and visualizations that help
+make sense of the world in beautiful ways. 
+
+
+
+Why I want to win
+===================================
+I have an idea about how to create more beautiful and interactive visualizations of global climate fields 
+(like surface temperature) and I want to bring that idea into production for a large audience 
+so they can see for themselves how the global climate has behaved, and that they can play with the data to draw their own conclusions from data.
+
+Skills
+============== 
+- Javascript 
+- HTML5 
+- SVG 
+- sed/awk/shell scripts etc
+- NOAA/NASA APIs for the data
+
+The idea
+=======             
+I'm going to tackle the climate question...by developing a better way to present public datasetes from 
+NOAA and NASA.
 
