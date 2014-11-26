@@ -5,7 +5,8 @@
       "name": "Paul Bailey",
       "twitter": "pizzapanther",
       "koding": "pizzapanther",
-      "location": "League City, US"
+      "location": "League City, US",
+      "lead": true
     },
     {
       "name": "Chris Cauley",
