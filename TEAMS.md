@@ -808,6 +808,27 @@ http://eventhorizon.pl/
 
 ---------------------------------------
 
+== Team Name: Experts Unlimited
+
+-- About Us:
+
+We're 4 highschool students taking part in this competition.
+
+- Ananay Arora (http://ananayarora.com) : The leader here, with all the development skills.
+- Abhishek Anand: Beta Tester & Designer with great debugging skills.
+- Akshay Gupta: Graphics Designer with Beta Testing skills.
+- Rohan Dhar: PHP Guy & Web Developer.
+
+Languages :
+-> HTML
+-> CSS
+-> Javascript w/ jQuery & AJAX
+-> PHP
+-> MySQL
+
+
+---------------------------------------
+
 Fire Inside
 ================
 
@@ -1518,6 +1539,40 @@ About your skills and what you are going to do?
 - Nodejs, Express, Sails 
 - UX, UI
 - Creativity. 
+
+
+
+---------------------------------------
+
+Welcome to Plummy
+================
+
+We are the Plummy team, so we are participating.
+That's not it, well yeah, we are team in both real world and this koding event. We are doing many projects as a startup currently. All of our team are Indonesian, but one of our team currently living in Melbourne.
+We always work remotely and this event is our chance to do some work together and train our work team.
+
+About your team
+===========================
+
+| bagus | rizky | bayu
+|--- |--- |--- 
+| <img width="100" height="100" src='http://plummy.web.id/images/maja.png' alt='Bagus'/> | <img width="100" height="100" src='http://plummy.web.id/images/rizky.png' alt='Rizky'/> | <img width="100" height="100" src='http://plummy.web.id/images/bayu.png' alt='Bayu'/> 
+
+Bagus
+----------
+
+Bagus is mostly interested in database, as a backend engineer Bagus also loves to do some scripting and programming. Mostly, Bagus use PostgreSQL and ruby.
+
+Rizky
+---------
+
+Rizky is a full stack web developer, his code won't be smells.
+
+Bayu
+--------
+
+Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is also our business guy, please talk money with him.
+
 
 
 
