@@ -1,6 +1,6 @@
 Wise Eddy
 ============================
-WE develop interactive and highly visual software for education and science applications. 
+[WE](http://wiseeddy.com) develop interactive and highly visual software for education and science applications. 
 
 ===========================
 
