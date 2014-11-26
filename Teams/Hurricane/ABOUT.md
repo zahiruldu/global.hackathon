@@ -3,12 +3,13 @@
 
 We are a bunch of student who are following a BEng Software Engineering degree course.
 We always are looking for new technologies and new ways to find solutions for real world problems.
+Someone will most probably think that we are some crazy bunch of guys since we face anything which is thrown at us with our ever lasting smile. So, throw us anything, we are ready!
 
 ## About Us
 
 | Anushka | Grainier | Praminda | Yehan
 |--- |--- |--- |---
-| ![Anushka](https://media.licdn.com/media/p/7/000/1d0/35e/3b20e07.jpg) | ![Grainier](https://media.licdn.com/media/p/7/005/065/1f8/1abc1c9.jpg) | ![Praminda](https://lh4.googleusercontent.com/-FiYRqsqI2ZQ/AAAAAAAAAAI/AAAAAAAABbg/j2zioUiVNLY/s120-c/photo.jpg) | ![Yehan](https://media.licdn.com/media/p/4/005/06d/2f6/2229270.jpg) |
+| ![Anushka](https://avatars3.githubusercontent.com/u/2684554?v=3&s=460) | ![Grainier](https://avatars1.githubusercontent.com/u/3824254?v=3&s=460) | ![Praminda](https://avatars2.githubusercontent.com/u/2655553?v=3&s=460) | ![Yehan](https://avatars3.githubusercontent.com/u/2751847?v=3&s=460) |
 
 
 ## Languages we love
