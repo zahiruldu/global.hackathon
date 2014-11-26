@@ -15,7 +15,7 @@ Here are some projects on which we participated:
 - [Edicio.us](http://edicio.us)
 - [Quicklook](https://bitbucket.org/radekhofman/quicklook/overview)
 
-As we are not using githup here are out repositories on bitbucket:
+As we are not using github here are out repositories on bitbucket:
 
 - [krablak](https://bitbucket.org/krablak)
 - [papab](https://bitbucket.org/radekhofman)
