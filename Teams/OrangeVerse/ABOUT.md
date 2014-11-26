@@ -17,14 +17,14 @@ About the team
 ===========================
 Our team composed from two tech guys (http://twitter.com/v_ignatyev and http://twitter.com/rmartynov), passionate to build and hack. We are from web-app development background.
 
-I'm Vladimir, a freelancer at oDesk, software developer, entrepreneur and dog breeder (seriously!). Personally I would like to thank Koding and theirs team to give developers from over the world an opportunity for collaboration and communication. 
+I'm Vladimir, a [freelancer at oDesk](https://www.odesk.com/users/~01c0d7f151e8f88b99), software developer, entrepreneur and dog breeder (seriously!). Personally I would like to thank Koding and team to give developers from over the world an opportunity for collaboration and communication. 
 I'm happy to see NGINX as partners of this event. 
 
-Our team is completely virtual and remote. I met Rodion via Twitter few days ago and have never seen him before. He is great and I love to read his code, that's why we hack together at *OrangeVerse*.
+Our team is completely virtual and remote. I met Rodion on Twitter few days ago and have never seen him before. He is great and I love to read his code, that's why we hack together at *OrangeVerse*.
 
-'OrangeVerse' is the random name created using https://vast-cove-6783.herokuapp.com/ - Koding Global Hackathon Team Name Generator, which I created a few days before to create name for the team. :-)
+'OrangeVerse' is the random name created using [Koding Global Hackathon Team Name Generator](https://vast-cove-6783.herokuapp.com/), which I created a few days before to give the name for our team. :-)
 
-The team's **goal** for this competition is to *build great thing* in the hackathon, *show what the random can do*. It's Taleb's Black Swan. In Random We Trust.
+The team's **goal** for this competition is to *build great thing* during the hackathon and *show what the random can do*. Taleb's Black Swan. In Random We Trust.
 
 Sincerely yours,
 Vladimir and Rodion. :p
