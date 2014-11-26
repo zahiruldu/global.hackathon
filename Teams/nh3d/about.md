@@ -11,6 +11,6 @@ ok ... enough crapola ...
 
 Anyways check out some of my sites ...
 
-yourimage.io unitedstatesian.com gifpaint.in
+http://yourimage.io/ http://unitedstatesian.com/ http://gifpaint.in/
 
 
