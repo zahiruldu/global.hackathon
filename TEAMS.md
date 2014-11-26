@@ -2135,6 +2135,38 @@ My plan is to create one of educational prototypes for this first global hackath
 
 ---------------------------------------
 
+This is our page
+================
+
+I'm a single laravel crazy, as the team name shows :P.
+
+
+About me
+===========================
+
+| sasha8080 |
+|--- |
+| <img width="100" height="100" src='' alt='sasha8080'/>|
+
+
+Hi all, Welcome to hackathon !
+
+I'm hear to meet nice friends enaging in the IT industry.
+
+This is a very good campaign for me to show myself to other guys so we make a good friend network and help each other for future project.
+
+
+
+About your skills and what you are going to do?
+=======
+
+This is a crazy Laravel developer.
+API is my passion and I'm going to show how the API will change the world and you live.
+
+
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -3324,6 +3356,17 @@ Team Hairball is a team of Python hackers who also like to hack the frontend JS.
 
 ---------------------------------------
 
+## Team Pooky
+
+We will have an _awesome_ first December weekend, coding, having fun (and waiting for Saint Nicholas' presents ;)).
+
+Languages we'll use: that depends on the idea we'll come up with. 
+
+Can't wait to join all of the other teams in this historic event :D
+
+
+---------------------------------------
+
 TeamShog
 =========
 
@@ -3823,6 +3866,25 @@ We're a group of five coders from Egypt, and we take our dreams very seriously.
 ##About the project
 
 We still haven't decided what to do yet, but our arsenal is locked and loaded for the competition, we basically have a guy for everything needed.
+
+
+---------------------------------------
+
+
+# WeLikeGoodCode
+
+We like good code and we want make all code in the world better!
+
+## About Us
+
+Alexey is crazy PHP developer who loves to code at night with shining Ruby.
+Ivan is silent Ruby developer who dreaming about long-long Rails project.
+
+## Our skills
+- Ruby
+- JS
+- PHP
+- HTML5
 
 
 ---------------------------------------
