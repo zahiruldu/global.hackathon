@@ -1,7 +1,7 @@
 This is our page
 ================
 
-We are the AcklenAvenue team, and we are really participating.
+We are the Acklen Avenue team, and we are really participating.
 
 
 About the team
