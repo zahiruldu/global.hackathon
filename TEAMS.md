@@ -663,6 +663,24 @@ John Harter
 
 ---------------------------------------
 
+About me
+===========================
+
+- Bogdan
+- Web Developer
+- from: Bucharest, Romania
+- living: St. Julians, Malta
+
+Languages I love
+=======
+
+- Javascript
+- PHP
+- Erlang
+
+
+---------------------------------------
+
 BoomSticks
 ===========================
 
@@ -3616,6 +3634,20 @@ Experienced systems programmer but now interested in Machine Learning/AI, Statis
 
 Plan to work on one of themes #2 or #3 or even #5. Hope to narrow down something soon.
 
+
+---------------------------------------
+
+Toro
+================
+
+Bred in Departamento de Computación - Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires. Based in Argentina.
+
+The team
+===========================
+
+| x | y | z
+|--- |--- |---
+| <img width="100" height="100" src='http://oi58.tinypic.com/i57skh.jpg' alt='x'/> | <img width="100" height="100" src='http://oi58.tinypic.com/i57skh.jpg' alt='y'/> | <img width="100" height="100" src='http://oi58.tinypic.com/i57skh.jpg' alt='z'/> |
 
 ---------------------------------------
 
