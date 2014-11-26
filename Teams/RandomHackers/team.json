@@ -1,0 +1,24 @@
+{
+  "teamName": "Random Hackers",
+  "members": [
+    {
+      "name": "Dylson Valente Neto",
+      "twitter": "n370n370",
+      "koding": "n370",
+      "location": "Santa Fe, AR",
+      "lead": true
+    },
+    {
+      "name": "Ildus Sadykov",
+      "twitter": "SadykovIldus",
+      "koding": "IldusSadykov",
+      "location": "Elabuga, RU"
+    },
+    {
+      "name": "Jen Best",
+      "twitter": "jenbestyoga",
+      "koding": "jenthebest",
+      "location": "Philadelphia, US"
+    }
+  ]
+}

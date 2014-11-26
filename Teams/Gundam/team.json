@@ -1,0 +1,30 @@
+{
+  "teamName": "Gundam",
+  "members": [
+    {
+      "name": "Jumpei Yamane",
+      "twitter": "jumpeism_agg",
+      "koding": "jumpeiymn",
+      "location": "Tokyo, JP"
+    },
+    {
+      "name": "Cherry Zhang",
+      "twitter": "phantomkirby",
+      "koding": "phantomkirby",
+      "location": "Tokyo, JP",
+      "lead": true
+    },
+    {
+      "name": "Fan Zhang",
+      "twitter": "fanwashere",
+      "koding": "fanwashere",
+      "location": "Ottawa, CA"
+    },
+    {
+      "name": "Tommy Jung",
+      "twitter": "TommmYeee",
+      "koding": "younghj",
+      "location": "Toronto, CA"
+    }
+  ]
+}
