@@ -13,8 +13,4 @@ Someone will most probably think that we are some crazy bunch of guys since we f
 
 
 ## Languages we love
--JavaScript
--PHP
--JAVA
--CSS
--HTML!!!
+|JavaScript|PHP|JAVA|CSS|HTML!!!
