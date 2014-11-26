@@ -1,7 +1,7 @@
 
 # Jostlers
 
-I am Vincent Hu.
+My name is Vincent.
 
 ## About Me
 
