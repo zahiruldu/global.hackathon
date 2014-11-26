@@ -2766,6 +2766,13 @@ Sequessu
 
 ---------------------------------------
 
+# Recon
+
+Dream don't work unless you do...
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -3253,6 +3260,46 @@ Project
 We will be writing a real-time translator using SPA architechture and it is going to implement a new way of showing notifications which has been never implemented till now.
 
 ---------------------------------------
+
+---------------------------------------
+
+About the Team
+===========================
+
+We are Team Banana Stand. We're from Toronto, Canada.
+
+| Peony | Manu | Jason | Travis
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/498100595962937344/iFcCo2ci_400x400.jpeg' alt='Peony'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000041376391/36373bdf958000782d38565d415c9b43_400x400.jpeg' alt='Manu'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2246824386/badASS_400x400.jpg' alt='Jason'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/2218626636/image_400x400.jpg' alt='Travis'/> |
+
+TL;DR: Travis, Peony and Jason are partial-full stack developers and Manu is a janitor. They all share a common love for science.
+
+1. Peony is a web designer and front-end developer. She prefers to work at the bleeding edge of front-end spec, and her workflow would probably make Paul Irish jealous.
+2. Manu is not a janitor IRL, he's more like a services savant. If you need service development, or simply some sweet Python magic, he's your man.
+3. When he's not busy saving the world from best practice failures or thinking of what to tweet next, Jason is busy building stuff while using a mindblowing variety of resources. Apps, web-apps, APIs, you name it. If Macgyver needed the equivalent of a developer swiss-army knife, Jason would make the role.
+4. Travis is a front-end developer who has a lot of experience with devops because it "comes with the territory". In a previous life, he was a backend dev. On that note, he's currently doing his best to hate PHP and love NodeJS.
+
+Joining was Peony's idea, and needless to say, we all jumped at the chance to be a part of global hackathon. Win or lose, we're looking to challenge ourselves by implementing as much as possible into our final idea. 
+
+Skills and Plans
+=======
+As a combined team, we use these languages on the daily:
+- Javascript
+- Python
+- Scala
+- Objective C
+- Java
+- PHP
+
+APIs that we are like include but are not limited to:
+- DATADOG
+- Twitter
+- Google Predictions
+- Google Geocoding
+- Google Freebase
+
+We're trying to come up with an impressive idea that has a tight-enough scope to complete in time. Ideally this is going to be a web-app that's out-of-the-box in nature, is built on services leveraging a plethora of APIs, and has a gorgeous front end. After throwing ideas around for the past few evenings, the team is mostly talking about going with either themes #1 or #5. 
+
 
 ---------------------------------------
 
@@ -3837,6 +3884,17 @@ We want to tackle EULAs and clickwrap agreements at both the software and servic
 ## Members
 ---
  - Ridley: Toilet Control Software Engineer (created the Velocity ToiletPi)
+ - Josh: Dandy fellow who makes code sometimes
+ 
+## Languages
+---
+ - English
+ - Python + Django
+ - JavaScript
+ - Ruby
+ - Rust
+ - Coffeescript
+ - C#
 
 
 ---------------------------------------
@@ -4480,6 +4538,37 @@ I'm Luke Sawicki, I'm specialising in GIS solutions.
 - C#
 - JavaScript
 - PHP
+
+
+---------------------------------------
+
+#About this singleton
+
+###Who, me?
+I am Prajogo Tio, an (computer) engineering student from *Nanyang Technological University*, Year 2.
+I have just started learning about programming more or less 11 months (I started learning in December 2013).
+Since then I've been hooked by the computing world and wanted to gain ever more awesome experience.
+I might be very green and incompetent (I admit it) but I believe I have to start somewhere.
+That is my main motivation in participating in this Hackathon, and hopefully I might have the chance to compete.
+
+###Interests
+I've enjoyed programming several HTML5 Games using mainly Javascript and Canvas. 
+Two main games I've written so far are:
+  1. A 2D side scrolling spaceship game to test out prototypal inheritence in JS. [view](http://prajogotio.github.io/Space/Space.html)
+  2. Another one is 2.5D FPS game (I call it BOOM) based on Raycasting principles to emulate 3D in 2D engine. Pretty fun! [view](http://prajogotio.github.io/boom/boom.html)
+You may want to check out my Github IO page to test them:
+[prajogotio.github.io](prajogotio.github.io)
+
+I'm also actively participating in algorithm contests just to keep my mind in check. I love learning and I will never stop.
+I do keep a log on what I've learnt in my blogspot: [abitofcs.blogspot.sg](abitofcs.blogspot.sg)
+
+###Hopes
+I am looking for a chance to strengthen my foundation in code design and planning. I hope I get a chance to learn from this Hackathon.
+
+Thank you for taking your time to read this page.
+
+Regards,
+   Prajogo Tio
 
 
 ---------------------------------------
