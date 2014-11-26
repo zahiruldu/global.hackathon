@@ -11,6 +11,15 @@ ok ... enough crapola ...
 
 Anyways check out some of my sites ...
 
-http://yourimage.io/ http://unitedstatesian.com/ http://gifpaint.in/
+
+http://gifpaint.in/  ->  animated gif painting
+
+
+http://yourimage.io/  ->  downloadable image painting 
+
+
+http://unitedstatesian.com/  ->  just some weirdness for you
+
+
 
 
