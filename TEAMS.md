@@ -1974,6 +1974,34 @@ C
 
 ---------------------------------------
 
+TeamFlex
+================
+
+We are a group of passionate developers that build flex-ible applications to work on a variety of platforms and systems.
+
+
+About your team
+===========================
+
+| Joshua Wood (SK83RJOSH) | Brandon Teller (brteller)
+|--- |---
+| <img width="100" height="100" src='http://chopdawg.com/wp-content/uploads/cache/2014/05/josh-wood/434338697.png' alt='SK83RJOSH'/> | <img width="100" height="100" src='http://chopdawg.com/wp-content/uploads/cache/2014/05/brandonT/1087521060.png' alt='brteller'/>
+| Project Lead, Frontend and Backend Guru | Designer, Frontend and Backend Developer
+
+We've worked together for around 3 years, and between us we have over ten years of webdev experience.
+
+Whether it be our own startup or one of the many freelance projects we've completed together, we've always prided ourselves on pushing boundaries and doing new things. So when we heard about the Koding Hackathon, and saw the themes, we jumped right on to the idea.
+
+We can't wait to show everyone our idea.
+
+Goal
+=======
+
+We plan to create a real time chat application with a very unique twist, keep an eye out!
+
+
+---------------------------------------
+
 # Team Hairball
 
 _Hacking code and fur_
@@ -2677,6 +2705,32 @@ Skills
 
 PHP,C++,Python,Javascript.
 
+
+
+---------------------------------------
+
+
+# megusta
+
+I'm Ivan and I just looooooove little software and hardware helpers that make life easier.
+But sometimes little things overgrow to big ugly monster, so it's better to kill them than develop -__-.
+I hope, this time I'll focus on one thing and won't use whole bucket of technologies
+just for one simple purpose. :)
+
+# What skills do I have?
+
+Well, I'm kinda web developer with mixin of mobile developer who can speak following languages
+(and speaks them in daily life):
+
+ - PHP
+ - golang
+ - C# (Silverlight)
+ - Javascript
+
+My idea is to work on gathering and processing one kind of statistics that will serve well to 80%
+of possible users. I'll focus on usability, because "usable" thing means "something that helps me
+every day".
+ 
 
 
 ---------------------------------------
