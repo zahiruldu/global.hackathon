@@ -7,40 +7,31 @@
 		    "twitter": "XereoAntariano",
 		    "koding": "antariano",
 		    "location": "Ancona, IT",
-		    "lead": true,
-		    "isAwesome": true
+		    "lead": true
 		},
 		{
 		    "name": "Connor Peet",
 		    "twitter": "ConnorPeet",
 		    "koding": "connor4312",
-		    "location": "Toronto, CA",
-		    "lead": false,
-		    "isAwesome": true
+		    "location": "Toronto, CA"
 		},
 		{
 		    "name": "Moritz Schmale",
 		    "twitter": "narrowtux",
 		    "koding": "narrowtux",
-		    "location": "Kassel, DE",
-		    "lead": false,
-		    "isAwesome": true
+		    "location": "Kassel, DE"
 		},
 		{
 		    "name": "Gábor Guzsik",
 		    "twitter": "lordfren",
 		    "koding": "fren",
-		    "location": "Kiskunfélegyháza, HU",
-		    "lead": false,
-		    "isAwesome": true
+		    "location": "Kiskunfélegyháza, HU"
 		},
 		{
 		    "name": "Tobias Laundal",
 		    "twitter": "totokaka_",
 		    "koding": "totokaka",
-		    "location": "Oslo, NW",
-		    "lead": false,
-		    "isAwesome": true
+		    "location": "Oslo, NW"
 		}
     ]
 }
