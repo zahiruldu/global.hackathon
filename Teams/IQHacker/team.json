@@ -1,0 +1,21 @@
+{
+  "teamName": "IQHacker",
+  "members": [
+    {
+      "name": "Iftekhar",
+      "koding": "hackiftekhar",
+      "location": "Indore, India"
+      "lead": true
+    },
+    {
+      "name": "Mayur",
+      "koding": "mayur43s",
+      "location": "Indore, India",
+    },
+    {
+      "name": "Mayur",
+      "koding": "mayur43s",
+      "location": "Indore, India",
+    }
+  ]
+}
