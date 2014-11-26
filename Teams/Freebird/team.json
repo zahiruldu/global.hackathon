@@ -1,0 +1,17 @@
+{
+  "teamName": "Freebird",
+  "members": [
+    {
+      "name": "Josephine Tsay",
+      "twitter": "fromjosephine",
+      "koding": "josephine",
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Bhavna Mahadevan",
+      "twitter": "BHAVNATOR",
+      "koding": "bhavnator",
+      "location": "Santa Monica, CA"
+    }
+  ]
+}
