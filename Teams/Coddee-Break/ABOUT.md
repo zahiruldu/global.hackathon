@@ -5,7 +5,7 @@ We are Kuzma and Vadim, we like both hacking and games, and we believe it's some
 ## About us
 
 * *Kuzma* — Being mostly PHP back end web developer recent years, used to code in a variety of languages starting from low-level assemblers to exotic Prolog.
-* *Vadim* — Third year university student, full-stack PHP+HTML+CSS+JS web developer, intrested in games.
+* *Vadim* — Third year university student, full-stack PHP+HTML+CSS+JS web developer, interested in games.
 
 ## Our goals
 
