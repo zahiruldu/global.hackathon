@@ -13,6 +13,7 @@ Here are some projects on which we participated:
 - [DSSOS](http://dss-pyjunkies.rhcloud.com/)
 - [Cru.do](http://cru.do)
 - [Edicio.us](http://edicio.us)
+- [Quicklook](https://bitbucket.org/radekhofman/quicklook/overview)
 
 ## Project
 We are seeking synergies between computers, science and improvement of life on Earth.
