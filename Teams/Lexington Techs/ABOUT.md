@@ -1,7 +1,7 @@
 Lexington Techs
 ================
 
-![Our home!](http://imgur.com/4FBRsWn)
+![Our home!](http://i.imgur.com/UVWayHR.jpg)
 
 
 About Us
