@@ -1,0 +1,18 @@
+{
+    "members": [
+        {
+            "koding": "lukejpreston",
+            "lead": true,
+            "location": "Lancaster, UK",
+            "name": "Luke Preston",
+            "twitter": "lukejpreston"
+        },
+        {
+            "koding": "timkin",
+            "location": "Chorley, UK",
+            "name": "Tim Perry",
+            "twitter": "timkinperry"
+        },
+    ],
+    "teamName": "BoomSticks"
+}
