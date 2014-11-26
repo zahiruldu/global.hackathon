@@ -1,4 +1,4 @@
-da Grincy Code
+da Grinchy Code
 ===========================
 
 | danstever | christianelden
@@ -15,4 +15,4 @@ The Secret Sauce
 =======
 - Use equal parts of each Node.js, UX and Design
 - Add APIs, JavaScript, and styling to taste
-- Stir continuously for up to 24 hours -- make sure to simmer for remaning time
+- Stir continuously for up to 24 hours -- make sure to simmer for remaining time
