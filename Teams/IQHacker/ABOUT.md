@@ -14,7 +14,7 @@ About us
 
 
 Our team has all iOS developers but with different skills.
-Iftekhar has a very good technical skills, while Mayur has the ability to think each thing in a very broader way with a very good programming skills, his memorization power is awesome. Shrejas is a Star in our team, he has the ability to manage the ongoing work in a best mannger, he alway eager to gain more with the new challenges.
+Iftekhar has a very good technical skills, while Mayur has the ability to imagine each thing in a very broader way with a very good programming skills, his memorization power is awesome. Shrejas is a Star in our team, he has the ability to manage the ongoing work in a best mannger, he always eager to gain more with the new challenges.
 
 
 Our Skills
