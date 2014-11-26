@@ -1,26 +1,19 @@
 # Team Hairball
 
-Hacking code and fur.
+_Hacking code and fur_
 
 
-About your team
-===========================
+## About The Team
 
-| Paul Bailey | Chris Cauley | sinan | emre
-|--- |--- |--- |---
-| ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| Paul Bailey | Chris Cauley |
+|--- |--- |
+| ![Paul](https://e5c8d45663effab537aac1fb3c79230e1a2bfe17.googledrive.com/host/0B-GD95vnz4VFWmhqWTlNOWtWWDQ/pink-panther-pictures.jpg) | ![Chris](https://pbs.twimg.com/profile_images/492701386727903233/slSzD_g0.jpeg) |
 
-Tell us who you are, why you did you decide to join?
+Team Hairball is a team of Python hackers who also like to hack the frontend JS. More than winning we joined to have some fun and hopefully build something awesome. We live and breath for hacking and want to have fun competing with peers.
 
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+## Our Skills
 
-
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
-
+- Python
+- Django
+- Javascript
+- AngularJS
