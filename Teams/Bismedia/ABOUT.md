@@ -10,7 +10,7 @@ About us
 
 | ermouth | carpogoryanin | vigeniy
 |--- |--- |--- |---
-| ![ermouth](http://bis-media.ru/koding/ermouth.jpg) | ![dander](http://bis-media.ru/koding/carpogoryanin.jpg) | ![vigeniy](http://bis-media.ru/koding/vigeniy.jpg) |
+| ![ermouth](http://bis-media.ru/koding/ermouth1.jpg) | ![dander](http://bis-media.ru/koding/carpogoryanin1.jpg) | ![vigeniy](http://bis-media.ru/koding/vigeniy1.jpg) |
 
 ####ermouth
   * Full stack javascript
@@ -21,7 +21,7 @@ About us
   * Linux and runtime environment
   * CouchDB
   * Javascript
-  
+
 ####vigeniy
   * Javascript
   * Mongo
