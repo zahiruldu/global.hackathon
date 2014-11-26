@@ -13,5 +13,5 @@ Someone will most probably think that we are some crazy bunch of guys since we f
 
 
 ## Languages we love
-JavaScript | PHP | JAVA | CSS | HTML | C | C# | C++ | Android | Objective-C | Nodejs | Jaggeryjs | MySQL 
+JavaScript , PHP , JAVA , CSS , HTML , C , C# , C++ , Android , Objective-C , Nodejs , Jaggeryjs , MySQL 
 
