@@ -4,8 +4,6 @@ ScrumTobe Software
 ScrumTobe Software includes IT/Computer engineers who have skills and experiences in Software engineering. 
 We provide services to build the Software systems like E-commerce, CMS, CRM, SNS and SaaS.
 
-Our website: http://www.scrumtobe.com
-
 About Our Team
 ===========================
 
@@ -32,3 +30,6 @@ Technical Solutions
 - Database: Oracle/MySQL/PostgreSQL and MongoDB/noSQL database
 - Test Driven Development: Rspec, Cucumber, jMetter, Selenium WebDriver
 - Server administration: CentOS, FreeBSD, Window/Ubuntu Delicated server, AWS/EC2
+
+Website: http://www.scrumtobe.com
+Github: http://github.com/scrum2b
