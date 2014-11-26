@@ -1,7 +1,8 @@
 
 # Hurricane
 
-We are bunch of CrAzY developers.
+We are a bunch of student who are following a BEng Software Engineering degree course.
+We always are looking for new technologies and new ways to find solutions for real world problems.
 
 ## About Us
 
