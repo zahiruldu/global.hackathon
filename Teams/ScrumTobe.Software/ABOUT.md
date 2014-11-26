@@ -31,5 +31,6 @@ Technical Solutions
 - Test Driven Development: Rspec, Cucumber, jMetter, Selenium WebDriver
 - Server administration: CentOS, FreeBSD, Window/Ubuntu Delicated server, AWS/EC2
 
-Website: http://www.scrumtobe.com
-Github: http://github.com/scrum2b
+Other information:
+- Website: http://www.scrumtobe.com
+- Github: http://github.com/scrum2b
