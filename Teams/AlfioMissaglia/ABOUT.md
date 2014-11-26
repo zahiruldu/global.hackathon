@@ -12,6 +12,6 @@ I would like to make a nice project based on theme 1 and 4, but I have to decide
 I'll probably use:
 * PHP
 * jQuery
-* SQL (maybe [MariaDB](https://mariadb.org/))
+* SQL (maybe [MariaDB](https://mariadb.org/) engine)
 * Node.js
 * HTML5
