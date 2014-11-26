@@ -1,6 +1,6 @@
 # Mics
 
-Hello from Belarus, Global Hackaton!!!
+Hello from Belarus, Global Hackathon!!!
 
 ## About us
 
