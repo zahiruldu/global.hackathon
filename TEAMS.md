@@ -89,6 +89,24 @@ maybe, will be a game ^^.
 
 ---------------------------------------
 
+# 41 North Studios LLC
+
+My name is Jim Armstrong, and I am the president of 41 North Studios LLC, a small web-design and programming agency
+located in Norwalk, CT, USA.
+
+This is my first hackathon and I have entered as a solo participant. I want to challenge myself and see if I can 
+take a concept from idea to execution in 48 hours by myself. Above all, I'm hoping to have some fun, learn some 
+new things, and be amazed at what everyone creates!
+
+## My favorite languages
+
+I mostly code in C#, Java, and Ruby. For this project I will likely default to Ruby since I am confortable with it 
+and think my development time will be faster. However, depending on what I decide to build I may just try a language 
+I'm not as familiar with to make this a good learning experience.
+
+
+---------------------------------------
+
 
 
 55by19Koders
@@ -1037,6 +1055,32 @@ You can expect something fun, multiplayer and educational. We are avid learners,
 
 ---------------------------------------
 
+# Code Quest
+
+Join us on our journey on the world of Fun and Exciting Coding. We are excited to join the 1st Global Hackathon. And We will surely make this a fun and meaningful Experience. Let the Koding Begin..!!!!
+
+## About our Team
+
+We are a team of developers from the Philippines. We studied Computer Engineering and mastered in Software development.
+Now each of us are working in different fields of Software development. We built this team to make our own start up Company,as of now we are just getting simple projects. We already have used many different languages in our projects. Mostly our Projects are Desktop Application, but we are also used in creating Web applications and Mobile Apps.
+
+
+| Nehto | Mai Lin | Al | Del
+|--- |--- |--- |---
+| <a href="https://github.com/JohnKenneth/"> ![Nehto] </a> | <a href="https://github.com/mnbayan">![MaiLin]</a> | <a href="https://www.facebook.com/CentCoE18">![Al]</a> | <a href="https://www.facebook.com/Redel.E">![Del]</a> |
+
+[Nehto]: https://avatars2.githubusercontent.com/u/2397003?v=3&s=460 "John Kenneth Lorca - Java Developer"
+[MaiLin]: https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/p417x417/10177421_733295513357647_3213782047740590954_n.jpg?oh=ab6fc91b34b60ca877f671bc989507da&oe=54D45A8E&__gda__=1423280744_42bf2e97a57e29deee30a551e596cbab "Mylene Bayan - IOS Developer"
+[Al]: https://scontent-a-sea.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10574217_608640175922741_5072238741031573289_n.jpg?oh=b2926cead3af47807db6c65624ed6f80&oe=551B0AC9 "Al Vincent Bautista - Android Developer"
+[Del]: https://scontent-a-atl.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/417632_1982284492411_1218921174_n.jpg?oh=3104791bfd08477ad70ca5cd145ca9d7&oe=550F92C3 "Redel Estopa - .Net Developer"
+
+## About your skills and what you are going to do?
+We are still brainstorming on what kind of Project we would be creating based on the theme.
+We are very knowledgable in: HTML5, PHP, Javascript,JQuery, CSS, Java(SE and EE), C#, .Net, MySQL
+
+
+---------------------------------------
+
 We are CodeRabbits.
 ===================
 
@@ -1118,6 +1162,37 @@ About your skills and what you are going to do?
 We are fans of games, so thats where we will be going, of course, using one of the themes presented.
 
 The game will be connected with facebook and (probably) will use Google Game Services.
+
+
+---------------------------------------
+
+
+# Croders
+
+We are a group of young web enthusiast
+eager to test their competence
+in building an application in 48h and competing on world level!
+
+## About us
+
+- Tea: design master
+- Martina: UX master
+- Stanko: front-end master
+- Miłosz: REST API master
+- Anamarija: back-end master
+
+As you can see, we are all masters, each specialized in specific field.
+
+## We love
+
+- Great design
+- Great UX
+- JavaScript
+- REST APIs
+- Node.js, Nginx
+- Scripting languages in general
+
+We love to *create new an innovative stuff*!
 
 
 ---------------------------------------
@@ -2012,6 +2087,30 @@ We are Spyridon, Georgios and Pantelis, we are a new team with great ambitions!
 
 ---------------------------------------
 
+# HowardRoark
+
+We, Abhishek and Surbhi are team HowardRoark and just like him we follow our passion. 
+Just like him we give our everything to what we do and build things that have logic and utility.
+We ponder over problems and do our best to come up with elegant solutions.
+
+We are working with great companies building great products for both enterprise and consumers.
+Surbhi works on Azure and other cloud based technologies at Microsoft IT, IN.
+Abhishek works with web technologies and test automation at Adobe Systems Inc., IN.
+
+
+## Tech we love
+
+- We have all the technologies covered for full stack web development from front end to back end
+  - PHP, Node.js, C# , Java, Python
+  - MySQL, redis, mongoDB
+  - jQuery, Bootstrap, AngularJS
+- Surbhi even knows AzureML to make our apps even smarter.
+
+
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -2114,6 +2213,33 @@ I'm skilled in development using a number of different technologies: Java, Ruby 
 
 I've seen a number of different HTML5 / Angular Games out there, and that might be what I go for.  I do live in Colorado, so building an app for the Medical Marijuana Industry is not off the table.
 
+
+---------------------------------------
+
+This is our page
+================
+
+We are calling our team (project) Infamy.  The name is because the final day of the competition is "a date which will live in infamy".  One of us loves history, and geography.  One of us is a movie buff.  One of us really enjoys learning design patterns, really.
+
+
+About your team
+===========================
+
+| VonMises | autt | jbeard88
+|--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000101590829/6222d96c72223b0776fa52ff73a15886.jpeg' alt='VonMises'/> | <img width="100" height="100" src='' alt='autt'/> | <img width="100" height="100" src='' alt='jbeard88'/> 
+
+Tell us who you are, why you did you decide to join?
+
+Jason Hughes (VonMises) is a father of three.  He and his wife homeschool their children.  He worked his way through college working in technical support for a software company that services the hotel industry.  After graduation he transitioned into development, bringing his coworkers (autt and jbeard88) with him.  VonMises is interested in working collaboratively on a project inside a defined window of time.  Even though they work together, they rarely get to be involved with the entire design and devlopment process in a collaborative way.
+
+Our second team mate is Brandon McCartney (autt).  More info to come.
+
+Rounding out the trio is Jeffery Beard (jbeard88).  More info to come.
+
+About your skills and what you are going to do?
+=======
+We plan on developing an educational game.  More info to come.
 
 ---------------------------------------
 
@@ -2365,6 +2491,28 @@ My plan is to create one of educational prototypes for this first global hackath
 
 ---------------------------------------
 
+
+# Kommunicate
+
+We are Kevin, Alice and Sherman. Kevin and Sherman met at their summer internship at GoDaddy in 2014, they worked
+in Rails on the Online Store product and did [community](http://www.community-app.herokuapp.com) together. Alice and Kevin met in
+a class at UC Berkeley and have coded together winning multiple small scale hackathons together.
+
+## About us
+
+- Kevin: I do full stack web dev, specializing in backend. Checkout out my [website](http://www.kacasey.me) 
+- Sherman: Frontend. [website](http://shermanleung.com)
+- Alice: Frontend. [website](http://www.alicejliu.com)
+
+## Languages we love
+
+- Python
+- Ruby (not Alice)
+- Javascript
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -2465,6 +2613,40 @@ I am a python developer (alone)
 - from Iran
 - I Love python and generally programming
 - I am a web developer (back-end API developer)
+
+
+---------------------------------------
+
+Hi, this is Rafael Matsuyama writing, I'm a entrepreneur and software developer, anxious to do this hackathon! \o/
+
+
+---------------------------------------
+
+Magic
+=====
+
+A single person team looking to get some good programming experience and hopefully make something really cool.
+
+About Magic
+===========
+
+|Ivy Wong|
+|--------|
+|<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/2830112?v=3&s=150' alt='Ivy'/>|
+
+I'm a high school senior in NYC with a passion for computer science and creating new things. I've only had a few years of coding experience, and no actual work experience, so I'm hoping to learn a lot in the next few weeks.
+
+Skills
+======
+
+Programming languages that I've some experience in:
+- Python
+- Java
+- C
+- HTML/CSS/JS
+
+Possible frameworks:
+- Flask
 
 
 ---------------------------------------
@@ -2723,6 +2905,26 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
+This is our page
+================
+
+You can see what were up to at Werlsoft.com and on twitter @ocelotdev
+
+
+About our team
+===========================
+
+What can we do to get people to read those long long EULAs and other legal documents...
+
+About our skills and what we are going to do?
+=======
+- Java
+
+
+
+
+---------------------------------------
+
 
 # Oldmonks
 
@@ -2945,6 +3147,31 @@ All of us use the following technologies:
 All of the themes given are really interesting. We're still thinking which will fit our skills.
 
 I know this page is a bit long so here's a sweet potato. :sweet_potato: Sorry for the long post
+
+
+---------------------------------------
+
+
+# Team Pusheen
+
+We are students from Taiwan, we love hackathon and enjoy coding!
+
+## About Us
+
+- Chen, Ying Yu: My name is ABin, I love C and Python!
+- Cheng, Ya Ju: I'm godow, I love sleep.
+- Chang, Wen Kung: My name is imabitch ,I love League of Legends and girls.
+- Chen, Chih Lin: My name is Jim,  I love C, C++, PHP.
+
+## Languages we love
+- HTML/CSS
+- Javascript
+- C/C++
+- Python
+- PHP
+- Java
+- Perl
+- Shell
 
 
 ---------------------------------------
@@ -3215,6 +3442,31 @@ Skills
 - Frond-end Web
 - Rails
 - .NET
+
+
+
+---------------------------------------
+
+Team Sol
+================
+
+
+
+About our team
+===========================
+
+Ethan Chiu 
+
+
+About our skills and what we are going to do?
+=======
+-HTML
+0CSS
+-jQuery
+-Python
+
+Hope to make an awesome Html5 Game!
+
 
 
 
@@ -3626,6 +3878,25 @@ We're trying to come up with an impressive idea that has a tight-enough scope to
 ---------------------------------------
 
 
+# Team Blue Sky
+
+## About Me
+
+My name is Michael and I love tinkering with code and data
+
+## Favorite languages
+
+- Javascript
+- PHP
+- R
+- Java
+- XSLT
+
+
+
+---------------------------------------
+
+
 ##Team carina
 
 Carina Technologies & Services", is an effort to provide excellent services for the development & marketing projects. We are focused to provide best services at affordable cost, so as to establish a long term business association.
@@ -3698,6 +3969,25 @@ Goal
 =======
 
 We plan to create a real time chat application with a very unique twist, keep an eye out!
+
+
+---------------------------------------
+
+
+# Team GeekKoder
+
+I am Anirban and this is a one member team.
+
+## About Us
+- I love coding and algorithms.
+
+## Languages we love
+
+- Javascript
+- PHP
+- C
+- C++
+- Perl
 
 
 ---------------------------------------
@@ -4201,6 +4491,24 @@ I will choose #1 or #4 theme.
 
 ---------------------------------------
 
+UniLasers
+=============
+
+We're team UniLasers, a small team of two people based out of Toronto. We consider ourselves hobbyist programmers, we enjoy programming but don't have enough chances to do so at work or after work. Neither of us have ever participated in a Hackathon before, but this global Hackathon seems like a great place to begin! 
+
+It's time to see how well we stack up against the other 1999 teams in this Hackathon! 
+
+What we're going to do
+=============
+
+Honestly, we're not sure yet. One of us is stronger with backend technologies, one of us is better with frontend, so we'll see how that goes.
+
+We're still deciding between the first and third theme as those two plays to our strengths, we'll commit a change to this file once we decide!
+
+For sure we'll be making use of PHP, nginx, and a bunch of JavaScript libraries that can help us code fast in 48h. Any other APIs and technologies will be determined once we decide on a theme. 
+
+---------------------------------------
+
 The Vegan Zombies
 ================
 
@@ -4670,6 +4978,23 @@ I have an amazing project that will be really useful, using Swift and Ruby on Ra
 
 ---------------------------------------
 
+
+# Team hackitect
+
+I am a newbie developer, starting an awesome career.
+
+
+## languages
+
+-javascript
+-css
+-php
+-mysql
+
+
+
+---------------------------------------
+
 # Team hausanfan
 Marcos F. Mayorga is the lonely mate
 
@@ -4835,6 +5160,27 @@ I'm an individual freelancer. I love challenging problems. I'm a good bug fixer 
 - PL SQL
 - PHP
 - js
+
+
+---------------------------------------
+
+# Lambda Ninja
+I'm Hasan, a computer hacker from Egypt. 
+
+## About
+
+I programmed in many languages before. I really do love the idea of funcational programming
+and it has managed to creep its way into my C programming.. Eek!
+
+For prototyping I use processing, arduino and python. Since this is a hackathon, something tells
+me I'll be coding in processing this hackathon!
+
+## Quick overview of idea
+A game written in processing accompanied by teaching material and good documentation.
+
+The learning theme, simply put.
+
+Okay, that wasn't too revealing :D Happy hacking!
 
 
 ---------------------------------------
@@ -5024,6 +5370,20 @@ of application you are going to build.
 
 You can change your mind, that's ok. Just push an update here when you do.
 
+
+
+---------------------------------------
+
+# SponzorMe
+
+We are Sponzorme team, a team of Top Talent Colombian Developers.
+
+## Languages we'are going to use
+
+ - HTML
+ - CSS (SCSS)
+ - JavaScript (Angular)
+ - PHP
 
 
 ---------------------------------------
