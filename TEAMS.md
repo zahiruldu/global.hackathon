@@ -36,6 +36,37 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
+1d20 dev team from Ukraine
+================
+
+<img width="100" height="100" src='http://1d20dev.com/wp-content/uploads/2014/11/logo.png' alt='1d20'/>
+
+Web critical hit!
+COMBO!!! COMBO!!! COMBO!!!
+
+
+About your team
+===========================
+
+| detonavomek | andrewdacenko | pod666 | thymajesty
+|--- |--- |--- |---
+| <img width="100" height="100" src='http://1d20dev.com/wp-content/uploads/2014/11/BlopKCLlolk-e1417117528284.jpg' alt='detonavomek'/> | <img width="100" height="100" src='http://1d20dev.com/wp-content/uploads/2014/11/Snimok-ekrana-2014-08-21-v-18.26.36-2-e1417117493321.png' alt='andrewdacenko'/> | <img width="100" height="100" src='http://1d20dev.com/wp-content/uploads/2014/11/15432-e1417117552938.png' alt='pod666'/> | <img width="100" height="100" src='http://1d20dev.com/wp-content/uploads/2014/11/1234342-e1417117538285.png' alt='thymajesty'/> |
+
+We are 4 friends in one group in university. 
+Once upone a time craftsman decided to enter the best techical university of Ukraine. By that moment he didn't knew, that he would met with ecenomist, musician and anime guy. The only one thing that hade grouped this cvartet are AD&D. Past some weekends thay had figured out that thay had another one common interest - programming. This was the fate. Passion for programming and role-playingmade it's diel. And thay unite the team. This team do all it's best to make a critical hit. 1d20 FTW!
+
+About our skills and what we are going to do?
+=======
+We are still brainstorming about idea.
+
+Skills:
+ - Python/Django
+ - AngularJS/CoffeeScript
+ - HTML5/CSS3
+
+
+---------------------------------------
+
 254Coders
 =========
 
@@ -4047,6 +4078,34 @@ Currently, all team work with technologies PHP, Symfony Framework, JavaScript, J
 
 ---------------------------------------
 
+# Sudolsky Brothers
+
+As it is apparent from the name of our team, we are brothers programming together - we have participated in various projects
+ranging from small games for mobile devices to big information systems. We love challenges and we are happy to be a part of the Hackathon.
+
+
+# About the team
+
+* Martin - a programmer who has a passion for web development and all around it. Programming is more like a hobby for him.
+His favourite programming languages are Javascript, PHP and Python.
+
+<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1812855?v=3&s=200 "Martin"' alt='Martin'/>
+
+
+* Michal - a skilled developer in C/C++, Java, Javascript, PHP, OpenCL and RenderScript. He likes computer graphics,
+neural networks, genetic algorithms and parallel computation.
+
+<img width="100" height="100" src='https://graph.facebook.com/sudolsky/picture?width=200&height=200 "Michal"' alt='Michal'/>
+
+
+# What we are going to do
+
+All the given themes are really interesting and it is rather hard to pick one. As we like games and web development very much,
+we want to stay within this direction. We would like to use Nginx, Nodejs, Javascript, HTML5 and some awesome API to realize our project.
+Our goal is to create something creative and helpful.
+
+---------------------------------------
+
 Hi everyone.My name is Hristo and I'm a 19 years old software engineering student. I'm going to be building a WebGL game using
 Three.js & Javascript(of course). I have an idea about the game and I won't be revealing it just yet so stay in touch.
 
@@ -5491,6 +5550,26 @@ Some of the things I'll probably use:
 I might change my mind, and build applications using firebase instead of App Engine.
 
 
+
+---------------------------------------
+
+c0D3 mUNCH3R5
+================
+
+The name was chosen after Sophia proposed "code munchers" and Wiliam proposed the l33t version. Alan likes plain English better.
+
+
+About us
+===========================
+
+- Sophia:
+- William:
+- Alan: Has participated in many hackathons. Mostly do them for fun
+
+
+Our project
+=======
+We don't know what we are going to make yet!
 
 ---------------------------------------
 
