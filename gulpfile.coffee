@@ -49,8 +49,9 @@ format_json = (data, filepath) ->
   # load the first one
   aboutName = glob.sync("./Teams/#{teamPathName}/about.md", nocase: true)[0]
   # If we cannot find an about file, match any md file
-  if not aboutName?
-    aboutName = glob.sync("./Teams/#{teamPathName}/*.md")[0]
+  aboutName = glob.sync("./Teams/#{teamPathName}/*.md")[0] if not aboutName?
+  # Not get just the path from it.
+  aboutName = path.basename aboutName if aboutName?
 
   # Get the lead, ahead of time.
   teamLead = null
@@ -90,7 +91,7 @@ format_json = (data, filepath) ->
   if aboutName?
     if data.teamName? then teamName = data.teamName
     else teamName = teamPathName
-    output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
+    output += " [#{teamName}](./Teams/#{teamPathName}/#{aboutName}) |"
 
   # Add a newline to end this row.
   output += '\n'
