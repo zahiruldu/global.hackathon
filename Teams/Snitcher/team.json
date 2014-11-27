@@ -1,0 +1,25 @@
+{
+  "teamName": "Snitcher",
+  "members": [
+    {
+      "name": "Vitaly Kalmuk",
+      "koding": "fish",
+      "location": "Orel, RU"
+    }
+	{
+      "name": "Artem Sharabiev",
+      "koding": "madest",
+      "location": "Orel, RU"
+    }
+	{
+      "name": "Iliy Krasnov",
+      "koding": "mio",
+      "location": "Orel, RU"
+    }
+	{
+      "name": "Demis Kostromichev",
+      "koding": "arhis",
+      "location": "Orel, RU"
+    }
+  ]
+}
