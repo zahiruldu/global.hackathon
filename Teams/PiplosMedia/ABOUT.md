@@ -1,0 +1,15 @@
+Piplos Media
+================
+What should you know about us? We are a cohesive team of developers. We love to raise up and implement new projects. We are always looking for creative ideas to come to life. We are Piplos from Belarus!
+
+А теперь на русском!
+Кто мы? Мы сплоченная команда специалистов, профессионалы своего дела. Мы любим придумывать и реализовывать хорошие проекты. Мы в постоянном поиске креативных идей которые воплощаем в жизнь. Мы - Piplos из Беларуси!
+------
+
+
+About your team
+===========================
+
+| Raman Marozau | Dmitry Shurco | Pavel Popov | Eugene Danilenko
+|--- |--- |--- |---
+| ![Raman Marozau](http://piplos.by/hackaton/IMG_20140819_140627.jpg) | ![Dmitry Shurco](http://piplos.by/hackaton/shurco.jpg) | ![Pavel Popov](http://piplos.by/hackaton/popov.jpg) | ![Eugene Danilenko](http://piplos.by/hackaton/danilenko.jpg) |
