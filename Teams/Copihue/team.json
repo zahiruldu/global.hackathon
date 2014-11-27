@@ -1,5 +1,5 @@
 {
-  "teamName": "Team Copihue",
+  "teamName": "Copihue",
   "members": [
     {
       "name": "Marcelo Jara Almeyda",
@@ -8,17 +8,17 @@
       "location": "Quilpué, CL"
     },
     {
+      "name": "Francisco Casas Barrientos",
+      "twitter": "NO ACCOUNT",
+      "koding": "autopawn",
+      "location": "Viña del Mar, CL"
+    },
+    {
       "name": "Rodolfo Castillo Mateluna",
       "twitter": "tilder95",
       "koding": "rcastill",
-      "location": "Valparaíso, CL"
+      "location": "Valparaíso, CL",
+      "lead"=true
     },
-    {
-      "name": "Francisco Casas Barrientos",
-      "twitter": "sinanyasar",
-      "koding": "sinan",
-      "location": "San Francsico, US",
-      "lead": true
-    }
   ]
 }
