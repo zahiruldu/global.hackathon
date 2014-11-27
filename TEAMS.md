@@ -503,6 +503,36 @@ We are interested to work on #1 or #3 theme.
 
 ---------------------------------------
 
+Axon
+====
+
+I am Daniel Masterson, a second year university student at the University of Hull (UK) currently studying MEng Computer Science With Games Development. I have been interested in programming since the age of 9 where I dove straight in (and straight back out again) to C++. My life has lead me through many languages - PHP, JavaScript, UnrealScript and my all time favourite C#. I'm here to show people what I can do with a free weekend and a lot of JavaScript.
+
+Here's my face from that one time what I done did wear a suit to:
+<img width="100" height="100" src='https://gravatar.com/avatar/95278064437320be49a4f68d742b9075?size=128' alt='Me'/>
+
+## Why 'Axon'
+
+Because it sounds cool and technical, and my other cool and technical names have been used recently for other things so I kind of had to fall back to this. Also, an axon is a core component of a neuron, so natually it means this project is intelligent, right?
+
+## My Languages
+
+Where to begin...
+- C and C++
+- C# (And a bit of Java)
+- PHP
+- JavaScript with JQuery
+- UnrealScript (with the Unreal Development Kit)
+- Visual Basic if the need arises
+- A bunch of other things I've dabbled in like x86 Assembly, Python, Ruby and more esoteric languages. I even made a Befunge interpreter in HTML and JavaScript because...uh.
+
+## What I will be doing in the project
+
+Due to my almost annoyingly deep knowledge into the intricacies and quirks of JavaScript and JQuery, a large quantity of code will be written in that with either a raw HTML or Canvas front end (I once made a 3D Doom-like engine using CSS 3D transforms on div elements, so I'm not limited to going way out of bounds here!). I personally have not use many frameworks or libraries, but I'll definitely investigate whats on offer and see if it will help in my project.
+
+
+---------------------------------------
+
 B17
 ====
 
@@ -1069,6 +1099,29 @@ dev so we might be going that way with some cool HTML5 based game.
 
 ---------------------------------------
 
+Copihue
+================
+We are a Chilean Team composed by 3 developers. "Copihue", known as Chilean bellflower is the
+national flower of Chile and a real symbol of passion.
+
+About Copihue
+================
+
+| Shelo | Tilder | Autopawn |
+|--- |--- |--- |---
+| No Pictures avaiable at the moment. |
+
+We decided to join because of our passion of large continous hours of pure programming, so you know, this is just perfect.
+
+About your skills and what you are going to do?
+=======
+We are fans of games, so thats where we will be going, of course, using one of the themes presented.
+
+The game will be connected with facebook and (probably) will use Google Game Services.
+
+
+---------------------------------------
+
 CrowdAppz
 ================
 
@@ -1148,39 +1201,6 @@ We're a couple who loves to code.
 * JavaScript
 * HTML5
 
-
-
-
-
----------------------------------------
-
-This is our page
-================
-
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
-
-
-About your team
-===========================
-
-| Nemmar | Ullen | Mark 
-|--- |--- |--- |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg' alt='Nemmar'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg' alt='Ullen'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg' alt='Mark'/> | 
-
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
-
-
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
-
-You can change your mind, that's ok. Just push an update here when you do.
 
 
 
@@ -1286,6 +1306,21 @@ OUR SKILLS
  * NodeJS
  * AngularJS
  * JQuery
+
+
+---------------------------------------
+
+<img width="100" height="100" src='http://i.imgur.com/a3GtBoV.png' alt='header'/>
+
+# Team Develofy
+
+We are a group of developers coming from all corners of the world. We joined hackathon to showcase our talent in building an application with the use of JavaScript specifically NodeJS. We want to win this event in order to prove the world that distance is not a factor and through programming different persons that don't know each other can unite as one the build an application.
+
+
+# Our skills
+
+The technology that we will be using is NodeJS and we are planning to build a game that enables people to see what is the situation of our planet today, it is to help raise awareness that our planet Earth is in need of our help. We believe that by making a game, the message will retain on peoples minds rather than making them read an article. 
+Our skills consists of but not limited to: NodeJS, ExpressJS, Socket.io, AngularJS.
 
 
 ---------------------------------------
@@ -1615,6 +1650,30 @@ Like doing stuff.
 2. Python
 3. Golang
 4. Java
+
+
+---------------------------------------
+
+G51
+===
+We are starting up, growing up... Always... The beauty of learning is that it never ends.
+
+About Us
+========
+
+| Ivan | Henrique
+|--- |---
+| <img src="https://scontent-b-atl.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10273798_483600578435912_4515423862687406568_n.jpg?oh=9073f7ab348e12c3ab5ba60fddc6c357&oe=550CE073" height="250px"> | <img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/10359909_10205284883508716_3645845849171531337_n.jpg?oh=8506cd3e8532d2791a2341ae6259500d&oe=54D5F83C&__gda__=1427047210_908937660d9e782c11f7f4d3bc06f2bc" height="250px">
+
+We are self-taught developers that love to learn new things, especially things that matter in a social context. Our main goal has been to contribute to change the way we treat education in our culture. We share some feelings about formal education and how it should encourage students to care about the society when learning a profession instead to just getting certification. Innovation is something that needs to cover the way we relate to others.
+
+Ivan
+====
+Front-end and back-end developer, started his journey into the software development at High School trying a little tricks with html and css by himself. Finished the underdegree in Control and Automation Engineering at IFG Brazil on august 2014. His projects in the college included developing a simple protocol in Python to comunicate traffic control devices and a web interface for users to see data. Recently started to delve into Rails, CSS and Javascript development.
+
+Henrique
+========
+A passionate software engineer. Started his journey in development late (compared to others) when started his Computer Engineering course at UFG. Later he discovered he really loved that, so he decided to move to a Software Engineering at UFG to focus efforts on software development. Now still coursing, he is focusing his efforts on learning Agile Methodologies, TDD, BDD, Rails, Ruby, metaprogramming and everything related. Wants to make software that matters.
 
 
 ---------------------------------------
@@ -2333,6 +2392,27 @@ About your skills and what you are going to do?
 
 This is a crazy Laravel developer.
 API is my passion and I'm going to show how the API will change the world and you live.
+
+
+
+---------------------------------------
+
+Lexington Techs
+================
+
+<img width="100" height="100" src='http://i.imgur.com/UVWayHR.jpg' alt='Our home!'/>
+
+
+About Us
+===========================
+
+| Isaac | Joel |
+|--- |--- |
+| <img width="100" height="100" src='https://lh6.googleusercontent.com/-PjqgjK1-Qwk/U7RwKbiA8hI/AAAAAAAADHg/YJX4pBlOjmo/s567-no/84d5287c-b0a8-41d6-a1ec-98c8cffee36a' alt='Isaac'/> | <img width="100" height="100" src='https://lh5.googleusercontent.com/-niqoCbrX-cE/UrzdFHBIenI/AAAAAAAAAzU/US9G999D-t0/s567-no/LogoExport1000.png' alt='Joel'/> |
+
+
+Skills & Project: Coming Soon
+=======
 
 
 
@@ -3809,6 +3889,26 @@ Coming soon..
 
 ---------------------------------------
 
+The HD One
+================
+Hello world! My name is Pavel, and I'm the only member of the team. It's my first hackathon and I hope it will be fun.
+
+A little bit about me
+===========================
+I'm software engineer from Kharkiv, Ukraine. Decision to participate in Koding Hackathon was a spontaneous, but I think it's a very good chance for me to verify my experience in out of the ordinary situation.
+
+<img width="100" height="100" src='https://avatars3.githubusercontent.com/u/333910?v=3&s=256' alt='bashmach | The HD One'/>
+
+
+About your skills and what you are going to do?
+===========================
+
+At the moment I'm not totally sure about theme of my project, but most likely it would be something that is related with realtime data streaming.
+
+Planning to use Node.js as a main platform.
+
+---------------------------------------
+
 The Thought Engineer
 ================
 
@@ -3888,6 +3988,16 @@ C/C++/C#
 Javascript
 Python
 
+
+---------------------------------------
+
+The Viable Alternative
+=========
+We are a team of students based in Pittsburgh, looking to make something cool and shiny. 
+
+About our skills and what we're going to do?
+=========
+We aren't sure what our project is going to be yet, but we'll push an update as soon as we do. 
 
 ---------------------------------------
 
@@ -4279,6 +4389,24 @@ We can do a variety of things but our main focus resides within the web.
 ## What's cooking?
 
 We still quite haven't decided what to do but we have some good ideas. Stay tuned :)
+
+
+---------------------------------------
+
+This is our page
+================
+
+We are the YopZ team
+
+
+About your team
+===========================
+
+
+About your skills and what you are going to do?
+=======
+Python, Ruby
+
 
 
 ---------------------------------------
@@ -4812,6 +4940,20 @@ I'm Luke Sawicki, I'm specialising in GIS solutions.
 - C#
 - JavaScript
 - PHP
+
+
+---------------------------------------
+
+Open IT
+================
+We love hackathon, and we won the hackathon twice in Taiwan.  
+We're creative, and we focus on user story.
+We want to make things different. We don't make shit.
+
+
+What I am going to do?
+=======
+We have some ideas about theme 1. It will be cool and fun. 
 
 
 ---------------------------------------
