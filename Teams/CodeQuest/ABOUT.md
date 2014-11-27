@@ -1,6 +1,6 @@
 # Code Quest
 
-Join us on our journey on the world of Fun and Exciting Coding. We are excited to join the 1st Global Hackathon. We will surely make this a fun and meaningful Experience.
+Join us on our journey on the world of Fun and Exciting Coding. We are excited to join the 1st Global Hackathon. And We will surely make this a fun and meaningful Experience. Let the Koding Begin..!!!!
 
 ## About our Team
 
