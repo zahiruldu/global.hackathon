@@ -1049,6 +1049,43 @@ dev so we might be going that way with some cool HTML5 based game.
 
 ---------------------------------------
 
+About Cu3mBY Team
+=================
+
+We are group of friends we love coding together, solve problems and have fun creating apps.
+
+#### Languajes
+- Javascript + NodeJS (steroids)
+- PHP
+- Ruby
+- Python
+- Scala
+- iOS
+- Android
+- (and more even brainfuck)
+
+#### What we love:
+- RESTfuls APIS
+- Docker
+- Software as Services
+- Decoupled Code
+- Refactoring
+- DDD + TDD + Tests !!! :D
+- Nice and clean code
+
+##So let's introduce our Dream Team:
+|Cristina | Alex | Juan | Angel
+| ------- | ---- | ---- | -----
+|<img width="100" height="100" src='https://avatars1.githubusercontent.com/u/524896?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/3292625?v=3&s=200' alt='GitHub Logo'/>| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/636987?v=3&s=200' alt='GitHub Logo'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/6215607?v=3&s=200' alt='GitHub Logo'/>
+
+- https://github.com/CristinaSolana
+- https://github.com/atasciuc
+- https://github.com/onel0p3z
+- https://github.com/angel-cuemby
+
+
+---------------------------------------
+
 #Team CyberHopes
 
 We're a couple who loves to code. 
@@ -1291,6 +1328,39 @@ fully decided yet. I want my project to be able to make a difference.
 
 ---------------------------------------
 
+# Echoes
+
+We are a team from Croatia. Between us we have over 15 years of experience in web development. We all enjoy a good challenge, but we have never worked as a team. This will be an opportunity for us to see what we can create together.
+
+
+## The cast
+
+*(in order of appearance)*
+
+#### Fran Hrzenjak
+Backend developer, enjoys python and astronomy
+
+#### Martin Samsa
+Front end developer with a love-hate relationship with CSS  
+ 
+#### Marin Troselj
+Engineer passionate about Science and Education, Empowering people and Improving society  
+
+
+## Our story
+
+Each of us has a story to tell. But as a team, our story is very short and simple:
+
+> One of us saw the info about this hackaton and thought "why not?"  
+> The others agreed.
+>  
+> To be continued...
+  
+We like useful things, so that's what we hope to create here - a useful tool.
+
+
+---------------------------------------
+
 The Elusive Bits
 ================
 
@@ -1315,6 +1385,26 @@ About your skills and what you are going to do?
 =======
 Backend and frontend skills all over the place.
 We'll be targeting themes 2, 5, and 6.  
+
+
+---------------------------------------
+
+This is our page
+================
+
+Coming soon...
+
+
+About our team
+===========================
+
+Coming soon...
+
+
+About our skills and what we are going to do?
+=======
+
+We don't know yet! :D
 
 
 ---------------------------------------
@@ -1506,6 +1596,26 @@ We will use  Scala, Liftweb framework, and maybe MongoDB, Twitter Bootstrap and 
 
 We will maybe work on topics #2 or #3
 
+
+
+---------------------------------------
+
+# Team Gamma
+
+I am Alexander Barsukov.
+
+## About Me
+
+Sometimes I've got somewhat interesting things about programming, but I am new in web programming.
+
+## About Languages 
+
+I've dealt with quite a few programming languages.
+
+## About themes
+
+ As concerns of this competition I'm mostly think about themes of games:introducing 
+ software developme  nt and HTML5 games.
 
 
 ---------------------------------------
@@ -1926,6 +2036,21 @@ We haven't yet set what we are going to do. We will choose something simple and 
 
 ---------------------------------------
 
+# InsaneAi Team
+
+We are a group of enthusiastic developers around the world and passioned
+about programming and making cool things.
+
+## About Us
+
+- Nestor: 13+ years web developer with experience in many thecnologies around web, a problem solver, an architech and a guy pasioned about
+performance.
+- Alvis: I am interested in all fields of software development, especially UI/UX design.
+- Dmitry: Young developer with good goals in life. Main skills include working with databases, creating algorithms, building project architecture, back-end (Python, Javascript, Java, ASP.NET, VB) and front-end development (HTML5/CSS3/Javascript).
+
+
+---------------------------------------
+
 Intelligence Spreader
 ================
 
@@ -2319,6 +2444,28 @@ About your skills and what you are going to do?
 
 We are good at most of the common web application languages such as NodeJs, PHP, J2EE, ASP.NET and varity of javascript libraries and frameworks such as Jquery and AngularJs. 
 We are going to implement an interesting game to introduce software development for a new comer.
+
+---------------------------------------
+
+Nikolas Moya @nikolasmoya
+===========================
+- from: Campinas, Brasil
+- 50% Stack Developer, working my way to full stack
+- C, Python, Javascript (Front and Back end), PHP
+- CS Master Student working on interactive segmentation algorithms
+- Github fan
+
+
+
+Marilia Ferreira @m_ntns
+===========================
+- from: Curitiba, Brasil
+- User Experience Professional
+- Pixels are my thing
+- Framer JS, Origami, Coffeescript, CSS, HTML5
+- Student at University of Dundee
+
+
 
 ---------------------------------------
 
@@ -4476,6 +4623,21 @@ I am Azmath Shamrad from Colombo, Sri Lanka
 - PHP
 - HTML5
 - Javascript
+
+
+---------------------------------------
+
+#Limonxello team
+
+Soy un programador solitario, en un futuro me gustaría incluir a alguien más en el equipo.
+
+#About me
+Nick: Viruslemon
+
+#Languages
+-Java
+-JavaScript
+-JQuery
 
 
 ---------------------------------------

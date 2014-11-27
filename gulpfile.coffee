@@ -2,6 +2,7 @@
 # # Gulpfile
 #
 path    = require 'path'
+glob    = require 'glob'
 gulp    = require 'gulp'
 concat  = require 'gulp-concat'
 tap     = require 'gulp-tap'
@@ -44,6 +45,13 @@ format_member = (member) ->
 format_json = (data, filepath) ->
   teamPathName = path.basename path.dirname filepath
 
+  # We're ignoring multiple matches, since we only want to
+  # load the first one
+  aboutName = glob.sync("./Teams/#{teamPathName}/about.md", nocase: true)[0]
+  # If we cannot find an about file, match any md file
+  if not aboutName?
+    aboutName = glob.sync("./Teams/#{teamPathName}/*.md")[0]
+
   # Get the lead, ahead of time.
   teamLead = null
   if data.members? and data.members instanceof Array
@@ -79,9 +87,10 @@ format_json = (data, filepath) ->
   output += " |"
 
   # Third column, TeamPage
-  if data.teamName? then teamName = data.teamName
-  else teamName = teamPathName
-  output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
+  if aboutName?
+    if data.teamName? then teamName = data.teamName
+    else teamName = teamPathName
+    output += " [#{teamName}](./Teams/#{teamPathName}/#{aboutName}) |"
 
   # Add a newline to end this row.
   output += '\n'
