@@ -20,7 +20,7 @@ Where to begin...
 - UnrealScript (with the Unreal Development Kit)
 - Visual Basic if the need arises
 - A bunch of other things I've dabbled in like x86 Assembly, Python, Ruby and more esoteric languages. I even made a Befunge interpreter in HTML and JavaScript because...uh.
-- 
+
 ## What I will be doing in the project
 
 Due to my almost annoyingly deep knowledge into the intricacies and quirks of JavaScript and JQuery, a large quantity of code will be written in that with either a raw HTML or Canvas front end (I once made a 3D Doom-like engine using CSS 3D transforms on div elements, so I'm not limited to going way out of bounds here!). I personally have not use many frameworks or libraries, but I'll definitely investigate whats on offer and see if it will help in my project.
