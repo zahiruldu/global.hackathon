@@ -1,5 +1,5 @@
 {
-  "teamName": "PerlMonks",
+  "teamName": "VamPerl",
   "members": [
     {
       "name": "Bărbânță Ligia Luoana",
@@ -10,7 +10,8 @@
       "name": "Köble István",
       "twitter": "kobleistvan",
       "koding": "kobleistvan",
-      "location": "Cluj-Napoca, RO"
+      "location": "Cluj-Napoca, RO",
+      "lead": true
     },
     {
       "name": "Alexandru Străjeriu",
