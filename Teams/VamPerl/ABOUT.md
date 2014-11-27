@@ -1,21 +1,38 @@
-![Cover](https://pbs.twimg.com/media/BYjZcj4CIAAP65b.jpg)|
-Greetings from team VamPerl!
 
+#Greetings from team VamPerl!
+
+![Cover](https://pbs.twimg.com/media/BYjZcj4CIAAP65b.jpg)
 ===========================
 
- ![Devrim](https://pbs.twimg.com/profile_images/378800000863144334/uZWGPcJz_400x400.jpeg) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
-
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
+#####[Alex]
+![Alex](https://pbs.twimg.com/profile_images/505281101082791936/jJW6mHfi.jpeg) 
 
 
-About your skills and what you are going to do?
-=======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+#####[István]
+![Istvan](https://pbs.twimg.com/profile_images/413731703660613632/s3Xz2DYo.jpeg) 
 
-You can change your mind, that's ok. Just push an update here when you do.
 
+#####[Luoana]
+![Luoana](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/931317_3044989219401_1292115280_n.jpg?oh=6fa796802da6b23f0fee8007878359ea&oe=54D3299A&__gda__=1423018301_9b28656ceb77bc46ab1f6b25d260ef7c)
+
+
+> **Who we are and what do we want?**
+
+> - We're a few humble developers from Cluj-Napoca, Romania, situated in Transylvania, the fearsome land of vampires! **(bliiiiiiiii)**
+> - Being perl developers, we're considered to be members of the **Perl Counts of Transylvania** - [ClujPM]
+> - We're excited about the first worldwide online hackathon and would like to be a part of it, take the challenge of competing with other talented developers from all around the world.
+
+> **What technologies do we like?**
+######We're interested in a vast array of different technologies and in the way we combine them for a higher goal. Some of our favorite technologies being:
+> - Perl frameworks and modules (Dancer, Catalyst, Mojolicious, DBIx::Class etc.)
+> - Javascript frameworks (Backbone)
+> - HTML5  & CSS3
+> - Various APIs
+> - Anything old school, new and experimental!
+
+####Good luck to everyone!
+
+[ClujPm]:https://www.facebook.com/cluj.pm
+[Alex]:https://www.facebook.com/alex.strajeriu?fref=ts&ref=br_tf
+[István]:https://www.facebook.com/kobleistvan
+[Luoana]:https://www.facebook.com/luoana.barbanta?fref=ts&ref=br_tf
