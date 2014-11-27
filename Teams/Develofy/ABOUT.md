@@ -2,9 +2,10 @@
 
 # Team Develofy
 
-We are team Develofy, a group of developers that love JavaScript and come from all corners of the world, showing the idea behind this hackathon.
+We are a group of developers coming from all corners of the world. We joined hackathon to showcase our talent in building an application with the use of JavaScript specifically NodeJS. We want to win this event in order to prove the world that distance is not a factor and through programming different persons that don't know each other can unite as one the build an application.
 
 
 # Our skills
 
-We are JavaScript developers, with knowledge of Node.js, Express.js, Socket.io, AngularJS and so on. Write a project with just JavaScript will be our challenge and we'll try our best to show you what we can do.
+The technology that we will be using is NodeJS and we are planning to build a game that enables people to see what is the situation of our planet today, it is to help raise awareness that our planet Earth is in need of our help. We believe that by making a game, the message will retain on peoples minds rather than making them read an article. 
+Our skills consists of but not limited to: NodeJS, ExpressJS, Socket.io, AngularJS.
