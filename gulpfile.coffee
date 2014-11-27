@@ -90,7 +90,7 @@ format_json = (data, filepath) ->
   if aboutName?
     if data.teamName? then teamName = data.teamName
     else teamName = teamPathName
-    output += " [#{teamName}](./Teams/#{teamPathName}/#{aboutName}) |"
+    output += " [#{teamName}](./Teams/#{teamPathName}/ABOUT.md) |"
 
   # Add a newline to end this row.
   output += '\n'
