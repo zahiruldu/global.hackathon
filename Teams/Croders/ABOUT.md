@@ -24,4 +24,4 @@ As you can see, we are all masters, each specialized in specific field.
 - Node.js, Nginx
 - Scripting languages in general
 
-We love to *create new and innovative stuff*!
+We love to *create new an innovative stuff*!
