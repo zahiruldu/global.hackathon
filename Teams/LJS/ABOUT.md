@@ -7,18 +7,22 @@ Who we are
 ==========
 ### robotmayo
 A dev in the here and the now, I don't even know where this sentence is going as that is outside my planning ra
+
 JavaScript
 
 ### danecando
 A worthless web dev from fort lauderdale florida lusting for trashy women.
+
 JavaScript
 
 ### oliveirrr
 Has two buttons dedicated to semicolons on his keyboard.
+
 JavaScript
 
 ### beingbrown
 Once proved that 1 == fish
+
 Java, JavaScript
 
 What we're doing
