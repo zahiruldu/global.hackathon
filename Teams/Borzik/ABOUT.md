@@ -1,7 +1,7 @@
 About me
 ===========================
 
-I'm full stack web developer from Ukraine, and I've worked for more than 1000 hours at oDesk already. I love what I do.
+I'm full stack web developer from Ukraine with over 3 years of web development experience. I like that job very much. I didn't find a team for myself, so it's a solo, but I'll do my best to deliver really interesting application.
 
 #### Languages I use:
 - Ruby
