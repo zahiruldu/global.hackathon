@@ -1049,6 +1049,32 @@ dev so we might be going that way with some cool HTML5 based game.
 
 ---------------------------------------
 
+CrowdAppz
+================
+
+```
+                        	 ___-------___
+                         _-~~             ~~-_
+                      _-~                    /~-_
+   /^\__/^\         /~  \                   /    \
+ /|  O|| O|        /      \_______________/        \
+| |___||__|      /       /                \          \
+|          \    /      /                    \          \
+|   (_______) /______/                        \_________ \
+|         / /         \                      /            \
+ \         \^\\         \                  /               \     /
+   \         ||           \______________/      _-_       //\__//
+     \       ||------_-~~-_ ------------- \ --/~   ~\    || __/
+       ~-----||====/~     |==================|       |/~~~~~
+        (_(__/  ./     /                    \_\      \.
+               (_(___/                         \_____)_) - tbd
+
+
+```
+
+
+---------------------------------------
+
 About Cu3mBY Team
 =================
 
@@ -2672,6 +2698,40 @@ Vladimir and Rodion. :p
 
 ---------------------------------------
 
+# Team PhelanGood
+One man, on a mission, to save the world through the Koding Global Hackathon. Just kidding.
+
+# About Me
+<img width="100" height="100" src='http://i.imgur.com/niC2HLh.png' alt='Hubert'/>
+
+Hi, my name is Hubert Chen. I am a student studying Software Engineering at Monmouth University, which is located in New Jersey, 
+USA.
+
+I would like to join this hackathon because it will be a great opportunity to challenge myself to build something that can
+create a positive impact. After 4 years of school, I believe I have accumulated enough knowledge to build a full stack system.
+
+As your typical broke college student, winning any sort of prize money would be a extremely helpful. However, given the sheer 
+amount of teams (2,000 maximum) and probably being on the low end of experience in the Top Hacker category, the odds of myself
+winning are unlikely. This does not deter me. Instead, I hope to try the best that I can and when the competition has subsided, 
+analyze other people's work in the hopes that I may find new ways of approaching problems and designing solutions. 
+
+Regardless of whether I get accepted, I would like to applaud the Koding team for hosting this event.
+
+Thank you.
+
+# About the Project
+As it isn't the time to learn new technologies, I will be sticking with easy to use and familar technologies. My stack will include: 
+Koding for hosting, Apache, MySQL, PHP, Bootstrap, CSS, JQuery, JS, and HTML.
+
+Theme: Problems facing our planet, explained using interactive data visualization.
+
+*APIs: Data.gov, Census.gov, WorldBank.org, Ip2Country through MashApe.
+
+*This is bound to change as I am still playing around with a few ideas.
+
+
+---------------------------------------
+
 Phi
 =====
 
@@ -3105,6 +3165,21 @@ We're a bunch of high schoolers from Massachusetts, wanting to make a better wor
 ###Nick Hluska
 
 > Nick is the team leader for Stergeron. He has competed in the American Computer Science League and attended the Blueprint Hackathon. His other STEM endeavours include being the President and founder of his high school’s Theoretical Physics Club and having collaborated with Fermi National Accelerator Laboratory scientists on experiments involving cosmic ray detection and analysis. He is a retired semi-professional Starcraft player, an active semi-professional Super Smash Brothers Melee Player, and a baseball player. His competitive hobbies outside of STEM, baseball, and eSports include chess, where he is the Co-Captain of the Needham High School Chess Team. He has experience with C++.
+
+
+---------------------------------------
+
+Hi everyone.My name is Hristo and I'm a 19 years old software engineering student. I'm going to be building a WebGL game using
+Three.js & Javascript(of course). I have an idea about the game and I won't be revealing it just yet so stay in touch.
+
+I'm also looking for people to join my team that's why I will give you a brief introduction about what I can do and what my skills are.
+For the past 6 months I have been working in a company in the area of computational chemistry. I'm involved in projects which
+for the most part solve problems with the help of graph theory. This is where my strength lies. I"m also a C# certified specialist
+and I have some good amount of experience developing applications & also a good amount of presentation skills. I'm also lucky enough
+to be a MSP and MCP. If you are passionate about games and like to create stuff that move please don't hesitate to contact me.
+I'm looking for technically skilled persons and design and user interface is going to be the second most important thing.
+
+Thanks !
 
 
 ---------------------------------------
@@ -4788,6 +4863,13 @@ of application you are going to build.
 You can change your mind, that's ok. Just push an update here when you do.
 
 
+
+---------------------------------------
+
+undefined
+=========
+
+undefined
 
 ---------------------------------------
 
