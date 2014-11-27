@@ -6,7 +6,7 @@ About
 
 | alex | mihai | adi
 |--- |--- |---
-| ![Alex](http://goo.gl/I76TOC) | ![Mihai](http://goo.gl/qR7sSW) | ![Adi](http://goo.gl/Wumk1v) | 
+| ![Alex](http://goo.gl/7KDmR7) | ![Mihai](http://goo.gl/OkKqD0) | ![Adi](http://goo.gl/HE4k7v) | 
 
 School is boring and no one teaches the things you learn by yourself!
 
