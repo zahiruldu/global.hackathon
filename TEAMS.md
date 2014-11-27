@@ -4178,6 +4178,14 @@ Very likely, we'll use some clojure, java, some html5/CSS3 magic... stay tuned !
 
 ---------------------------------------
 
+Too Poor; Need Seed
+==================
+
+We need to fill this in and we promise we'll do it by the tournament.
+
+
+---------------------------------------
+
 Transact Pro covered TPro team
 ==============================
 Our team is located in Riga (Latvia). All 48 hours of hackathon we will spend in our company office.
@@ -4294,6 +4302,24 @@ I'm Tim, hoping to build a team to do great things with mapping for a community 
  - Google API
  - Python
  
+
+
+---------------------------------------
+
+A team from 4 continents
+================
+
+We got to know each other as part of an international contest, Google Code-In 
+when we were in high school!
+
+Who we are
+===========================
+4 (Very) young software developers from South and North America, Europe and
+Asia.
+
+TODO
+===========================
+Put more relevant info here.
 
 
 ---------------------------------------
@@ -5037,6 +5063,12 @@ About your skills and what you are going to do?
 
 
 Comming soon
+
+
+---------------------------------------
+
+Hola! I know I am very very late but still try my chance to join.
+I believe in Java ^^
 
 
 ---------------------------------------
