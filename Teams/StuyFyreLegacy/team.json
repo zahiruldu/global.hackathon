@@ -1,11 +1,11 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "StuyFyreLegacy",
   "members": [
     {
       "name": "Ethan Cheng",
       "twitter": "",
       "koding": "elc1798",
-      "location": "New York, US"
+      "location": "New York, US",
       "lead": true
     },
     {
