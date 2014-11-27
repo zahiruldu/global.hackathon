@@ -1,7 +1,7 @@
 Team LJS(Learn JavaScript)
 ==========================
 Just a couple of fools who woke up one day and decided to learn programming via JavaScript. 
-You could count our combined experience on one hand. We
+You could count our combined experience on one hand.
 
 Who we are
 ==========
