@@ -36,7 +36,10 @@ tap_json = (file, t) ->
 
 # Format a member object into a link
 format_member = (member) ->
-  "[#{member?.name}](https://koding.com/#{member?.koding})"
+  if member.koding?
+    "[#{member?.name}](https://koding.com/#{member?.koding})"
+  else
+    member?.name
 
 
 
