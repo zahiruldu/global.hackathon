@@ -15,5 +15,6 @@ now consists of Ethan Cheng, Yicheng Wang, Jesse Elliot, Ruojia Sun, and Nobel G
  - C++
  - Shell
  - C (Slightly)
- 
+ - Netlogo
+ - Scheme
  
