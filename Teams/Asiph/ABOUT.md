@@ -3,13 +3,15 @@ About Team Asiph
 
 | awm4j |sippy | hagan
 |--- |--- |---
-| ![awm4j](http://graph.facebook.com/awm4j/picture) | ![sippy](http://graph.facebook.com/Sippyy/picture) | ![hagan](http://graph.facebook.com/nate.hagan/picture) |
+| ![awm4j](http://graph.facebook.com/awm4j/picture?type=large) | ![sippy](http://graph.facebook.com/Sippyy/picture?type=large) | ![hagan](http://graph.facebook.com/nate.hagan/picture?type=large) |
 
 /// In the process of writing this up 
+
 Tell us who you are, why you did you decide to join?
 
 Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
 Tell us why you want to win.
+
 /// end writing up process
 
 Skills
