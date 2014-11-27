@@ -737,6 +737,26 @@ The other languages I like are -
 
 ---------------------------------------
 
+Team ByteMe
+================
+
+We're Bhavna and Josephine, here to have some fun while making cool stuff that people use. We met at Carnegie Mellon University's Master of
+Entertainment Technology Program, and have been friends ever since. Bhavna is a coder; Josephine is a designer; we both like music,
+games, and art, so it really is a match made in tech heaven!
+
+About your team
+===========================
+
+| Bhavna: C#, Processing, Java, Python, C++ | Josephine: Illustrator, Photoshop, Sketch
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/478676620517986304/lgYjxIYD.jpeg' alt='Bhavna: C#, Processing, Java, Python, C++'/> | <img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/073/099/17a1172.jpg' alt='Josephine: Illustrator, Photoshop, Sketch'/> | 
+
+
+
+
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -2069,7 +2089,7 @@ about programming and making cool things.
 
 ## About Us
 
-- Nestor: 13+ years web developer with experience in many thecnologies around web, a problem solver, an architech and a guy pasioned about
+- Nestor: 13+ years web developer with experience in many technologies around web, a problem solver, an architech and a guy pasioned about
 performance.
 - Alvis: I am interested in all fields of software development, especially UI/UX design.
 - Dmitry: Young developer with good goals in life. Main skills include working with databases, creating algorithms, building project architecture, back-end (Python, Javascript, Java, ASP.NET, VB) and front-end development (HTML5/CSS3/Javascript).
