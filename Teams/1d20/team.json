@@ -1,0 +1,30 @@
+{
+  "teamName": "1d20",
+  "members": [
+    {
+      "name": "Anthony Adamiv",
+      "twitter": "detonavomek",
+      "koding": "detonavomek",
+      "location": "Kyiv, UA",
+      "lead": true
+    },
+    {
+      "name": "Andrew Dacenko",
+      "twitter": "andrewdacenko",
+      "koding": "andrewdacenko",
+      "location": "Kyiv, UA"
+    },
+    {
+      "name": "Viktor Danilyuk",
+      "twitter": "pod6666",
+      "koding": "pod666",
+      "location": "Kyiv, UA"
+    },
+    {
+      "name": "Dmitry Pryadko",
+      "twitter": "yesthymajesty",
+      "koding": "thymajesty",
+      "location": "Kyiv, UA"
+    }
+  ]
+}
