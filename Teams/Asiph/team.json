@@ -5,20 +5,20 @@
       "name": "Matt McGee",
       "twitter": "awm4j",
       "koding": "awm4j",
-      "location": "York, PA",
+      "location": "York, US",
       "lead": true
     },
     {
       "name": "Christian Dehli",
       "twitter": "cpdehli",
       "koding": "sippy",
-      "location": "Pittsburgh, PA"
+      "location": "Pittsburgh, US"
     },
     {
       "name": "Nate Hagan",
       "twitter": "terminatur1",
       "koding": "terminatur",
-      "location": "Seattle, WA"
+      "location": "Seattle, US"
     }
   ]
 }
