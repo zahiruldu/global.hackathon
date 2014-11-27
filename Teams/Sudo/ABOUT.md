@@ -17,6 +17,5 @@ Sudo company began the last year as a project to support web applications and pr
 
 About your skills and what you are going to do?
 =======
-Don't reveal too much about your project, this is a competition but maybe
-you can tell us the technologies, APIs you are going to use and what kind
-of application you are going to build.
+
+Currently, all team work with technologies PHP, Symfony Framework, JavaScript, JQuery and angularJS. We are interested to work on #1 and #3.
