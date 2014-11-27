@@ -2,7 +2,7 @@
 
 We, Abhishek and Surbhi are team HowardRoark and just like him we follow our passion. 
 Just like him we give our everything to what we do and build things that have logic and utility.
-Be ponder over our problem and do our best to come up with elegant solutions.
+We ponder over problems and do our best to come up with elegant solutions.
 ###### And we are awesome like that.
 
 ## Tech we love
