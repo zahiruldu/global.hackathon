@@ -733,6 +733,45 @@ Frameworks:
 
 ---------------------------------------
 
+This is our page
+================
+
+BabesFromVictoria
+
+
+The Team
+===========================
+
+| Erika | Leslie | Quintan | Jeremy
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://gravatar.com/avatar/5608c1777ec53c15a869483cae2fa881?size=150&d=https://koding-cdn.s3.amazonaws.com/square-avatars/default.avatar.150.png&r=g' alt='Erika'/> | <img width="100" height="100" src='' alt='Leslie'/>| <img width="100" height="100" src='' alt='Quintan'/>| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=150&height=150&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fpollodiablo%2Favatar-1416941509973' alt='Jeremy'/> |
+
+Total babes, right? We joined to learn and demonstrate our skills, and because a global hackathon sounds awesome!
+
+
+Our skills
+=======
+Erika - 3rd year Software Engineering student who loves python, user interaces, and is able to make C cooperate.
+
+Leslie - 4th year Computer Science student. Co-op experience in cloud computing, database management and front-end design & implementation. 
+
+Quintan - blurb
+
+Jeremy - 3rd year BSEng. Best with C/C++ and Java/Groovy. Co-op experience primarily with QA and test automation.
+
+
+What we'll do
+=======
+We've chosen to combine themes 3 & 4 - we're going to create a fun HTML5 game to encourage users to read EULAs.
+
+Technologies we'll use: ...
+APIs we'll use : ...
+
+Then we're going to win.
+
+
+---------------------------------------
+
 
 Introduction
 ================
@@ -3208,6 +3247,23 @@ I am deciding to work the theme #1 or #3, using the MEAN stack and d3.js for int
 
 ---------------------------------------
 
+## NEO TECH
+
+NEO TECH is my internet alias for programming and developping matters. My name is Sergio Yáñez, and I am from Santiago, Chile
+
+## Languages
+
+I Develop frequently in
+C/C++
+Java
+C#
+Python
+
+I really like developping videogames and i always embrace new challenges!
+
+
+---------------------------------------
+
 # Neskromny
 
 ## I'm a web programmer from Kiev
@@ -3666,19 +3722,18 @@ Random Hackers
 
 We are the Random Hackers team.
 
-
 About
 =====
 
-| Dylson | Ildus | Jenthebest | RobPW
-|--- |--- |--- |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png' alt='Dylson'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg' alt='Ildus'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/537042120821862401/X37nkZ0U_400x400.png' alt='Jenthebest'/>| <img width="100" height="100" src='https://pbs.twimg.com/media/BeLjs4kIQAAkR83.jpg:thumb' alt='Rob-pw'/>
+| Dylson | Ildus | Jenthebest | RobPW | Ben 
+|--- |--- |--- | --- | ---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png' alt='Dylson'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg' alt='Ildus'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/537042120821862401/X37nkZ0U_400x400.png' alt='Jenthebest'/> | <img width="100" height="100" src='https://pbs.twimg.com/media/BeLjs4kIQAAkR83.jpg:thumb' alt='Rob-pw'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/528597310612058112/3PD27_0I_200x200.jpeg' alt='Ben'/> 
 
 We're still gathering.
 
-
 Skills
 ======
+
 Ruby, Rails, Javascript, (S)CSS, HTML.
 
 Idea
@@ -3949,6 +4004,35 @@ Hope to make an awesome Html5 Game!
 
 ---------------------------------------
 
+This is our page
+================
+
+We are two enthusiastic entrepre-coders who love to invent and innovate beyond what's possible.
+
+
+About your team
+===========================
+
+| Josh | Micaiah
+|--- |---
+| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/01e/0bd/259cd3e.jpg' alt='Josh'/> | <img width="100" height="100" src='https://media.licdn.com/media/p/8/005/088/175/30347f7.jpg' alt='Micaiah'/>
+
+The reason we joined this hackathon was to have a fun way to put our programming/problem solving skills to the test.
+
+Josh and I both have a way of thinking about everything we encounter anything that causes problems or isn't efficient, how
+can we fix this? It's this motivation that drives the majority of our projects, the rest of them fall along the lines of, 
+"How can we turn this microwave into something useful other than cooking hot pockets?" Either way, it's our passion to make
+things that can benefit people in whatever they are doing, making technology work for us, not the other way around.
+
+
+About your skills and what you are going to do?
+=======
+We tend to work better with html 5 and jQuery, our project will probably 
+revolve around web technologies including PHP for our server side code. So
+the educational multiplayer game sounds like a likely option for our theme choice.
+
+---------------------------------------
+
 Sons Of Web
 ================
 
@@ -4117,47 +4201,6 @@ to be a MSP and MCP. If you are passionate about games and like to create stuff 
 I'm looking for technically skilled persons and design and user interface is going to be the second most important thing.
 
 Thanks !
-
-
----------------------------------------
-
-We are Team SuperInTech
-=======================
-
-We are a team of designers & developers with a strong focus on creating awesome stuff. Whether its designing a landing page, creating business websites or developing E-Commerce site. We take immense pleasure in detailing everything we work on. We love what we work & make sure that our clients also love our work.
-
-Our workflow includes: Reviewing -> Planning -> Designing -> Development -> Marketing -> Lead Generation -> Future Updates
-
-We are well known for: 
-BEAUTIFUL DESIGNS  |  PERFECT CODING  |  ENSURED TRUST
-
-
-About Us:
-=======================
-
-| Vijayinder Singh | Sneha Samfrancisco | Swapnil Samfrancisco
-|--- |--- |--- |---
-| <img width="100" height="100" src='http://superintech.com/hackathon/vj.gif' alt='Vijayinder Singh'/> | <img width="100" height="100" src='http://superintech.com/hackathon/sneha.png' alt='Sneha Samfrancisco'/> | <img width="100" height="100" src='http://superintech.com/hackathon/swapnil.gif' alt='Swapnil Samfrancisco'/> | 
-
-We are a team of designers & developers. In short - We are GEEKS from the future!!
-
-We have joined the hackathon to contribute our share to the community. If we win it will not be just for the sake of name & fame BUT so that we can invest it into our further developing ideas. We are small team short on funds & we are desperately looking for some help. We have lot of ideas developing from the last 7 years of working in different streams. But they are still ideas as they never developed into concepts. If we win this, we are definitely going to get moving forward from here. Fingers crossed!!
-
-
-Our Team Skills & Background:
-=======================
-
-Vijayinder (a.k.a: VJ): I started my coding journey 7 years back with .net technology. After few years of struggling & going through different technologies, I finally ended up on php. Which lead me learning WordPress as a platform. Since then it has been a great experience of learning from scratch to being an expert in WordPress theme development. I now have knowledge of WordPress Responsive Theme development -> Joomla as a platform -> Magento Theme Development as well.
-I am working with a great team that I have combined after years of working together & trust. We are taking multiple projects monthly, especially related to development of wordpress themes & portfolios. Apart from that I have also trained myself in Internet Marketing Techniques, as well as I have knowledge of adwords and adroll just to assist clients with their businesses when needed.
-
-Sneha (a.k.a: Mam): Hi there!! My name is Sneha Samfrancisco, I'm graphic designer & web developer working in this field for more than 7 years. Till date I have designed & developed a wide range of websites including: E-commerce websites, Business websites, Landing pages. The web designing & development technologies that I am expert at using include: Photoshop, Illustrator, HTML5/CSS3, Corel Draw X4. Open source platforms that I have expertise includes: WordPress, Magento, Joomla, Prestashop etc. I love working with new challenges. I believe in communication & my belief is that "Communication is the key to a successful Project" So let's start achieving success..!!
-
-Swapnil (a.k.a: Neal): I started my career as an Mech Engineer with ACC Cement limited, where I was selected from campus placement. It was a great experience as I was part of project team for almost 3 years. In all these times, my actual interest remained in designing softwares such as Autocad. After a span of three years I decided to quit job with ACC and I started learning design and development. After 6 months of training from VJ & Sneha, learning the designing & development basics, tools as in Photoshop & Dreamweaver etc, I was all set with the industry standards and started working professionally as a freelancer designer & developer. Pretty soon work started to flow & now I am working on multiple projects for clients overseas. All these years, the experience of handling projects (planning & excuting) from the previous job, always came handy. It's been almost 3 years now working in the IT industry & it's been a really great journey so far. Looking forward to many more :)
-
-
-What we are going to do?
-=======================
-We are in a bit of confusion at the current moment, when it comes to deciding what we are planning to create. But definitely we are planning to stick to the theme which will help support a global cause. And which will make things easier for the general public, when it comes to designing & coding. We'll be most probably using WordPress as a platform. As soon as we finalize the API's to be used, we'll update here. Thank you.
 
 
 ---------------------------------------
@@ -4952,6 +4995,19 @@ C/C++/C#
 Javascript
 Python
 
+
+---------------------------------------
+
+Briefly describe your team
+==========================
+We are friends that like to code together. This year we graduated together in computer science at the Free University of Brussels. Surely, this Hackaton will be much fun but we are here also for new skills and experience. 
+Oh almost forgotten.. we love beer.
+
+
+
+What are your skills?
+=====================
+First of all, we are computer scientist. So we know a little bit of a lot of things. On the other hand, we are graduates, so we don't know anything. Web development for the win!
 
 ---------------------------------------
 
