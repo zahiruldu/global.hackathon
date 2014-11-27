@@ -34,12 +34,13 @@ We can do a variety of things but our main focus resides within the web.
     * + Underscore
     * + Backbone
     * + MEANstack
+    * + Meteor
     * + etc.
 * CSS
     * Traditional
     * LESS
 * PHP *(If we HAVE to)*
-* JAVA
+* Java
 * C/C++
 * Golang
 * Python
