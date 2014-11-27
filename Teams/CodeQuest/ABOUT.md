@@ -1,11 +1,11 @@
 # Code Quest
 
-Join us on our journey on the world of Coding.
+Join us on our journey on the world of Fun and Exciting Coding. We are excited to join the 1st Global Hackathon. We will surely make this a fun and meaningful Experience.
 
 ## About our Team
 
 We are a team of developers from the Philippines. We studied Computer Engineering and mastered in Software development.
-Now each of us are working in different fields of Software development. We built this team to make our own start up Company,as of now we are just getting simple projects. We already have used many different languages in our projects. Mostly our Projects are Desktop Application, but we are also used in creating Web applications and Mobile Apps. 
+Now each of us are working in different fields of Software development. We built this team to make our own start up Company,as of now we are just getting simple projects. We already have used many different languages in our projects. Mostly our Projects are Desktop Application, but we are also used in creating Web applications and Mobile Apps.
 
 
 | Nehto | Mai Lin | Al | Del
@@ -19,8 +19,4 @@ Now each of us are working in different fields of Software development. We built
 
 ## About your skills and what you are going to do?
 We are still brainstorming on what kind of Project we would be creating based on the theme.
-But as of now we would like to create a great Web Application using:
-HTML5
-Javascript
-JQuery
-CSS
+We are very knowledgable in: HTML5, PHP, Javascript,JQuery, CSS, Java(SE and EE), C#, .Net, MySQL
