@@ -7,7 +7,7 @@ Team Members
 
 | Member | Skills And Bio
 |:---: |--- 
-| Karim ![Karim](http://i.imgur.com/kNQEylJ.jpg?1) | <p>I'm a gamer, a geek and a hardcore music fan. I also design the stuff and lead the team, I work with Java/C/C++/Android </p><p>My Twitter's @K_arimAhmed</p> 
+| Karim ![Karim](http://i.imgur.com/kNQEylJ.jpg?1) | <p>I'm a gamer, a geek and a hardcore music fan. I also design the stuff and lead the team, I work with Java/C/C++/Android </p><p>My Twitter's: @K_arimAhmed</p> 
 | Abdulaziz ![Abdulaziz](http://i.imgur.com/LD5SjRN.jpg?1) | <p>I help with everything, Knowing a little bit of everything never hurts! I'm a Java/Android guy though.</p><p>My Twitter: @AbdulazizAlaa</p>
 | Omar ![Omar](http://i.imgur.com/RtpARpw.jpg?1) |<p>I look pretty innocent, don't be fooled though, I can do PHP, MySQL, HTML/CSS, Some Javascript, AJAX, jQuery,Java, C++, I know some Linux crap and I don't know what else can I do.</p><p>My Twitter's: Omarito2412</p>
 | Ali ![Ali](http://i.imgur.com/E7L2aeD.jpg?1) | <p>I'm basically the coolest of them all, I'm also a hardcore starcraft 2 gamer.</p><p>I know how to handle Unity engine, Html/Css, js, some angular, c++, java, going for jquery and iOS pretty soon. </p><p>My Twitter's: @Gripppp.</p>
