@@ -18,7 +18,7 @@
 
 > **Who we are and what do we want?**
 
-> - We're a few humble developers from Cluj-Napoca, Romania, situated in Transylvania, the fearsome land of vampires! **(bliiiiiiiii)**
+> - We're a few humble developers from Cluj-Napoca, Romania, situated in Transylvania, the fearsome land of vampires!
 > - Being perl developers, we're considered to be members of the **Perl Counts of Transylvania** - [ClujPM]
 > - We're excited about the first worldwide online hackathon and would like to be a part of it, take the challenge of competing with other talented developers from all around the world.
 
