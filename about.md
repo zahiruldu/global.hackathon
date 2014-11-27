@@ -1,4 +1,3 @@
-
 # Team ThanosAlexander
 
 I am Thanos Alexandris. I am working solo on this project and I hope to impress you!
