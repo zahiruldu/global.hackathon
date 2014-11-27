@@ -19,4 +19,9 @@ Once upone a time craftsman decided to enter the best techical university of Ukr
 
 About our skills and what we are going to do?
 =======
-We are still brainstorming.
+We are still brainstorming about idea.
+
+Skills:
+ - Python/Django
+ - AngularJS/CoffeeScript
+ - HTML5/CSS3
