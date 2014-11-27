@@ -11,4 +11,4 @@ Loïs : Student in HCI, I'm just curious about this hackathon and France got to 
 - Java
 - Javascript
 - JQuery
-- ...z
+- ...
