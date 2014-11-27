@@ -1,4 +1,4 @@
-# InsaneAi Team
+# Team CodeBreakers
 
 We are a group of enthusiastic developers around the world and passioned
 about programming and making cool things.
