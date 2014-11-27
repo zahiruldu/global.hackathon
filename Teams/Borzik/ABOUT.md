@@ -13,4 +13,4 @@ I'm full stack web developer from Ukraine, and I've worked for more than 1000 ho
 - Backbone.js
 - and others...
 
-There is nothing special about the application which will be built, however I'm going to use some great APIs to deliver new interesting solution for communicating.
+There is nothing special to say about the application which will be built, however I'm going to use some great APIs to deliver new interesting solution for cross-language communicating.
