@@ -9,7 +9,7 @@ About us
 
 - Sophia:
 - William:
-- Alan: Has been to participated in many hackathons. Mostly do them for fun
+- Alan: Has participated in many hackathons. Mostly do them for fun
 
 
 Our project
