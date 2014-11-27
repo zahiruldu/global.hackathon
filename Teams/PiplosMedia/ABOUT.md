@@ -6,7 +6,7 @@ What should you know about us? We are a cohesive team of developers. We love to 
 Кто мы? Мы сплоченная команда специалистов, профессионалы своего дела. Мы любим придумывать и реализовывать хорошие проекты. Мы в постоянном поиске креативных идей которые воплощаем в жизнь. Мы - [Piplos](http://piplos.by/) из Беларуси!
 
 
-About your team
+About our team
 ===========================
 
 | Raman Marozau | Dmitry Shurco | Pavel Popov | Eugene Danilenko
@@ -16,8 +16,8 @@ About your team
 
 Skills
 ======
-PHP
-Javascript
-CSS
-Ruby on Rails
-C/C++/C#
+- PHP
+- Javascript
+- CSS
+- Ruby on Rails
+- C/C++/C#
