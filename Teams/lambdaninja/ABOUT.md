@@ -10,6 +10,8 @@ For prototyping I use processing, arduino and python. Since this is a hackathon,
 me I'll be coding in processing this hackathon!
 
 ## Quick overview of idea
-A game.
+A game written in processing accompanied by teaching material and good documentation.
 
-Okay, that was too quick. :D
+The learning theme, simply put.
+
+Okay, that wasn't too revealing :D Happy hacking!
