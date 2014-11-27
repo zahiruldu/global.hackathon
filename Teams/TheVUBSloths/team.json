@@ -3,20 +3,20 @@
   "members": [
     {
       "name": "Evgeni Ivakhnov",
-      "twitter": null,
+      "twitter": "",
       "koding": "evgeni",
       "location": "Brussels, BE",
       "lead": true
     },
     {
       "name": "Tom Maes",
-      "twitter": null,
+      "twitter": "",
       "koding": "tommaes",
       "location": "Lennik, BE"
     },
     {
       "name": "Jasper Tack",
-      "twitter": null,
+      "twitter": "",
       "koding": "consec",
       "location": "Brussel, BE"
     }
