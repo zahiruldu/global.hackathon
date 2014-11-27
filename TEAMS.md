@@ -521,6 +521,41 @@ We are interested to work on #1 or #3 theme.
 
 ---------------------------------------
 
+# Astronauts
+
+Hi there, we are all students at the University of Alabama in Tuscaloosa and we really enjoy coding!
+
+## About Us
+
+- Joshua: Self-taugh coder and open-source evangelist. 
+- Brian: Devout Java developer. May the JVM be with you.
+- Chris: Enjoys game dev as a personal hobby and hopefully a career.
+
+## Languages and Technologies
+
+### Languages
+- C
+- Java
+- Golang
+- Lisp (Scheme)
+- Perl
+- Python
+- JavaScript
+
+### Technologies
+- Bash shell
+- Vim
+- Git
+- Koding
+- Twitter Bootstrap
+- Any TDD framework/tool
+- HabitRPG for project management
+- The all knowing Google and Reddit
+- Ramen and Pizza
+
+
+---------------------------------------
+
 Axon
 ====
 
@@ -1109,6 +1144,31 @@ Coming Soon ...
 About your skills and what you are going to do?
 =======
 Coming Soon ...
+
+
+---------------------------------------
+
+# Codeepy
+
+We are a bunch of geeks who love to learn and master software development technologies. We are more than we are. We are ONE.
+
+## About Us
+
+- Abdush loves Java since he started to write his first code in this programming language. He formerly worked on several projects to provide software solutions with optimum algorithms in Sudan. He is regarded as expert by his friends due to his prominent experience in software and managerial skills. In his free time, you can find him talking with his friends or doing sport activities.
+- Dommy has more than 5 years experience of professional software development in 2 different countries. He has been fallen in love with .NET since he learned how to write "Hello World!" program. Python - his second love - took his heart recently. In his spare time, Dommy enjoys watching football matches with his friends and arguing about some stupid things.
+- Elchin was previously at ASPU, where he worked as an engineer-programmer. He was part of the Startup team working on the project called "Virtual Education System", which has been acquired by three large universities in Azerbaijan. In his spare time, Elchin likes playing chess and brainstorming with his friends.
+- Halim loved Java before, but after years of playing with many different programming languages, he just doesn't have any tendency towards any specific programming language anymore. His greatest dream is to meet with a programming language or framework that can handle cross language problem. But what defines him most, Halim loves Manchester United. XD
+- After his first programming class during his undergraduate studies, Somdip fell in love with coding and he never turned back since then. His one and only ambition is to help people through programming solutions. When he is not saving the world with coding, he can be found wandering the world to seek trouble and problems, whichever finds him first.
+
+## Languages We Love
+
+- Python
+- Java
+- C#.NET
+- Javascript
+- Ruby
+
+http://www.codeepy.com/about/
 
 
 ---------------------------------------
@@ -2047,6 +2107,29 @@ We are still brainstorming.
 This is our page
 ================
 
+We are the team of Russian developers. We always dreamed of hackaton participation.
+And now we have a chance. We have a good idea of project and going to implement it in this Hackaton!
+
+About us
+===========================
+
+We are small mobile team working mostly with:
+
+- Ruby
+- JavaScript (including Coffee)
+- Rails, Sinatra, Padrino
+- Slim, Haml, Jade
+- Backbone, Angular JS, ExtJS, jQuery
+
+We'll develop a real-time application useful for many groups of people.
+This application will contain a reach front-end and some WebSocket features.
+Other details are classified now :)
+
+---------------------------------------
+
+This is our page
+================
+
 We are team Helwa, and we aim to create a recipe visualization tool that auto-curates recipe instructions and ingredient lists into an easy-to-use graphic.
 
 OUR TEAM
@@ -2084,6 +2167,28 @@ We are Spyridon, Georgios and Pantelis, we are a new team with great ambitions!
 - Neo4j
 - R
 
+
+---------------------------------------
+
+This is our page
+================
+
+We are a small team, based in South Dakota. 
+
+
+About Our Team
+===========================
+
+| Ryan | Adam
+|--- |---
+| <img width="100" height="100" src='http://i.imgur.com/Me04jVB.jpg' alt='Ryan'/> | <img width="100" height="100" src='http://i.imgur.com/t7cRKTR.png' alt='Adam'/> |
+
+To be updated later.
+
+
+About your skills and what you are going to do?
+=======
+To Be Updated Later.
 
 ---------------------------------------
 
@@ -2303,6 +2408,25 @@ About our skills and what we are going to do?
 We have got experience in python and php, so our application gonna revolve around these technologies.
 
 
+
+
+---------------------------------------
+
+# Team Invasores de Pastos
+
+We are Miguel, Jose & Jose, we will code for beer!
+
+## About us
+
+- Miguel: I wish my name was Jose too.
+- Jose: Alias Ferrete. Someone said beer?
+- Jose(2): People call me Joe, is shorter. I like to do stuff, like sleep and eat and so on.
+
+## Languages we love
+
+- Groovy
+- Javascript
+- SASS
 
 
 ---------------------------------------
@@ -3072,6 +3196,33 @@ About your skills and what you are going to do?
 
 ---------------------------------------
 
+Piplos Media
+================
+What should you know about us? We are a cohesive team of developers. We love to raise up and implement new projects. We are always looking for creative ideas to come to life. We are [Piplos](http://piplos-media.com/) from Belarus!
+
+А теперь на русском!
+Кто мы? Мы сплоченная команда специалистов, профессионалы своего дела. Мы любим придумывать и реализовывать хорошие проекты. Мы в постоянном поиске креативных идей которые воплощаем в жизнь. Мы - [Piplos](http://piplos.by/) из Беларуси!
+
+
+About our team
+===========================
+
+| Raman Marozau | Dmitry Shurco | Pavel Popov | Eugene Danilenko
+|--- |--- |--- |---
+| <img width="100" height="100" src='http://piplos.by/hackaton/marozau.jpg' alt='Raman Marozau'/> | <img width="100" height="100" src='http://piplos.by/hackaton/shurco.jpg' alt='Dmitry Shurco'/> | <img width="100" height="100" src='http://piplos.by/hackaton/popov.jpg' alt='Pavel Popov'/> | <img width="100" height="100" src='http://piplos.by/hackaton/danilenko.jpg' alt='Eugene Danilenko'/> |
+
+
+Skills
+======
+- PHP
+- Javascript
+- CSS
+- Ruby on Rails
+- C/C++/C#
+
+
+---------------------------------------
+
 Welcome to Plummy
 ================
 
@@ -3102,6 +3253,23 @@ Bayu
 Bayu is UI/UX guy, who works mostly with photoshop and other UI tools, he is also our business guy, please talk money with him.
 
 
+
+
+---------------------------------------
+
+
+# PoplarFluff Team
+
+Coming soon
+
+# About Us
+
+Coming soon
+
+# Languages
+
+- Javascript
+- PHP
 
 
 ---------------------------------------
@@ -3214,21 +3382,22 @@ We are the Random Hackers team.
 About
 =====
 
-| Dylson | Ildus | Jenthebest
-|--- |--- |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png' alt='Dylson'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg' alt='Ildus'/> | <img width="100" height="100" src='http://cl.ly/image/0H1C1h2d2602/jen.png' alt='Jenthebest'/>
+| Dylson | Ildus | Jenthebest | RobPW
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/427202043929825280/o5ZFxcJq.png' alt='Dylson'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1318954004/a_1d9140f1.jpg' alt='Ildus'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/537042120821862401/X37nkZ0U_400x400.png' alt='Jenthebest'/>| <img width="100" height="100" src='https://pbs.twimg.com/media/BeLjs4kIQAAkR83.jpg:thumb' alt='Rob-pw'/>
 
 We're still gathering.
 
 
 Skills
 ======
-Ruby, Rails, JS, CSS, HTML.
+Ruby, Rails, Javascript, (S)CSS, HTML.
 
 Idea
 ====
 
 We're still coming up with one.
+
 
 ---------------------------------------
 
@@ -4880,6 +5049,24 @@ The Secret Sauce
 - Use equal parts of each Node.js, UX and Design
 - Add APIs, JavaScript, and styling to taste
 - Stir continuously for up to 24 hours -- make sure to simmer for remaining time
+
+
+---------------------------------------
+
+drakeire
+========
+
+About your team
+===============
+
+## Drake Ire
+Works at a big IT firm in Istanbul, develops web and mobile apps for financial applications. Saw the hackathon announcement, couldn't resist.
+
+
+About your skills and what you are going to do?
+===============================================
+Themes 2, 3, or 5 will be aimed.
+The tecnology will probably be a Python back-end on Flask, and an Angular front-end.
 
 
 ---------------------------------------
