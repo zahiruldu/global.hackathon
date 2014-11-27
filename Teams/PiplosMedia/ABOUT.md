@@ -2,7 +2,6 @@ Piplos Media
 ================
 What should you know about us? We are a cohesive team of developers. We love to raise up and implement new projects. We are always looking for creative ideas to come to life. We are [Piplos](http://piplos-media.com/) from Belarus!
 
-
 А теперь на русском!
 Кто мы? Мы сплоченная команда специалистов, профессионалы своего дела. Мы любим придумывать и реализовывать хорошие проекты. Мы в постоянном поиске креативных идей которые воплощаем в жизнь. Мы - [Piplos](http://piplos.by/) из Беларуси!
 
@@ -18,11 +17,7 @@ About your team
 Skills
 ======
 PHP
-
 Javascript
-
 CSS
-
 Ruby on Rails
-
 C/C++/C#
