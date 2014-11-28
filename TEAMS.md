@@ -101,14 +101,30 @@ We are `254Coders`, a team from Nairobi, KE ready to crush the competition!
 The Team
 ========
 
-| [Julius](https://github.com/njmwas) | [Salama](https://github.com/aksalj) | [kubai](https://github.com/kubaik) | Stephen
-| ----------------------------------- | ----------------------------------- | ---------------------------------- |
-| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/4664132?v=3&s=120' alt='Julius'/> | <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/2534772?v=3&s=120' alt='aksalj'/> | <img width="100" height="100" src='https://lh5.googleusercontent.com/-Vn3UxOfdxek/AAAAAAAAAAI/AAAAAAAAGEI/oNML1Pt8BEQ/s120-c/photo.jpg' alt='kubaik'/> | <img width="100" height="100" src='https://lh3.googleusercontent.com/-ue7sLyMa1T4/UW-66CfNDGI/AAAAAAAAAfg/xrF6WDqIv5k/w401-h403/537293_3009991424971_1028472170_n.jpg' alt='stephen'/>
+- [Julius](https://github.com/njmwas)
+- [Salama](https://github.com/aksalj)
+- [Kubai](https://github.com/kubaik)
+- [Stephen]()
 
 
 Skills and Project
 ==================
 We are still brainstoming...
+
+
+---------------------------------------
+
+```
+_________________  _____  ___________ _______________
+\_____  \______  \/  _  \ \_   _____//  _____/\   _  \
+ /  ____/   /    /  /_\  \ |    __)_/   __  \ /  /_\  \
+/       \  /    /    |    \|        \  |__\  \\  \_/   \
+\_______ \/____/\____|__  /_______  /\_____  / \_____  /
+        \/              \/        \/       \/        \/
+```
+
+
+Some of us meditates, floating in between dreams and hopes. Some of us enjoy each moment we aspire. Some of us wonders the serenity behind each design. Some of us are just into the wild. Though bothersome, together we create moments to cherish for the whole life. We are brothers in arms. We are 27AE60 !
 
 
 ---------------------------------------
@@ -1152,6 +1168,26 @@ Project
 We haven't decided yet on what we'll work on. We have so many ideas but we will definitely use PHP and JavaScript for it.
 
 We will update this as soon as we've made up our minds.
+
+
+
+---------------------------------------
+
+
+# ChamGeeks
+
+Chamgeeks is a collective of mountain-loving software developers and designers, based in Chamonix, France.
+
+## About us
+
+- Spathon: Consulting web developer in WordPress/PHP and NodeJS
+- Neill: Chief Technology Officer at upmysport
+- Jacques: Software developer and alpine trekking guide.  Currently CTO of Dotter, Ltd.
+
+## What we do
+
+We build consumer-facing web sites and mobile apps using the latest HTML-based technologies.  Web build awesome (scalable, secure, blazing fast, etc...) web services using Ruby, Java, NodeJS, or Python.  We also like to play around with data and make something of it.
+
 
 
 
@@ -3003,6 +3039,23 @@ a class at UC Berkeley and have coded together winning multiple small scale hack
 - Ruby (not Alice)
 - Javascript
 
+
+---------------------------------------
+
+We are the "Lamp" and we are awesome
+
+### devpony ###
+<img width="100" height="100" src='http://habrastorage.org/files/9a2/51b/82f/9a251b82f1694043b9245f5f0ccbad92.jpg' alt='devpony'/>
+### kodark ###
+<img width="100" height="100" src='http://habrastorage.org/files/5fc/5e4/8ba/5fc5e48ba4804bfd88c53d2c025cf9ad.jpg' alt='kodark'/>
+### max ###
+<img width="100" height="100" src='http://habrastorage.org/files/5f5/a13/35b/5f5a1335bbb947b28acf73895e658a81.jpg' alt='max'/>
+### xaphoon ###
+<img width="100" height="100" src='http://habrastorage.org/files/f21/d27/ca8/f21d27ca893944889195e1f99f2a4c0d.jpg' alt='xaphoon'/>
+
+Did I mentioned that we are Russian? Yes. We love vodka, bears and balalaika, our computers works by power of nuclear reactor and our english is bad. 
+
+Browsers are good. Browsers are good for videogames. We are going to make some videogames. Some cool videogames.
 
 ---------------------------------------
 
