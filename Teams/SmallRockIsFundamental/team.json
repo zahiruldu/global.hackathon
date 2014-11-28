@@ -1,0 +1,18 @@
+{
+  "teamName": "Small Rock is Fundamental",
+  "members": [
+    {
+      "name": "Chris Bodley",
+      "twitter": "@dudds6699",
+      "koding": "dudds6699",
+      "location": "SSM, CA",
+      "lead": true
+    },
+    {
+      "name": "Full Name",
+      "twitter": "twitter acct no @",
+      "koding": "koding username",
+      "location": "city, 2 digit country code"
+    }
+  ]
+}
