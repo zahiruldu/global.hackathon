@@ -11,7 +11,7 @@ Team
 | #Twitter | Member Name |
 |----------|-------------|
 | [#TGJohny](http://twitter.com/tgjohny) | [Jan (Johny) R](http://github.com/djczaha39) |
-| [#Grabusz](http://twitter.com/grabusz) | Grzegorz D |
+| [#Grabusz](http://twitter.com/grabusz) | [Grzegorz D](#) |
 
 Skills
 ======
