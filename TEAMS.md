@@ -890,6 +890,16 @@ Python for sure!
 
 ---------------------------------------
 
+Languages-Lenguages
+===================
+- PHP
+- Javascript
+- Erlang
+- PHP MVC Frameworks 
+
+
+---------------------------------------
+
 Birmingham.IO
 ===========================
 
@@ -1130,6 +1140,34 @@ PHP, Javascript, HTML5, CSS
 
 ---------------------------------------
 
+CE
+================
+
+Pierce Stegman https://github.com/pwstegman
+Fox Wilson https://github.com/fwilson42
+
+Pierce Stegman
+
+I am a junior at Thomas Jefferson High School for Science and Technology.  When I was 7, my dad bought me a book on HTML.  I started coding basic websites, and wanted to do more.  A few years later, my parents bought me Adobe CS4, and I began to make Flash games.  As I made games, I often asked myself how I could make games that helped people.  At first, I began to make educational games.  After a while, I decided I wanted to make things other than education games. As I looked into different things that I could make, I began to learn different languages.  In the process, I learned PHP, JavaScript, C++, C#, and recently HTML5.  I also took an interest in artificial intelligence.  Some examples of projects I made are a cryptocurrency exchange, an AI that learned to identify cyber bullying on Facebook, a system that lets one deploy code via email, and a GUI wallet for cryptonote currencies.
+
+Fox Wilson
+
+Hi, I'm also a junior at TJHSST. I've been playing with web development since I was 8, which led into other languages (I still remember when I wrote BASIC). Today, I'm skilled with Python, Ruby, JS and C. In the seven years between then and now, I've written numerous snippets, tools, and web apps, picked up GNU/Linux, participated in a number of competitions (1st place MITRE STEM CTF 2013, 2014, 3rd place BAH Data Science Bowl, 6th place PicoCTF 2014), went to hackathons (PilotPhilly, PilotDC, MHacks IV, Hack the North 2014), and learned a lot. I'm currently a student systems administrator at TJHSST, where I manage the systems behind our public-facing website, student intranet, and Linux lab. I look forward to (hopefully) participating in and learning from Koding's hackathon.
+
+About your skills and what you are going to do?
+=======
+
+Pierce Stegman
+
+I am most skilled with backend development, artificial intelligence, and crytocurrencies.  We have an idea that will make use of AI to make reading the TOS and Terms and Conditions on a website not only fast, but easy and fun.
+
+Fox Wilson
+
+I'm good at backend, data visualization (Chart.JS, gnuplot, others), and systems administration. I'm not that bad at frontend development, and Pierce has already summed up what we'll be doing.
+
+
+---------------------------------------
+
 About your team
 ===========================
 
@@ -1364,6 +1402,26 @@ OUR SKILLS
 bdonald has several years experience as a professional .NET developer. MS tools pay my bills, but I have a love for Linux and open source technology.
 
 cyp901 is a professional database developer and architect with a love for coding on the web
+
+---------------------------------------
+
+CodeBlooded
+================
+
+
+
+##About our team
+
+We are a group of IT nerds from Mumbai, India
+
+
+##Languages we love
+- PHP
+- Javascript
+- CSS3
+- HTML5
+- Creativity!
+
 
 ---------------------------------------
 
@@ -2705,6 +2763,24 @@ Our Skills
 
 ---------------------------------------
 
+Team IRTEAM
+
+================
+
+About our team
+
+===========================
+I'm like a group of programming enthusiasts very motivated to solve real world problems. I'm
+student enrolled in colleges in the Iran. I decided to join this competition 
+because of our passion for programming and finding solutions for complex problems. I have prior
+experience with developing applications making use of real time data to solve everyday problems.
+Our biggest motivation behind us taking part in this competition is to get a really good 
+feel of some of the API's mentioned in the document. I do not have much experience working with
+these API's and would relish the opportunity to build something cool by utilizing them
+
+
+---------------------------------------
+
 # Team In-Toke-A-Bola
 
 Though I'm a team of one, I'm passionate about software development, engineering and just building fun and interesting tools and products.
@@ -2956,6 +3032,28 @@ We can use this languages in our project:
 
 ---------------------------------------
 
+#Kaboom
+
+Its hack time !
+
+##About Me
+
+| Udit Kulshrestha | Why Hackathon on Koding |
+| ------------- | ------------- | 
+| <img width="100" height="100" src='http://www.gravatar.com/avatar/aacb90e7f6d1363f1c432593729d18ab.png "Udit Kulshrestha"' alt='Udit Kulshrestha'/>  | I am here to build something cool, which is easy to use and not a rocket science. Hacking virtually will allow me to think and code with coffee and smoke. Its fun and I am doing it purely for fun. |
+
+## What I can do
+- DBA (Oracle, MySql, MongoDb ) + Database modelling 
+- JavaScript (MeteorJs, NodeJs, AngularJs)
+- Python
+- PHP
+
+I am targeting JavaScript based web app.
+
+# ``` :~D ``` ``` :~D ``` ``` :~D ``` 
+
+---------------------------------------
+
 # KawaiiDesuDevs
 
 We are two high-school students (and maybe the only ones in this hackatoon) from Brazil.
@@ -3016,6 +3114,30 @@ I believe web is great tool that can be used to enhance our lives.
 Because of all the development difficulties people are being less creative and less efficient when pushing the envelope of web possibilities.
 
 My plan is to create one of educational prototypes for this first global hackathon, primarily using JavaScript.
+
+
+---------------------------------------
+
+
+# Team Kode Gang
+
+We are Viswaprasath and Barath who loves programming and loves to participate in hackathons to learn more about new product development.
+
+
+## About US
+
+  - VP7 : So called Viswaprasath, I love blogging very much. I love developing mobile applications. Currently foucsing more on HTML5 based applciations.
+  - Barath : Loves anime, Loves programming and has good problem solving ability.
+
+
+## Languages We Love
+
+  -Java
+  -GoLang
+  -Javascript
+  -Python
+  -C for Sure
+  
 
 
 ---------------------------------------
@@ -3421,22 +3543,32 @@ I really like developping videogames and i always embrace new challenges!
 
 ---------------------------------------
 
-This is our page
+Neva River
 ================
 
-Coming soon
+Hello! We are Russian developers from one of the most beautiful Russian cities - Saint Petersburg. It is situated on Neva river and our team name is based on it.
 
+<img width="100" height="100" src='http://ansaguide.com/imgs/panoramic-view-of-saint-petersburg.gif' alt='Saint Petersburg'/>
 
-About your team
+Team Members
 ===========================
 
-Coming soon
+| Nikita | Andrei | Dmitry | Yaroslav | Ivan
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='http://cs540105.vk.me/c625528/v625528779/8997/ETKe1RbMwMk.jpg' alt='Nikita'/> | <img width="100" height="100" src='https://pp.vk.me/c618329/v618329941/c225/N4KiImI05Nw.jpg' alt='Andrei'/> | <img width="100" height="100" src='https://pp.vk.me/c409225/v409225348/3610/jrGXsLu6kqQ.jpg' alt='Dmitry'/> | <img width="100" height="100" src='http://cs620824.vk.me/v620824892/bb2c/4cY7kjQrSVE.jpg' alt='Yaroslav'/> | <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/2757506?v=3&s=460' alt='Ivan'/> |
+| Nikita is a team leader and he is a real leader. He could precisely establish the work even in government of Russia, but have chosen programming. | Andrey is virtuoso android developer. He likes subtle humor and to make something useful. He hates mandarins and bunglers. For the prize he wants to develop his own app. | Dmitry is backend developer in grain and avid traveler inwardly. More than programming he loves only his girlfriend. | Yaroslav is iOS David Coperfield. He is the the most attentive senior developer and the biggest cinema addict in the world. | Ivan is Java Guru, he does magic with JVM.
 
+We already have some common projects:
 
-About your skills and what you are going to do?
+1. [SmsCop](http://smscop.ru) The application which will help you to get rid of spam.
+2. **Safety phone** Service which helps to protect you from malefactors.
+
+We believe, that this Hackathone will help us to make this world better a bit. 
+
+Skills
 =======
 
-Coming soon
+Java, PHP, Android, iOS, .NET, JavaScript, SQL, noSQL, Node.js
 
 
 
@@ -3495,6 +3627,35 @@ of application you are going to build.
 You can change your mind, that's ok. Just push an update here when you do.
 
 
+
+
+---------------------------------------
+
+NoIdea
+======
+
+A two men team born of passion for learning, coding and creating new things.
+
+About Us
+----------
+
+| Anass T             |
+|---------------------|
+| Picture Unavailable |
+
+| Jalal B             |
+|---------------------|
+| Picture Unavailable |
+
+We are part of a young start-up, and we joined this hackathon to challenge ourselves and try to get new ideas and renew our determination to keep going forward.
+
+About skills and project
+========================
+The goal of our project is to show the correlation between good analogies and the mastering of programming skills via simple games. This corresponds to the second theme.
+To be fair, we can work with many languages and frameworks. But, for this particular project, we may use only these:
+	- C
+	- VB.NET
+	- HTML and JS
 
 
 ---------------------------------------
@@ -4046,6 +4207,18 @@ Outsoucing Services and Our skills
 Other information:
 - Website: http://www.scrumtobe.com
 - Github: http://github.com/scrum2b
+
+
+---------------------------------------
+
+Shamas
+================
+
+We are a team of three developers from Colombia.
+
+This is our first hackaton and we hope to create something awesome.
+
+We use Ruby On Rails, MongoDB, Javascript and AngularJS
 
 
 ---------------------------------------
@@ -4945,6 +5118,26 @@ Can't wait to join all of the other teams in this historic event :D
 
 ---------------------------------------
 
+Team SBU
+================
+
+Hi, I'm Sumit Bindal. I'm here to implement few ideas from my bucket list
+
+| sumitb |
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://secure.gravatar.com/avatar/794bdcaae09e9e0a8d84e7ae022c763e.png' alt='Sumit'/> |
+
+
+Skills & Planned Play
+============================
+I will try to learn something new. I had prior experience with JavaScript
+Python. I'll play around IBM's watson api set and solve pratical problems
+at Stony Brook University.
+
+
+
+---------------------------------------
+
 # /**
 # * TeamShellPhish *
 # */
@@ -5461,6 +5654,52 @@ I will choose #1 or #4 theme.
 
 ---------------------------------------
 
+
+
+UDCrew
+======
+
+Hey we are UDCrew, we have spent lots of hours on engineering software and creating websites. So maybe...
+
+Team
+====
+
+| #Twitter | Member Name |
+|----------|-------------|
+| [#TGJohny](http://twitter.com/tgjohny) | [Jan (Johny) R](http://github.com/djczaha39) |
+| [#Grabusz](http://twitter.com/grabusz) | [Grzegorz D](#) |
+
+Skills
+======
+
+The languages we program in:
+- C#
+- C++
+- Java
+- Python
+- PHP
+- HTML + CSS
+- Javascript & jQuery
+
+
+---------------------------------------
+
+# Team UbubatFiyatlari
+
+
+## About Us
+- Mustafa
+- Behzat
+- Firat
+
+## Languages we love
+- C
+- C++
+- PHP
+
+
+---------------------------------------
+
 UniLasers
 =============
 
@@ -5960,6 +6199,37 @@ The Secret Sauce
 
 ---------------------------------------
 
+This is our page
+================
+
+We are the digiBlink team - Computer Science people from Latvia.
+
+
+About your team
+===========================
+
+| nfoworm | mmlv
+|--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000629231869/cf8e58d30f8ae8bb04cccb9ce3acc85c.jpeg' alt='Reinholds'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/153132961/IMG5524.JPG' alt='Artis'/> |
+
+We have both studied in University of Latvia - Artis has already PhD in 
+Computer Science, Reinholds are soon to receive his PhD in Computer Science. 
+Both of us are into embedded electronics as well some web development.
+
+
+About your skills and what you are going to do?
+=======
+Currently we are still in pursuit of our project for competition, but idea
+will come.
+
+We do embedded programming (C/C++), as well Python/PHP/JS.
+
+
+
+
+
+---------------------------------------
+
 drakeire
 ========
 
@@ -6072,19 +6342,34 @@ I have an amazing project that will be really useful, using Swift and Ruby on Ra
 
 ---------------------------------------
 
+Team grey93
+================
 
-# Team hackitect
-
-I am a newbie developer, starting an awesome career.
+I am an undergrad at IIT Roorkee.
 
 
-## languages
+Team
+===========================
 
--javascript
--css
--php
--mysql
+| Suyash |
+|--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/486906867512123392/-0FKVMUX_200x200.jpeg' alt='Suyash'/>
 
+I am currently an undergraduate student studying Computer Science and Engineering at IIT Roorkee in India. See my [linkedin](https://in.linkedin.com/in/grey93) or [twitter](https://twitter.com/_grey93) profile for more.
+
+
+Skills
+=======
+
+I am still brainstorming about the actual idea and will try to create something great with nodejs.
+
+Skills
+
+- Express/Koa
+- socket.io
+- Firebase/Backbone
+- Jade/Stylus/CoffeeScript
+- Node.js
 
 
 ---------------------------------------
@@ -6111,43 +6396,6 @@ Windows 95
 
 ---------------------------------------
 
-Welcome to Hawaii Hackers
-================
-
-I am a student studying computer science at the University of Hawaii at Hilo.
-
-
-About your team
-===========================
-I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
-I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
-large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
-on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
-
-I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
-new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for
-low income and first generation high schoolers, as a tech instructor for their Summer Academy. They were pleased with the way I interacted
-with the students, and with my knowledge of computers, and ultimately offered me a position as their IT Specialist.
-
-I graduated from the IT Program in the Spring of 2011 at the top of my class. From there, I made the decision to transfer to UH Hilo's 
-Computer Science Program. The CS Program has taught me a love for programming and problem solving that I never knew I had. I became extremely
-interested in AI, Machine Learning, Image Processing, and Datamining, and have been supplementing the education I've received with free online courses from
-Coursera and Udacity. I am also an active member of ACM, and have particpiated in two Intercollegiate Programming Competitions, as well
-as the NYU Poly  Cyber Security Awareness Week Capture the Flag, Google Codejam, and IBM's Master the Mainframe.
-
-My studies keep me very busy, but I do manage to get some downtime in where I like to hit the beach, go diving with my father, play video games, or practice jujitsu. As my education comes to a close, it is unclear if I will be able to remain in this amazing place that has 
-changed my life so much, but winning this competition would certainly be a step in the right direction.  
-
-About your skills and what you are going to do?
-=======
-As I mentioned above, my main interests fall along the lines of AI, Image Processing, Machine Learning, and Datamining, so I definitely plan to use my knowledge from at least one of these domains. I may take a whack at the real time communication theme, but being an educator myself, I may go in the direction of creating an interactive activity for first time software developers. API wise, I see a lot of interesting API's on
-Mashape, and API Tools, so plan on seeing API's from at least one of these sites. Moreover, I'll probably use QUANDL if I find that I need a large dataset unless I find a suitable dataset elsewhere. 
-
-
-
-
----------------------------------------
-
 *Hexapus*
 
 It is one-man team (probably temporary). I am a software developer. Passionated about functional programming. Use Java, Scala and JS.
@@ -6162,23 +6410,6 @@ Most important reasons of participation in Global Hackathon:
 1. Get fun being a part of global movement
 2. Present one of pet projects to jury
 3. Get hands dirty working with different APIs
-
-
----------------------------------------
-
-This is our page
-================
-| manohar |
-|--- |
-| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg' alt='Manohar'/> |
-
-Tell us who you are, why you did you decide to join?
-
-Senior developer in financial services industry.
-
-About your skills and what you are going to do?
-=======
-Web application with REST services.
 
 
 ---------------------------------------
@@ -6305,45 +6536,56 @@ Nick: Viruslemon
 
 ---------------------------------------
 
-mapQuest
-=====
+Welcome to Hawaii Hackers
+================
 
-We are mapQuest team ready to build interactive game using Google Maps™ and get you out of your chair and make you run and conquer virtual areas physically present :)
+I am a student studying computer science at the University of Hawaii at Hilo.
 
-## About the team
 
-* Milica - front-end developer passionate about building hybrid mobile applications using newest web technologies
-* Damnjan - back-end developer eager to build big data systems
+About your team
+===========================
+I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
+I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
+large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
+on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
 
-## Technology stack
+I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
+new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for
+low income and first generation high schoolers, as a tech instructor for their Summer Academy. They were pleased with the way I interacted
+with the students, and with my knowledge of computers, and ultimately offered me a position as their IT Specialist.
 
-We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
+I graduated from the IT Program in the Spring of 2011 at the top of my class. From there, I made the decision to transfer to UH Hilo's 
+Computer Science Program. The CS Program has taught me a love for programming and problem solving that I never knew I had. I became extremely
+interested in AI, Machine Learning, Image Processing, and Datamining, and have been supplementing the education I've received with free online courses from
+Coursera and Udacity. I am also an active member of ACM, and have particpiated in two Intercollegiate Programming Competitions, as well
+as the NYU Poly  Cyber Security Awareness Week Capture the Flag, Google Codejam, and IBM's Master the Mainframe.
+
+My studies keep me very busy, but I do manage to get some downtime in where I like to hit the beach, go diving with my father, play video games, or practice jujitsu. As my education comes to a close, it is unclear if I will be able to remain in this amazing place that has 
+changed my life so much, but winning this competition would certainly be a step in the right direction.  
+
+About your skills and what you are going to do?
+=======
+As I mentioned above, my main interests fall along the lines of AI, Image Processing, Machine Learning, and Datamining, so I definitely plan to use my knowledge from at least one of these domains. I may take a whack at the real time communication theme, but being an educator myself, I may go in the direction of creating an interactive activity for first time software developers. API wise, I see a lot of interesting API's on
+Mashape, and API Tools, so plan on seeing API's from at least one of these sites. Moreover, I'll probably use QUANDL if I find that I need a large dataset unless I find a suitable dataset elsewhere. 
+
+
 
 
 ---------------------------------------
 
 
-# megusta
+# Team hackitect
 
-I'm Ivan and I just looooooove little software and hardware helpers that make life easier.
-But sometimes little things overgrow to big ugly monster, so it's better to kill them than develop -__-.
-I hope, this time I'll focus on one thing and won't use whole bucket of technologies
-just for one simple purpose. :)
+I am a newbie developer, starting an awesome career.
 
-# What skills do I have?
 
-Well, I'm kinda web developer with mixin of mobile developer who can speak following languages
-(and speaks them in daily life):
+## languages
 
- - PHP
- - golang
- - C# (Silverlight)
- - Javascript
+-javascript
+-css
+-php
+-mysql
 
-My idea is to work on gathering and processing one kind of statistics that will serve well to 80%
-of possible users. I'll focus on usability, because "usable" thing means "something that helps me
-every day".
- 
 
 
 ---------------------------------------
@@ -6398,6 +6640,23 @@ We have some ideas about theme 1. It will be cool and fun.
 
 ---------------------------------------
 
+This is our page
+================
+| manohar |
+|--- |
+| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg' alt='Manohar'/> |
+
+Tell us who you are, why you did you decide to join?
+
+Senior developer in financial services industry.
+
+About your skills and what you are going to do?
+=======
+Web application with REST services.
+
+
+---------------------------------------
+
 #About this singleton
 
 ###Who, me?
@@ -6425,40 +6684,6 @@ Thank you for taking your time to read this page.
 
 Regards,
    Prajogo Tio
-
-
----------------------------------------
-
-# Team revolTOS
-
-We are Federico, Paulo, Carlos, Eduardo and Rita, and we can basically can fix from a radio to a CT scanner, we can design circuits with logic gates, with PICs, with microprocessors and even micro-controllers. We used to mention the languages we know how to code with... Lately it's easier to say that Ruby on rails and Python are not our thing, but we can even code in ancient mayan!
-
-Besides that, with Eduardo we complement our coding skills with artistic design, which makes our creation a real piece of art. Carlos provides the business insights to make revolTOS an always market-oriented/market-driven group. Paulo and Rita design our products in such a way that the user experience goes as a charm. And Federico builds the backend to make sure our products are meaningful.
-
-
-Carlos Boto
-
-Since an early age I have been fascinated by the idea of creating economic value through disruptive
-technologies and by the impact of such projects in society. I work on technology transfer projects, product
-identification, market analysis, finding strategies to market entry and financial analysis. I dream about the
-day where the interface between Research / Business / Finance disappears, contributing this way to
-global development.
-
-
-Federico Cismondi
-
-I think of myself as a “data-driven person”, somebody who likes to dig deeply into collected information
-and then look for the facts in order to make decisions based on them. Also, since the early stages of my
-career I have had a self-driven, self-motivated way of encompassing work in multidisciplinary
-environments, sometimes having limited or no supervision at all, and still achieving or surpassing the
-expected goals.
-
-
-Paulo Melo
-
-I think of myself as an engineering artist. I understand how people interact with problems, interfaces and
-situations, and creatively define structures to facilitate those interactions. I have multidisciplinary
-experience in design and product development to successfully guide the product to market.
 
 
 ---------------------------------------
@@ -6502,29 +6727,45 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-Serglider
-===========================
-Hey hackers,
+mapQuest
+=====
 
-I'm Sergey, a single member of the seglider team. My planet rotates around Javascript star which is in the Frontend galaxy.
+We are mapQuest team ready to build interactive game using Google Maps™ and get you out of your chair and make you run and conquer virtual areas physically present :)
 
+## About the team
 
+* Milica - front-end developer passionate about building hybrid mobile applications using newest web technologies
+* Damnjan - back-end developer eager to build big data systems
 
-Project
-=======
-I'm planning to develop a web app that will teach people not familiar with IT some of its aspects.
+## Technology stack
+
+We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
 
 
 ---------------------------------------
 
-///Honor For all///
 
-Languages:
--C
--PaZcal
--C#
--Haskell
+# megusta
 
+I'm Ivan and I just looooooove little software and hardware helpers that make life easier.
+But sometimes little things overgrow to big ugly monster, so it's better to kill them than develop -__-.
+I hope, this time I'll focus on one thing and won't use whole bucket of technologies
+just for one simple purpose. :)
+
+# What skills do I have?
+
+Well, I'm kinda web developer with mixin of mobile developer who can speak following languages
+(and speaks them in daily life):
+
+ - PHP
+ - golang
+ - C# (Silverlight)
+ - Javascript
+
+My idea is to work on gathering and processing one kind of statistics that will serve well to 80%
+of possible users. I'll focus on usability, because "usable" thing means "something that helps me
+every day".
+ 
 
 
 ---------------------------------------
@@ -6543,10 +6784,18 @@ We are Sponzorme team, a team of Top Talent Colombian Developers.
 
 ---------------------------------------
 
-undefined
-=========
+Serglider
+===========================
+Hey hackers,
 
-undefined
+I'm Sergey, a single member of the seglider team. My planet rotates around Javascript star which is in the Frontend galaxy.
+
+
+
+Project
+=======
+I'm planning to develop a web app that will teach people not familiar with IT some of its aspects.
+
 
 ---------------------------------------
 
@@ -6634,3 +6883,56 @@ He now works as an Objective-C developer at Memorado, making Brain Training game
 
 #### The Project
 We will be tackling the "Game to teach beginners how to code" category. If all goes well, we will continue the project after the Hackathon with the intent to make it an official [Hour of Code](http://hourofcode.com/) tutorial.
+
+---------------------------------------
+
+# Team revolTOS
+
+We are Federico, Paulo, Carlos, Eduardo and Rita, and we can basically can fix from a radio to a CT scanner, we can design circuits with logic gates, with PICs, with microprocessors and even micro-controllers. We used to mention the languages we know how to code with... Lately it's easier to say that Ruby on rails and Python are not our thing, but we can even code in ancient mayan!
+
+Besides that, with Eduardo we complement our coding skills with artistic design, which makes our creation a real piece of art. Carlos provides the business insights to make revolTOS an always market-oriented/market-driven group. Paulo and Rita design our products in such a way that the user experience goes as a charm. And Federico builds the backend to make sure our products are meaningful.
+
+
+Carlos Boto
+
+Since an early age I have been fascinated by the idea of creating economic value through disruptive
+technologies and by the impact of such projects in society. I work on technology transfer projects, product
+identification, market analysis, finding strategies to market entry and financial analysis. I dream about the
+day where the interface between Research / Business / Finance disappears, contributing this way to
+global development.
+
+
+Federico Cismondi
+
+I think of myself as a “data-driven person”, somebody who likes to dig deeply into collected information
+and then look for the facts in order to make decisions based on them. Also, since the early stages of my
+career I have had a self-driven, self-motivated way of encompassing work in multidisciplinary
+environments, sometimes having limited or no supervision at all, and still achieving or surpassing the
+expected goals.
+
+
+Paulo Melo
+
+I think of myself as an engineering artist. I understand how people interact with problems, interfaces and
+situations, and creatively define structures to facilitate those interactions. I have multidisciplinary
+experience in design and product development to successfully guide the product to market.
+
+
+---------------------------------------
+
+///Honor For all///
+
+Languages:
+-C
+-PaZcal
+-C#
+-Haskell
+
+
+
+---------------------------------------
+
+undefined
+=========
+
+undefined
