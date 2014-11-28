@@ -31,6 +31,32 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
+This is my page
+================
+
+I'm just a guy with an idea.
+
+
+About your team
+===========================
+
+| Joe
+|---
+| <img width="100" height="100" src='https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/600114_10152277501655714_1947060528_n.jpg?oh=548b0d211bce73aa5931e99e021d8c54&oe=54D49B28&__gda__=1423474339_6f2c1539f904178546e80c53ec681e0a' alt='Joe'/>
+
+I've been writing code for the web in one form or another since before there were any books on it.  I'd head to one of the 300 or so pages Yahoo had at the time, save it, change something, reload, and squeal with delight at what I learned to do that day.  These days, it's a career, but the passion hasn't waned one bit.
+
+I spent many years toiling away for up to 100 hours a week with my own company, trying to just keep the lights on and the team paid and neglecting my own growth.  In the past couple years, I've regained my focus and thirst for new knowledge and languages.  I joined this hackathon because I want to challenge myself and play with new APIs... and I've had this site idea in my head for a while that matches one of the themes perfectly.
+
+About your skills and what you are going to do?
+=======
+I'm still fine-tuning my Javascript skills, but my long-time passion and strength is in PHP.  I've also been productive in Perl, Python, ASP and Java, and I'm getting my head around Node and Erlang.
+
+I won't say much about the project and the APIs I plan to use as I feel it might give too much away, but I will say that I think it will be pretty far apart from what other teams will be doing.  You'll just have to wait and see.
+
+
+---------------------------------------
+
 /////////LOADING/////////
 
 
@@ -568,6 +594,30 @@ About your skills and what you are going to do?
 
 We are interested to work on #1 or #3 theme.
 
+
+---------------------------------------
+
+About Team Asiph
+===========================
+
+| awm4j |sippy | hagan
+|--- |--- |---
+| <img width="100" height="100" src='http://graph.facebook.com/awm4j/picture?type=large' alt='awm4j'/> | <img width="100" height="100" src='http://graph.facebook.com/Sippyy/picture?type=large' alt='sippy'/> | <img width="100" height="100" src='http://graph.facebook.com/nate.hagan/picture?type=large' alt='hagan'/> |
+
+We are a group of problem solving Grove City College alumni who enjoy building cool and interactive solutions.
+We saw this hackathon as a good way to catch up and build something awesome together.
+
+
+Skills
+=======
+HTML, CSS, JS, PHP, C++, C#, .NET, Python, MySQL
+
+
+Project Idea
+=======
+We are not completely sure what we are doing exactly. 
+We will take advantage of Facebook, Twitter, Google+, and Skype to perform team communications.
+We will be using several APIs and applications to complete our task.
 
 ---------------------------------------
 
@@ -2017,6 +2067,16 @@ We're looking into themes 2,3,5.
 
 ---------------------------------------
 
+# Fun and Awesome
+
+Samuel and Kayode
+
+We love to know how things works and make them better. We love building things(mostly websites).
+We love what we do so work is play. 
+
+
+---------------------------------------
+
 Funky Fresh Boyz
 ====================
 
@@ -2563,6 +2623,23 @@ JavaScript , PHP , JAVA , CSS , HTML , C , C# , C++ , Android , Objective-C , No
 
 ---------------------------------------
 
+I Code As Root
+================
+
+We are New Zealand EXTREME development team. You wanna software? Fine! We will write it on your hardware, for your hardware, as root, without backups and VCS! Cause its ~~STUPID~~ EXTREME! LOL! Besides, if you want it written on C++, we will write an entire Linux kernel for 5 second, and then just push V8 on top of it, so you can have JavaScript when you need C++ or any other pointless languages, cause JS rulez. XD
+
+===========================
+
+[Ackermann Yuriy](https://github.com/herrniemand). Python/NodeJS/PHP JS/jQuery/OL/APIs Mongo/MySQL/PostgreSQL Front-end/Back-end developer. Uses Ubuntu. Diagnosis: Russian.
+
+[Mytchel Hammond](https://github.com/mytch444). C/PHP/Front-end stack/Bash. Runs arch. Diagnosis: RMS.
+
+=======
+
+We still thinking about our ~~retarded~~ ideas. Don't worry. They will be here soon...
+
+---------------------------------------
+
 IQHacker
 ================
 
@@ -2764,6 +2841,22 @@ Our Skills
 
 
 
+
+---------------------------------------
+
+*JLaso*
+
+Patrick JL Laso
+Passionate web developer: PHP, Symfony2, jQuery and mobile APP developer in Titanium Appcelerator
+
+*What are we going to do?*
+
+Theme: Automatition in translations
+
+*Why I want to participate?*
+
+Is the first time in a hackaton
+I'm interesting in all kind of challenges related to developing.
 
 ---------------------------------------
 
@@ -3047,6 +3140,8 @@ I am a python developer (alone)
 ---------------------------------------
 
 Hi, this is Rafael Matsuyama writing, I'm a entrepreneur and software developer, anxious to do this hackathon! \o/
+
+Hi, this is Luckas Farias writing, and I'm a software and hardware developer, anxious to do this hackathon! \o/
 
 
 ---------------------------------------
@@ -3912,6 +4007,31 @@ Good luck!
 
 ---------------------------------------
 
+#Team Sistemex
+
+Hi, we're Harrysuke and fr3ker from Malaysia.
+
+##About Us
+
+<img width="100" height="100" src='http://sirfik.com/uploads/avatar/jurikairi.jpg"Harrysuke"' alt='alt text'/>
+- Harrysuke: Harrysuke desu. Yoroshiku onegaishimasu.
+
+<img width="100" height="100" src='http://sirfik.com/uploads/avatar/anonymous-128.png"fr3ker"' alt='alt text'/>
+- fr3ker: Hi, my name is Abu Bakar Firdaus Ishak @fr3ker. I love all things Android. I love them do much, I hacked them. :)
+
+##Languages
+- PHP
+- CSS
+- JS
+- JQUERY
+
+##THEME
+We choose theme #1:
+Problems facing our planet, explained using interactive data visualization. (e.g. ISIS)
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -4201,6 +4321,62 @@ to be a MSP and MCP. If you are passionate about games and like to create stuff 
 I'm looking for technically skilled persons and design and user interface is going to be the second most important thing.
 
 Thanks !
+
+
+---------------------------------------
+
+Super Code Bros
+================
+***We are the Super Code Bros., young code monkeys from the cold land of bountiful fjords, Norway!***  
+
+
+<img width="100" height="100" src='https://dl.dropboxusercontent.com/u/660269/supercodebros.png' alt='Our logo'/>
+
+About us
+========
+
+| hansrodtang | nicolaiskogheim
+|--- |---
+| <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/58717?v=3&s=320' alt='Hans'/> | <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/2117636?v=3&s=320' alt='Nicolai'/>
+We are two interaction design/computer science students from Oslo, Hans and Nicolai.
+
+---
+
+
+**Hans** is currently studying Interaction Design at the University of Oslo. He is originally from Iceland but moved to Norway at a young age where he has lived since. He is an active photographer when not busy with school.
+He also enjoys long walks on the beach, candelit dinners and knitting, and practicing pastafarianism.
+
+He coded from a young age with copy-pasting and mixing Javascript snippets on his website made in Frontpage 2000, then did some Visual Basic 6, GameMaker 6 and PHP. He tried to forget that time of his life by drinking copious amounts of Aquavit. He has since then gotten his life together and now develops in a multitude of technologies, for the moment he has a soft spot for Go.
+
+
+---
+
+Nicolai is at the time being studied at the University of Oslo. ..or was it the other way around?
+He is a guitarist in a [big band](https://en.wikipedia.org/wiki/Big_band) called Big Boss Band.
+He lives in a party mansion, also commonly known as "Mom and Dad's Basement".
+He is afraid of the dark, and exceptions in PHP.
+
+**Nicolai** got a flying start with tutorials from W3Schools (A Norwegian site, actually  :no_mouth: , for which we sincerely apologize on behalf of the Kingdom of Norway™ for letting in to this world).
+
+He once developed a CMS targeted towards the elderly to help them manage an event planning site on their own. He is passionate about interaction and user experience and thinks the most important facet of any application is an intuitive interface.  
+His graphic design skills can be considered lacklustre, but he compensates with his capabilities as a programmer and makes designs come to life with great care. 
+ 
+---
+
+We love hackathons. Being given the option to creatively and emotionally unfold and unleash the Codebro within, is the best thing in the world (except pure norwegian kebabs). 
+
+Skills and Plans
+================
+Hans has experience in Go, Python, C, Javascript and loads of tools and libraries for them. He is also capable of designing and creating great and simple user interfaces and interactions for web, desktop and mobile applications.
+
+Nicolai has for the most part worked with web development and the languages and technologies that accompany that field.
+That means Javascript for the most part, but also Go and Python. On his spare time he enjoys exercising his brain with languages like Scheme, Standard ML, Scala and Prolog.
+
+Fun fact: The blue cap on Nicolai's image is actually red (read: Mario color) but was Photoshop™-ed by his horrible, horrible ex.
+
+---
+
+We plan to try our hand at an multiplayer educational game using React for interface and Canvas/WebGL. Backend will be written in Go, and we want to try out WebRTC for P2P communication if we get the time.
 
 
 ---------------------------------------
@@ -6269,6 +6445,21 @@ of application you are going to build.
 
 You can change your mind, that's ok. Just push an update here when you do.
 
+
+
+---------------------------------------
+
+Serglider
+===========================
+Hey hackers,
+
+I'm Sergey, a single member of the seglider team. My planet rotates around Javascript star which is in the Frontend galaxy.
+
+
+
+Project
+=======
+I'm planning to develop a web app that will teach people not familiar with IT some of its aspects.
 
 
 ---------------------------------------
