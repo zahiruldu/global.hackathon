@@ -5604,6 +5604,12 @@ Comming soon
 
 ---------------------------------------
 
+# Triple J
+We are triple J, a collection of coders from all around the world.
+
+
+---------------------------------------
+
 Hola! I know I am very very late but still try my chance to join.
 I believe in Java ^^
 
@@ -6374,6 +6380,23 @@ Skills
 
 ---------------------------------------
 
+
+# Team hackitect
+
+I am a newbie developer, starting an awesome career.
+
+
+## languages
+
+-javascript
+-css
+-php
+-mysql
+
+
+
+---------------------------------------
+
 # Team hausanfan
 Marcos F. Mayorga is the lonely mate
 
@@ -6396,6 +6419,43 @@ Windows 95
 
 ---------------------------------------
 
+Welcome to Hawaii Hackers
+================
+
+I am a student studying computer science at the University of Hawaii at Hilo.
+
+
+About your team
+===========================
+I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
+I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
+large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
+on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
+
+I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
+new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for
+low income and first generation high schoolers, as a tech instructor for their Summer Academy. They were pleased with the way I interacted
+with the students, and with my knowledge of computers, and ultimately offered me a position as their IT Specialist.
+
+I graduated from the IT Program in the Spring of 2011 at the top of my class. From there, I made the decision to transfer to UH Hilo's 
+Computer Science Program. The CS Program has taught me a love for programming and problem solving that I never knew I had. I became extremely
+interested in AI, Machine Learning, Image Processing, and Datamining, and have been supplementing the education I've received with free online courses from
+Coursera and Udacity. I am also an active member of ACM, and have particpiated in two Intercollegiate Programming Competitions, as well
+as the NYU Poly  Cyber Security Awareness Week Capture the Flag, Google Codejam, and IBM's Master the Mainframe.
+
+My studies keep me very busy, but I do manage to get some downtime in where I like to hit the beach, go diving with my father, play video games, or practice jujitsu. As my education comes to a close, it is unclear if I will be able to remain in this amazing place that has 
+changed my life so much, but winning this competition would certainly be a step in the right direction.  
+
+About your skills and what you are going to do?
+=======
+As I mentioned above, my main interests fall along the lines of AI, Image Processing, Machine Learning, and Datamining, so I definitely plan to use my knowledge from at least one of these domains. I may take a whack at the real time communication theme, but being an educator myself, I may go in the direction of creating an interactive activity for first time software developers. API wise, I see a lot of interesting API's on
+Mashape, and API Tools, so plan on seeing API's from at least one of these sites. Moreover, I'll probably use QUANDL if I find that I need a large dataset unless I find a suitable dataset elsewhere. 
+
+
+
+
+---------------------------------------
+
 *Hexapus*
 
 It is one-man team (probably temporary). I am a software developer. Passionated about functional programming. Use Java, Scala and JS.
@@ -6410,6 +6470,23 @@ Most important reasons of participation in Global Hackathon:
 1. Get fun being a part of global movement
 2. Present one of pet projects to jury
 3. Get hands dirty working with different APIs
+
+
+---------------------------------------
+
+This is our page
+================
+| manohar |
+|--- |
+| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg' alt='Manohar'/> |
+
+Tell us who you are, why you did you decide to join?
+
+Senior developer in financial services industry.
+
+About your skills and what you are going to do?
+=======
+Web application with REST services.
 
 
 ---------------------------------------
@@ -6536,56 +6613,45 @@ Nick: Viruslemon
 
 ---------------------------------------
 
-Welcome to Hawaii Hackers
-================
+mapQuest
+=====
 
-I am a student studying computer science at the University of Hawaii at Hilo.
+We are mapQuest team ready to build interactive game using Google Maps™ and get you out of your chair and make you run and conquer virtual areas physically present :)
 
+## About the team
 
-About your team
-===========================
-I'm a Senior in the Computer Science department at UH Hilo. I first came to Hawaii in search of a fresh start back in December of 2007. 
-I didn't really know what I wanted to do for the rest of my life, but I did know I needed a way to make a living. I took a job with a
-large ornamental plant farm. It was hard work, and the pay was just barely enough to get by. Yet, in spite of all of this, riding around
-on a tractor all day gave me a great deal of time to think. And as I thought, I realized that I wanted to go back to school. 
+* Milica - front-end developer passionate about building hybrid mobile applications using newest web technologies
+* Damnjan - back-end developer eager to build big data systems
 
-I enrolled at Hawaii Community College in its Information Technology program back in the Spring of 2009. Going back to school breathed
-new ambition and new life into my soul, and so I decided to leave the farm and eventually took a job with Upward Bound, a college prep for
-low income and first generation high schoolers, as a tech instructor for their Summer Academy. They were pleased with the way I interacted
-with the students, and with my knowledge of computers, and ultimately offered me a position as their IT Specialist.
+## Technology stack
 
-I graduated from the IT Program in the Spring of 2011 at the top of my class. From there, I made the decision to transfer to UH Hilo's 
-Computer Science Program. The CS Program has taught me a love for programming and problem solving that I never knew I had. I became extremely
-interested in AI, Machine Learning, Image Processing, and Datamining, and have been supplementing the education I've received with free online courses from
-Coursera and Udacity. I am also an active member of ACM, and have particpiated in two Intercollegiate Programming Competitions, as well
-as the NYU Poly  Cyber Security Awareness Week Capture the Flag, Google Codejam, and IBM's Master the Mainframe.
-
-My studies keep me very busy, but I do manage to get some downtime in where I like to hit the beach, go diving with my father, play video games, or practice jujitsu. As my education comes to a close, it is unclear if I will be able to remain in this amazing place that has 
-changed my life so much, but winning this competition would certainly be a step in the right direction.  
-
-About your skills and what you are going to do?
-=======
-As I mentioned above, my main interests fall along the lines of AI, Image Processing, Machine Learning, and Datamining, so I definitely plan to use my knowledge from at least one of these domains. I may take a whack at the real time communication theme, but being an educator myself, I may go in the direction of creating an interactive activity for first time software developers. API wise, I see a lot of interesting API's on
-Mashape, and API Tools, so plan on seeing API's from at least one of these sites. Moreover, I'll probably use QUANDL if I find that I need a large dataset unless I find a suitable dataset elsewhere. 
-
-
+We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
 
 
 ---------------------------------------
 
 
-# Team hackitect
+# megusta
 
-I am a newbie developer, starting an awesome career.
+I'm Ivan and I just looooooove little software and hardware helpers that make life easier.
+But sometimes little things overgrow to big ugly monster, so it's better to kill them than develop -__-.
+I hope, this time I'll focus on one thing and won't use whole bucket of technologies
+just for one simple purpose. :)
 
+# What skills do I have?
 
-## languages
+Well, I'm kinda web developer with mixin of mobile developer who can speak following languages
+(and speaks them in daily life):
 
--javascript
--css
--php
--mysql
+ - PHP
+ - golang
+ - C# (Silverlight)
+ - Javascript
 
+My idea is to work on gathering and processing one kind of statistics that will serve well to 80%
+of possible users. I'll focus on usability, because "usable" thing means "something that helps me
+every day".
+ 
 
 
 ---------------------------------------
@@ -6640,23 +6706,6 @@ We have some ideas about theme 1. It will be cool and fun.
 
 ---------------------------------------
 
-This is our page
-================
-| manohar |
-|--- |
-| <img width="100" height="100" src='https://media.licdn.com/media/p/1/005/069/3f8/14981a3.jpg' alt='Manohar'/> |
-
-Tell us who you are, why you did you decide to join?
-
-Senior developer in financial services industry.
-
-About your skills and what you are going to do?
-=======
-Web application with REST services.
-
-
----------------------------------------
-
 #About this singleton
 
 ###Who, me?
@@ -6684,6 +6733,40 @@ Thank you for taking your time to read this page.
 
 Regards,
    Prajogo Tio
+
+
+---------------------------------------
+
+# Team revolTOS
+
+We are Federico, Paulo, Carlos, Eduardo and Rita, and we can basically can fix from a radio to a CT scanner, we can design circuits with logic gates, with PICs, with microprocessors and even micro-controllers. We used to mention the languages we know how to code with... Lately it's easier to say that Ruby on rails and Python are not our thing, but we can even code in ancient mayan!
+
+Besides that, with Eduardo we complement our coding skills with artistic design, which makes our creation a real piece of art. Carlos provides the business insights to make revolTOS an always market-oriented/market-driven group. Paulo and Rita design our products in such a way that the user experience goes as a charm. And Federico builds the backend to make sure our products are meaningful.
+
+
+Carlos Boto
+
+Since an early age I have been fascinated by the idea of creating economic value through disruptive
+technologies and by the impact of such projects in society. I work on technology transfer projects, product
+identification, market analysis, finding strategies to market entry and financial analysis. I dream about the
+day where the interface between Research / Business / Finance disappears, contributing this way to
+global development.
+
+
+Federico Cismondi
+
+I think of myself as a “data-driven person”, somebody who likes to dig deeply into collected information
+and then look for the facts in order to make decisions based on them. Also, since the early stages of my
+career I have had a self-driven, self-motivated way of encompassing work in multidisciplinary
+environments, sometimes having limited or no supervision at all, and still achieving or surpassing the
+expected goals.
+
+
+Paulo Melo
+
+I think of myself as an engineering artist. I understand how people interact with problems, interfaces and
+situations, and creatively define structures to facilitate those interactions. I have multidisciplinary
+experience in design and product development to successfully guide the product to market.
 
 
 ---------------------------------------
@@ -6727,45 +6810,29 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
-mapQuest
-=====
+Serglider
+===========================
+Hey hackers,
 
-We are mapQuest team ready to build interactive game using Google Maps™ and get you out of your chair and make you run and conquer virtual areas physically present :)
+I'm Sergey, a single member of the seglider team. My planet rotates around Javascript star which is in the Frontend galaxy.
 
-## About the team
 
-* Milica - front-end developer passionate about building hybrid mobile applications using newest web technologies
-* Damnjan - back-end developer eager to build big data systems
 
-## Technology stack
-
-We're going to combine **Cordva + HTML5 + CSS3 + AnguarJS + PHP (ZF2) + MongoDB** in order to build the app and API.
+Project
+=======
+I'm planning to develop a web app that will teach people not familiar with IT some of its aspects.
 
 
 ---------------------------------------
 
+///Honor For all///
 
-# megusta
+Languages:
+-C
+-PaZcal
+-C#
+-Haskell
 
-I'm Ivan and I just looooooove little software and hardware helpers that make life easier.
-But sometimes little things overgrow to big ugly monster, so it's better to kill them than develop -__-.
-I hope, this time I'll focus on one thing and won't use whole bucket of technologies
-just for one simple purpose. :)
-
-# What skills do I have?
-
-Well, I'm kinda web developer with mixin of mobile developer who can speak following languages
-(and speaks them in daily life):
-
- - PHP
- - golang
- - C# (Silverlight)
- - Javascript
-
-My idea is to work on gathering and processing one kind of statistics that will serve well to 80%
-of possible users. I'll focus on usability, because "usable" thing means "something that helps me
-every day".
- 
 
 
 ---------------------------------------
@@ -6784,18 +6851,10 @@ We are Sponzorme team, a team of Top Talent Colombian Developers.
 
 ---------------------------------------
 
-Serglider
-===========================
-Hey hackers,
+undefined
+=========
 
-I'm Sergey, a single member of the seglider team. My planet rotates around Javascript star which is in the Frontend galaxy.
-
-
-
-Project
-=======
-I'm planning to develop a web app that will teach people not familiar with IT some of its aspects.
-
+undefined
 
 ---------------------------------------
 
@@ -6883,56 +6942,3 @@ He now works as an Objective-C developer at Memorado, making Brain Training game
 
 #### The Project
 We will be tackling the "Game to teach beginners how to code" category. If all goes well, we will continue the project after the Hackathon with the intent to make it an official [Hour of Code](http://hourofcode.com/) tutorial.
-
----------------------------------------
-
-# Team revolTOS
-
-We are Federico, Paulo, Carlos, Eduardo and Rita, and we can basically can fix from a radio to a CT scanner, we can design circuits with logic gates, with PICs, with microprocessors and even micro-controllers. We used to mention the languages we know how to code with... Lately it's easier to say that Ruby on rails and Python are not our thing, but we can even code in ancient mayan!
-
-Besides that, with Eduardo we complement our coding skills with artistic design, which makes our creation a real piece of art. Carlos provides the business insights to make revolTOS an always market-oriented/market-driven group. Paulo and Rita design our products in such a way that the user experience goes as a charm. And Federico builds the backend to make sure our products are meaningful.
-
-
-Carlos Boto
-
-Since an early age I have been fascinated by the idea of creating economic value through disruptive
-technologies and by the impact of such projects in society. I work on technology transfer projects, product
-identification, market analysis, finding strategies to market entry and financial analysis. I dream about the
-day where the interface between Research / Business / Finance disappears, contributing this way to
-global development.
-
-
-Federico Cismondi
-
-I think of myself as a “data-driven person”, somebody who likes to dig deeply into collected information
-and then look for the facts in order to make decisions based on them. Also, since the early stages of my
-career I have had a self-driven, self-motivated way of encompassing work in multidisciplinary
-environments, sometimes having limited or no supervision at all, and still achieving or surpassing the
-expected goals.
-
-
-Paulo Melo
-
-I think of myself as an engineering artist. I understand how people interact with problems, interfaces and
-situations, and creatively define structures to facilitate those interactions. I have multidisciplinary
-experience in design and product development to successfully guide the product to market.
-
-
----------------------------------------
-
-///Honor For all///
-
-Languages:
--C
--PaZcal
--C#
--Haskell
-
-
-
----------------------------------------
-
-undefined
-=========
-
-undefined
