@@ -1,12 +1,7 @@
 { 
 2   "teamName": "Just Wanna Play Games", 
 3   "members": [ 
-4     { 
-5       "name": "Full Name", 
-6       "twitter": "twitter acct no @", 
-7       "koding": "koding username", 
-8       "location": "city, 2 digit country code" 
-9     }, 
+4
 10     { 
 11       "name": "David Graham", 
 12       "twitter": "JustwPlayGames", 
