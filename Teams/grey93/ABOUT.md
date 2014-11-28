@@ -1,4 +1,4 @@
-This is grey93's page
+Team grey93
 ================
 
 I am an undergrad at IIT Roorkee.
@@ -17,4 +17,12 @@ I am currently an undergraduate student studying Computer Science and Engineerin
 Skills
 =======
 
-I am primarily interested in Node.js and socket.io and plan to make a real time application using the [Koa](http://koajs.com) application framework for this hackathon.
+I am still brainstorming about the actual idea and will try to create something great with nodejs.
+
+Skills
+
+- Express/Koa
+- socket.io
+- Firebase/Backbone
+- Jade/Stylus/CoffeeScript
+- Node.js
