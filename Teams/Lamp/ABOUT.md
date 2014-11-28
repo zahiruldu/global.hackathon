@@ -11,4 +11,4 @@ We are the "Lamp" and we are awesome
 
 Did I mentioned that we are Russian? Yes. We love vodka, bears and balalaika, our computers works by power of nuclear reactor and our english is bad. 
 
-Browsers are good. Browsers are good for videogames. We are going to do some videogames. Some cool videogames.
+Browsers are good. Browsers are good for videogames. We are going to make some videogames. Some cool videogames.
