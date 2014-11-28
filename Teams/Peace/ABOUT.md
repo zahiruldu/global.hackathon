@@ -1,20 +1,12 @@
-Snitcher.
-================
-Roles:
-	fish — backend, frontend developer,
-	madest — backend, frontend developer,
-	mio — seo, designer,
-	arhis — just a clever guy :)
-	slow_d — very creative man.
-	
+# team «Peace»
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-																		glhf
+My name is Vitaly, and this is Artem. So, we will try realize some of our ideas.
+
+## aboute us
+
+We all juniors, but we will try...
+
+## languages we love
+
+javascript, php
+
