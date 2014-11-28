@@ -15,3 +15,7 @@ Hi, we're Harrysuke and fr3ker from Malaysia.
 - CSS
 - JS
 - JQUERY
+
+##THEME
+We choose theme #3:
+No one reads the fine print (ie TOS, EULA, legal documents) anymore yet every site has them. Devise a creative/interactive solution.
