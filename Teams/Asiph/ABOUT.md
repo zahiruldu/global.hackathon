@@ -5,14 +5,9 @@ About Team Asiph
 |--- |--- |---
 | ![awm4j](http://graph.facebook.com/awm4j/picture?type=large) | ![sippy](http://graph.facebook.com/Sippyy/picture?type=large) | ![hagan](http://graph.facebook.com/nate.hagan/picture?type=large) |
 
-/// In the process of writing this up 
+We are a group of problem solving Grove City College alumni who enjoy building cool and interactive solutions.
+We saw this hackathon as a good way to catch up and build something awesome together.
 
-Tell us who you are, why you did you decide to join?
-
-Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
-Tell us why you want to win.
-
-/// end writing up process
 
 Skills
 =======
