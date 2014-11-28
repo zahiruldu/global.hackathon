@@ -1,13 +1,26 @@
 
 
-# UDCrew
+UDCrew
+======
 
-Hey we are UDCrew our names are Jan and Grzegorz, we both come from Poland. 
+Hey we are UDCrew, we have spent lots of hours on engineering software and creating websites. So maybe...
 
-## About Us
+Team
+====
 
--- Jan (Johny) : Hey, I started coding from when I was 10 years old back then I have learned Python, 
-after few years now I am able to code in C#, Python, HTML+CSS+PHP, C++, C, Java. All of those languages have
-served me well so for now I don't think I need any others. :>
+| #Twitter | Member Name |
+|----------|-------------|
+| [#TGJohny](http://twitter.com/tgjohny) | [Jan (Johny) R](http://github.com/djczaha39) |
+| [#Grabusz](http://twitter.com/grabusz) | Grzegorz D |
 
--- Grzegorz : 
+Skills
+======
+
+The languages we program in:
+- C#
+- C++
+- Java
+- Python
+- PHP
+- HTML + CSS
+- Javascript & jQuery
