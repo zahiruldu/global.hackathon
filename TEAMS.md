@@ -313,6 +313,32 @@ About our skills and what we are going to do?
 
 ---------------------------------------
 
+ACECoders
+=====
+
+Introduction
+-----
+
+I am a web and software developer. I love learning new technologies and seek to become a more efficient and creative programmer.
+
+
+
+Skills
+-----
+ - HTML 
+ - Javascript & jQuery
+ - SQL/SQL Server
+ - ASP.NET MVC
+ - Server Administration
+ 
+
+ Global Hackathon
+ ---------------------
+ I'm excited to participate in the global programming community. I am looking to test my skills, and build an interesting application. I am excited to meet other developers and share ideas and programming ideas and techniques.
+ 
+
+---------------------------------------
+
 About Me
 ===========================
 
@@ -1085,20 +1111,6 @@ I'm full stack web developer from Ukraine with over 3 years of web development e
 - and others...
 
 There is nothing special to say about the application which will be built, however I'm going to use some great APIs to deliver new interesting solution for cross-language communicating.
-
-
----------------------------------------
-
-# Brevity Labs
-
-I am Mukul Biswas, an independent data scientist and application developer. I make my products or utilities in 
-PHP on Yii Framework, R, R on Hadoop and D3.js for visualization. I also work on SAP HANA One for large volume 
-data analysis and information mining.
-
-The other languages I like are - 
-- Java/JSP
-- Objective C
-- JavaScript
 
 
 ---------------------------------------
@@ -2572,27 +2584,6 @@ I am also very interested in Bitcoin. I have been mining Bitcoin since May of th
 
 ---------------------------------------
 
-This is our page
-================
-
-We are team Helwa, and we aim to create a recipe visualization tool that auto-curates recipe instructions and ingredient lists into an easy-to-use graphic.
-
-OUR TEAM
-===========================
-
-#### MEMBERS
-
-We are ahmedlogic & sarvagyavaish
-
-OUR SKILLS
-=======
-
-We both enjoy spontaneous projects and enjoy a love for Linux and open source technology. We have experience with multiple coding technologies such as Python frameworks, Ruby on Rails, Java, C#, and as low level as C. We also aren't afraid to delve into the hardware and the occasional spark.
-
-
-
----------------------------------------
-
 
 # Heterotopias
 
@@ -2828,25 +2819,22 @@ We plan on developing an educational game.  More info to come.
 
 ---------------------------------------
 
-Infinity Team
+This is our page
 ================
 
-We are the Infinity team located in Vancouver and Calgary. We are both from Iran.
+We are team Helwa, and we aim to create a recipe visualization tool that auto-curates recipe instructions and ingredient lists into an easy-to-use graphic.
 
-Our Team
+OUR TEAM
 ===========================
 
-| Kamyar | Mehran
-|--- |--- 
-| <img width="100" height="100" src='https://gravatar.com/avatar/478ef9a000a615df6d701cc435312e36?size=143' alt='Kamyar'/> | <img width="100" height="100" src='https://gravatar.com/avatar/a8067c4c164eda058858d0ca0da09b84?size=143' alt='Mehran'/> |
+#### MEMBERS
 
-We have both studied Computer Science for a while. We believe it's all in the details. The best ideas, with bad implementations, will always go to waste. 
+We are ahmedlogic & sarvagyavaish
 
-
-Our Skills and Our Plan
+OUR SKILLS
 =======
-We haven't yet set what we are going to do. We will choose something simple and useful, we'll try to approach it out of the box. We love Python, JS and HTML5.
 
+We both enjoy spontaneous projects and enjoy a love for Linux and open source technology. We have experience with multiple coding technologies such as Python frameworks, Ruby on Rails, Java, C#, and as low level as C. We also aren't afraid to delve into the hardware and the occasional spark.
 
 
 
@@ -3234,20 +3222,17 @@ Skills & Project: Coming Soon
 
 ---------------------------------------
 
-About your team
-===========================
+# Brevity Labs
 
-| Mona
-|--- 
-| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/7070418?v=3&u=626d9d4b98f5610a4a714c96f7e857ce217c8182&s=140' alt='Mona'/> |
+I am Mukul Biswas, an independent data scientist and application developer. I make my products or utilities in 
+PHP on Yii Framework, R, R on Hadoop and D3.js for visualization. I also work on SAP HANA One for large volume 
+data analysis and information mining.
 
-My name is Mona. I've worked as a software developer using C# and .Net framework. I chose to learn python and RoR to develop open source programs.
+The other languages I like are - 
+- Java/JSP
+- Objective C
+- JavaScript
 
-It's my first time joining a hackathon. I decided to participate as I need a purpose to develop applications. I need to make sure that my work is really helping other people. It is also a good chance to practice the new tools which I've been learning.
-
-About your skills and what you are going to do?
-=======
-I plan to use a python related web development framework, javascript, html5 and CSS. I'm mostly attracted to themes of games: introducing software development and HTML5 games.
 
 ---------------------------------------
 
@@ -3311,6 +3296,31 @@ I am a python developer (alone)
 - I Love python and generally programming
 - I am a web developer (back-end API developer)
 
+
+---------------------------------------
+
+My Story
+==============
+My name is Loqman Hakimi. I'm software and web developer from Iran.
+
+The reason I want to participate in this competetion is like any other person that wants
+to be a part of this hackaton "To Compete" and also the money :) .
+
+Here is my profile picture:
+
+| Loqman |
+|---|
+|<img width="100" height="100" src='https://pbs.twimg.com/profile_images/2792552824/01c5d5cdf909b9787edd806cbaa56c1c.png' alt='Loqman'/>|
+
+My Skills
+=====
+I love coding in Ruby and using Rails to develop web applications.
+and also like coding in javascript and using Node.js and Socket.io for realtime web
+applications.
+
+For front-end development Bootstrap and Font-Awesome are my choices.
+
+As the theme of this hacketon is problems faceing the earth, and as I recently watched on the "Last Week Tonighy with John Oliver"'s episode about global warming and some people still don't believe in it, I would like to create an app to visualize this fact.
 
 ---------------------------------------
 
@@ -3756,6 +3766,22 @@ Vladimir and Rodion. :p
 
 ---------------------------------------
 
+# team «Peace»
+
+My name is Vitaly, and this is Artem. So, we will try realize some of our ideas.
+
+## aboute us
+
+We all juniors, but we will try...
+
+## languages we love
+
+javascript, php
+
+
+
+---------------------------------------
+
 # Team PhelanGood
 One man, on a mission, to save the world through the Koding Global Hackathon. Just kidding.
 
@@ -4117,13 +4143,6 @@ Sequessu
 	- MongoDB
 	- Angularjs
 
-
-
----------------------------------------
-
-# Recon
-
-Dream don't work unless you do...
 
 
 ---------------------------------------
@@ -6942,3 +6961,50 @@ He now works as an Objective-C developer at Memorado, making Brain Training game
 
 #### The Project
 We will be tackling the "Game to teach beginners how to code" category. If all goes well, we will continue the project after the Hackathon with the intent to make it an official [Hour of Code](http://hourofcode.com/) tutorial.
+
+---------------------------------------
+
+Infinity Team
+================
+
+We are the Infinity team located in Vancouver and Calgary. We are both from Iran.
+
+Our Team
+===========================
+
+| Kamyar | Mehran
+|--- |--- 
+| <img width="100" height="100" src='https://gravatar.com/avatar/478ef9a000a615df6d701cc435312e36?size=143' alt='Kamyar'/> | <img width="100" height="100" src='https://gravatar.com/avatar/a8067c4c164eda058858d0ca0da09b84?size=143' alt='Mehran'/> |
+
+We have both studied Computer Science for a while. We believe it's all in the details. The best ideas, with bad implementations, will always go to waste. 
+
+
+Our Skills and Our Plan
+=======
+We haven't yet set what we are going to do. We will choose something simple and useful, we'll try to approach it out of the box. We love Python, JS and HTML5.
+
+
+
+
+---------------------------------------
+
+About your team
+===========================
+
+| Mona
+|--- 
+| <img width="100" height="100" src='https://avatars1.githubusercontent.com/u/7070418?v=3&u=626d9d4b98f5610a4a714c96f7e857ce217c8182&s=140' alt='Mona'/> |
+
+My name is Mona. I've worked as a software developer using C# and .Net framework. I chose to learn python and RoR to develop open source programs.
+
+It's my first time joining a hackathon. I decided to participate as I need a purpose to develop applications. I need to make sure that my work is really helping other people. It is also a good chance to practice the new tools which I've been learning.
+
+About your skills and what you are going to do?
+=======
+I plan to use a python related web development framework, javascript, html5 and CSS. I'm mostly attracted to themes of games: introducing software development and HTML5 games.
+
+---------------------------------------
+
+# Recon
+
+Dream don't work unless you do...
