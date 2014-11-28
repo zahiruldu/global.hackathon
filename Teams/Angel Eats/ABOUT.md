@@ -9,7 +9,7 @@ This is our team (for now it's just me, but I'm looking for reinforcements) on K
 |--- 
 | ![aissatech](https://avatars3.githubusercontent.com/u/3518330?v=3&s=460) 
 
-My name is Camelia Boban (aissatech on github), I am a intermediate programmer no more young anymore, a bit "bigger" than the average. 
+My name is Camelia Boban (https://github.com/aissatech), I am a intermediate programmer no more young anymore, a bit "bigger" than the average. 
 Web application developer, Google enthusiast and open source/data/gov lover.   
 
 I am going to participate to Koding Hackathon because I like challenges, I like to compare myself with others and I want to learn. But also 
