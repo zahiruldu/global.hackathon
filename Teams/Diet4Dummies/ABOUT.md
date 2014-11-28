@@ -17,8 +17,7 @@ because I want to see how it looks my project idea (java webapp about food/diet/
 
 
 Skills:
-
-================
+=======
 
  * Java EE
  * Struts, Spring (IoC), Hibernate
