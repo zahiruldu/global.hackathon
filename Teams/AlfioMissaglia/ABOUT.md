@@ -8,7 +8,7 @@
                                                                        __/ |                
                                                                       |___/
 ```
-[[`My Website`](https://www.missaglialfio.pw/)] - [[`Google+`](https://plus.google.com/u/0/+AlfioMissaglia/)] - [[`Twitter`](https://twitter.com/missaglialfio)] - [[`GitHub`](https://github.com/missaglialfio)]
+[`{My Website}`](https://www.missaglialfio.pw/)] - [`{Google+}`](https://plus.google.com/u/0/+AlfioMissaglia/) - [`{Twitter}`](https://twitter.com/missaglialfio) - [{`GitHub`}](https://github.com/missaglialfio)
 #About me
 Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
