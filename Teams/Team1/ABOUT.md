@@ -14,6 +14,7 @@ About your skills and what you are going to do?
 =======
 
 My main technologies are:
+
 Python, Django, Javascript, AngularJS
 
 But my choice always strongly depends on task.
@@ -22,6 +23,8 @@ I strongly believe that every line of code written by programmer is art and I am
 
 Social
 =======
-[a link](https://twitter.com/proitm)
-[a link](https://www.linkedin.com/pub/sergey-parkhomenko/73/717/3b4)
-[a link](https://www.facebook.com/proitm)
+[Twitter](https://twitter.com/proitm)
+
+[Linkedin](https://www.linkedin.com/pub/sergey-parkhomenko/73/717/3b4)
+
+[Facebook](https://www.facebook.com/proitm)
