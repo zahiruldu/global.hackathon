@@ -1,0 +1,36 @@
+{
+  "teamName": "Nibbles At Work",
+  "members": [
+    {
+      "name": "Hugo do Carmo",
+      "twitter": "august_hugh",
+      "koding": "spelcaster",
+      "location": "Brasília, BR",
+      "lead": true
+    },
+    {
+      "name": "Luan Santana",
+      "twitter": "LuanComputacao",
+      "koding": "-",
+      "location": "Coritiba, BR"
+    },
+    {
+      "name": "José Rios",
+      "twitter": "-",
+      "koding": "-",
+      "location": "Brasília, DF"
+    },
+    {
+      "name": "Henrique Gouveia",
+      "twitter": "-",
+      "koding": "-",
+      "location": "Brasília, DF"
+    },
+    {
+      "name": "Júlia Caroline",
+      "twitter": "SoundsLikeJulia",
+      "koding": "-",
+      "location": "Ituiutaba, MG"
+    }
+  ]
+}
