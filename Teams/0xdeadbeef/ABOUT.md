@@ -3,14 +3,14 @@
 
 Welcome to the 0xdeadbeef one man team page.
 
-The One Man Team
+About 0xdeadbeef
 ===========================
 
-| Jack
+| Jack Atkinson
 |---
 | ![Devrim](https://pbs.twimg.com/profile_images/538533874096021504/0upJlJIl_400x400.jpeg)
 
-Hello, my name is Jack Atkinson! I'm an Australian citizen born in July, 1996 who moved to America in 2005 which
+Hello, my name is Jack Atkinson! I'm an Australian citizen born July, 1996 who moved to America in 2005 which
 is where I currently reside. Since I first gained the ability to turn on my mothers computer I have had an avid
 interest in how they work. My curiosity was not getting me into too much trouble until I had a failed attempt at
 dual booting her computer with Ubuntu. The end result of that endeavor led to her computer being sent back
@@ -20,6 +20,12 @@ but thought they were a little bit above my level. When I read about Koding's Vi
 aimed towards High School students, I thought I should give it a shot and to my astonishment and excitement I was
 accepted! One fact that made this competition stick out to me was that I didn't need to travel anywhere which made
 it easily accessible as I am in my senior year at high school.
+
+Skills
+========
+Currently my strongest skills are: C++, C#, Python, HTML, CSS, DOS(Batch Files)
+
+For this project I plan on expanding my skillset of Javascript.
 
 
 The Plan
