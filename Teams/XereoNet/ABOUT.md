@@ -48,4 +48,6 @@ We can do a variety of things but our main focus resides within the web.
 
 ## What's cooking?
 
-We still quite haven't decided what to do but we have some good ideas. Stay tuned :)
+We have deviced quite the project for this hackathon!
+We will be using the MEAN stack. It'll be a project that will both delight and it will have a surprise twist at the end! 
+I can't wait to show you guys what we have in store. 
