@@ -8,8 +8,8 @@
   </tr>
 </table>
 
-Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
-I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
+<p>Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
+I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)</p>
 
 ###My project
 I would like to make a nice project based on theme 1 and 4, but I have to decide a lot of other things :)
