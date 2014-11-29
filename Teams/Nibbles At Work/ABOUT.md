@@ -4,17 +4,13 @@ Nibbles At Work
 About Nibbles
 =============
 
-|~~Nibble Position~~|User|Description|
+|Nibble Position|User|Description|
 |:---------------:|:---------------:|:---------------:|
 |Leader|spelzinho|Game enthusiast|
-|:---------------:|:---------------:|:---------------:|
-|Developer|-|-|
-|:---------------:|:---------------:|:---------------:|
-|Developer|-|-|
-|:---------------:|:---------------:|:---------------:|
-|Developer|-|-|
-|:---------------:|:---------------:|:---------------:|
-|Developer|-|-|
+|Developer|luancomputacao|-|
+|Developer|joserios|-|
+|Developer|hgouveia|-|
+|Developer|juliadazoo||
 
 
 Expertise
