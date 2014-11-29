@@ -15,10 +15,10 @@ Since then, I've tried to learn as much as I can, as fast I can. I found myself 
 
 #Skills/Experience
 ##Alan: 
-Javascript, Java, HTML/CSS.
+Javascript, Java, HTML/CSS, a little Python and Ruby.
 D3.js, Node, Sails.
 ##Kevin:
-Javascript, Java, C++, C.
+HTML/CSS, Javascript, Java, C++, C.
 
 
 We want to make an interactive website to explain and visualize the severity of Global Warming with interactive charts of all shapes and sizes.
