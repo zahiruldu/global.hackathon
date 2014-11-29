@@ -3,7 +3,7 @@
   "members": [
     {
       "name": "Herve Bupe Bwalya",
-      "twitter": "HerveBupe",
+      "twitter":"HerveBupe",
       "koding": "hervebwalya",
       "location": "Lubumbashi, CD"
     }
