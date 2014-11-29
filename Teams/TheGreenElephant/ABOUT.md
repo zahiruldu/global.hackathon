@@ -3,7 +3,8 @@
 ![team's logo](https://dl.dropboxusercontent.com/u/30380743/logo.jpg)
 
 > The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures...
-> ***-- Fred Brooks (1975) The Mythical Man-Month: Essays on Software Engineering***
+>
+> *-- Fred Brooks (1975) The Mythical Man-Month: Essays on Software Engineering*
 
 #About us
 
