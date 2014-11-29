@@ -7,7 +7,6 @@ We are Eric, Gerry, and Irene. We are all from UBC and love creating awesome and
 
 - Eric: My name is Eric, 
 - Gerry:
-- Irene:
 
 ## Languages we love
 
