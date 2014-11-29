@@ -1,8 +1,7 @@
 ###About me
-###About me
-| Alfio Missaglia  |
+<align="right">| Alfio Missaglia  |
 |---|
-| ![avatar](https://avatars3.githubusercontent.com/u/7951738?v=3&u=9d1da16a4974b80e82fcc441e45e6c9b19727d00&s=140)  |Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
+| ![avatar](https://avatars3.githubusercontent.com/u/7951738?v=3&u=9d1da16a4974b80e82fcc441e45e6c9b19727d00&s=140)  |</align>Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
 
 ###My project
