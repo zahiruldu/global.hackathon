@@ -1,9 +1,11 @@
 #cool_kid_alert
 
 ##Alan
-    Just a high schooler on the east coast who wants to test his skills. I doubt I will win, but I just want to see what participating feels like. 
-    Never really knew what I wanted to do until my first day of Freshman year, when I walked into Computer Science class Period 1. Hello World in Java seemed magical to me, and I knew exactly what I wanted to do when I "grew up".
-  Since then, I've tried to learn as much as I can, as fast I can. I found myself overreaching at one point, trying to become a coding polyglot- I was trying to learn 3 or more languages at once, which did not work. So I focused on learning a few things, and learning them well.
+
+Just a high schooler on the east coast who wants to test his skills. 
+I doubt I will win, but I just want to see what participating feels like. 
+Never really knew what I wanted to do until my first day of Freshman year, when I walked into Computer Science class Period 1. Hello World in Java seemed magical to me, and I knew exactly what I wanted to do when I "grew up".
+Since then, I've tried to learn as much as I can, as fast I can. I found myself overreaching at one point, trying to become a coding polyglot- I was trying to learn 3 or more languages at once, which did not work. So I focused on learning a few things, and learning them well.
   And I got an internship at an informatics lab! 
 
 ##Kevin
