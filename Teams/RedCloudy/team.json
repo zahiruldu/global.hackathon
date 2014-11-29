@@ -5,11 +5,12 @@
       "name": "Giang N",
       "twitter": "smartexts",
       "koding": "giangnguyen",
-      "location": "Ho Chi Minh, VN"
+      "location": "Ho Chi Minh, VN",
       "lead": true
     },
     {
       "name": "Hoat D",
+      "location": "Ho Chi Minh, VN",
       "koding": "redone"
     }
   ]
