@@ -2,6 +2,8 @@
 Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
 
+I currently studying computer science at the *Carlo Zuccante* college of Mestre - a pretty little town close to Venice.
+
 #My project
 I would like to make a nice project based on theme 1 and 4, but I have to decide a lot of other things :)
 >Problems facing our planet, explained using interactive data visualization.
