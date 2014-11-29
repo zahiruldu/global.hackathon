@@ -1,10 +1,10 @@
 ###About me
 <table style="float: right">
   <tr>
-    <th>Alfio Missaglia</th>
+    <th style="float:right">Alfio Missaglia</th>
   </tr>
   <tr>
-    <td><img src="https://avatars3.githubusercontent.com/u/7951738?v=3&u=9d1da16a4974b80e82fcc441e45e6c9b19727d00&s=140"></td>
+    <td style="float:right"><img src="https://avatars3.githubusercontent.com/u/7951738?v=3&u=9d1da16a4974b80e82fcc441e45e6c9b19727d00&s=140"></td>
   </tr>
 </table>
 
