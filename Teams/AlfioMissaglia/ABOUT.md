@@ -14,10 +14,9 @@ Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student w
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
 
 #My project
-I would like to make a nice project based on theme 1 and 4, but I have to decide a lot of other things :)
->Problems facing our planet, explained using interactive data visualization.
-
->HTML5 games that are educational and learning oriented.
+My project'll be based on the first and the fourth themes.
+So, I'll make a creative and interactive lesson platform, with games developed probably in Node.js and jQuery.
+I'll also try to learn Python's basics before Hackathon start, I think I can make nice things with it :D
 
 #Skills
 I do have experience with those programming languages:
@@ -29,5 +28,10 @@ I do have experience with those programming languages:
 * SQL - [MySQL](http://www.mysql.com/) and [MariaDB](https://mariadb.org/)
 * HTML5
 * Node.js
+* A **veeeeery** little bit of Python
 
 I also know the basics of Photoshop and GIMP.
+
+#Infos
+I think I'll participate in the Hackathon as an individual, but I'm not sure C:
+Feel free to send me an email (`public [AT] missaglialfio [DOT] pw`) if you're interested in me.
