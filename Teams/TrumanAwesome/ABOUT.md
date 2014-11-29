@@ -1,6 +1,6 @@
  
   # TrumanAwesome
   
-My name is Truman, a all-round "coding lover" from Hong Kong and now I am living in Vancouver.
+My name is Truman, an all-round, enthusiastic "coding lover" from Hong Kong and now I am living in Vancouver.
 I am 15 and maybe the youngest participants of hackathon!
 
