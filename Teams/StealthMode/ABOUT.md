@@ -6,10 +6,11 @@ We are Pythonist.
 About your team
 ===========================
 
-| Vaibhav | Ramesh |
-|--- |--- |
+| Vaibhav | Ramesh |  | 
+|--- |--- |--- |---
 
 | ![Vaibhav](https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-18/3033198834_aa030ae0968a3089c036_192.jpg) | ![Ramesh](https://scontent-a.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10574358_10152159172226574_2998773965547101880_n.jpg?oh=5ccca6b51dff1e0187d0f7aff926d7ff&oe=54D9815F) |
+![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
 
 
 
