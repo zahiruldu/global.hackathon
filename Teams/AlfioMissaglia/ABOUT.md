@@ -1,5 +1,5 @@
 ###About me
-<table style="align:right">
+<table style="text-align:right">
   <tr>
     <th>Alfio Missaglia</th>
   </tr>
