@@ -5,19 +5,20 @@
       "name": "Mitchel Kelonye",
       "twitter": "kelonye",
       "koding": "kelonye",
-      "location": "Nairobi, KE"
+      "location": "Nairobi, KE",
+      "lead": true
     },
     {
       "name": "Ferdaous CHEBBI",
       "twitter": "ferdaous",
       "koding": "ferarkan",
-      "location": "Tunis,Tunisia"
+      "location": "Tunis, TN"
     }
     {
       "name": "Medha Pandey",
       "twitter": "medhapandas"
       "koding": "mack8",
-      "location": "Jaipur,INDIA"
+      "location": "Jaipur, IN"
     }
   ]
 }
