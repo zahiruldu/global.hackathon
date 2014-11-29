@@ -1,7 +1,7 @@
-##Hello
+#Hello
 
-#About
+##About
 
-#Skillz
+##Skillz
 
-#Project
+##Project
