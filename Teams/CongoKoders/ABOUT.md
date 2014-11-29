@@ -5,10 +5,13 @@ Single menber team .
 
 About me
 ===========================
-I am a developer, web designer and computer programmer offering over 5 years 
-of experience on both client and server sides. I have advenced skills in 
-PHP(Symfony2, Laravel), MySQL, Nodejs/Javascript,Ember.js, Backbone.js, C++ (Qt4, Qt5 framework),
-Java (SE,EE) and HTML5/CSS3;. 
+My skills :
+ - Node.js/express.js/socket.io,
+ - Ember.js,
+ - HTML5/CSS3,
+ - PHP ( Symfony2 standard edition),
+ - Angular.js,
+ - C/C++ (Qt4,Qt5)
 
 
 Project
