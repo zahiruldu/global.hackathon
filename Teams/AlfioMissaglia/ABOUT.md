@@ -1,4 +1,4 @@
-```
+```<p style="text-align:center">
              _    __   _             __  __   _                               _   _         
      /\     | |  / _| (_)           |  \/  | (_)                             | | (_)        
     /  \    | | | |_   _    ___     | \  / |  _   ___   ___    __ _    __ _  | |  _    __ _ 
@@ -7,6 +7,7 @@
  /_/    \_\ |_| |_|   |_|  \___/    |_|  |_| |_| |___/ |___/  \__,_|  \__, | |_| |_|  \__,_|
                                                                        __/ |                
                                                                       |___/
+</p>
 ```
 #About me
 Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
