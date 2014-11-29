@@ -62,6 +62,49 @@ I won't say much about the project and the APIs I plan to use as I feel it might
 
 ---------------------------------------
 
+0xdeadbeef
+================
+
+Welcome to the 0xdeadbeef one man team page.
+
+About 0xdeadbeef
+===========================
+
+| Jack Atkinson
+|---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/538533874096021504/0upJlJIl_400x400.jpeg' alt='Devrim'/>
+
+Hello, my name is Jack Atkinson! I'm an Australian citizen born July, 1996 who moved to America in 2005 which
+is where I currently reside. Since I first gained the ability to turn on my mothers computer I have had an avid
+interest in how they work. My curiosity was not getting me into too much trouble until I had a failed attempt at
+dual booting her computer with Ubuntu. The end result of that endeavor led to her computer being sent back
+to HP for the first time. That interest has manifested itself into a love for programming and solving problems
+with computers. After delving deeper and deeper into the land of software development I had heard about hackathons
+but thought they were a little bit above my level. When I read about Koding's Virtual Hackathon that was mostly
+aimed towards High School students, I thought I should give it a shot and to my astonishment and excitement I was
+accepted! One fact that made this competition stick out to me was that I didn't need to travel anywhere which made
+it easily accessible as I am in my senior year at high school.
+
+Skills
+========
+Currently my strongest skills are: C++, C#, Python, HTML, CSS, DOS(Batch Files)
+
+For this project I plan on expanding my skillset of Javascript.
+
+
+The Plan
+========
+I have chosen the theme of Introducing software development to a beginner. To make my idea a reality I will be
+using the following API's:
+
+CreateJS 
+
+Ace
+
+
+
+---------------------------------------
+
 1d20 dev team from Ukraine
 ================
 
@@ -2938,6 +2981,29 @@ We haven't yet set what we are going to do. We will choose something simple and 
 
 ---------------------------------------
 
+General
+=======
+We are the Innovate team, and all of us are from Malaysia.
+
+About our Team
+==============
+We are consist of 3 persons and we are :-
+
+(1) Pak Loong Chan (Leader)
+
+(2) Seng Loong Chan (Brother of Pak Loong Chan)
+
+(3) Manigandan Raju (Working colleague of Pak Loong Chan)
+
+Togather, we embark on the global hackathon journey.
+
+Our Skill Sets and Goal in Global Hackathon
+===========================================
+We are into Big Data. Then, we going to utilise HTML, CSS, JavaScript, PHP, Python and anything else which going to get this project working.
+
+
+---------------------------------------
+
 Intelligence Spreader
 ================
 
@@ -5773,6 +5839,11 @@ The team
 
 ---------------------------------------
 
+We are a group of enthused coders from Toronto.
+
+
+---------------------------------------
+
 #Tourist
 
 
@@ -5867,6 +5938,11 @@ Hi. We are [Twentyseven](http://twentyseven.in) & we create beautiful and effici
 ---------------------------------------
 
 # Um, Nothing to add yet...
+
+
+---------------------------------------
+
+## Still brainstorming, I will update it soon.
 
 
 ---------------------------------------
@@ -6933,6 +7009,30 @@ Nick: Viruslemon
 -JavaScript
 -JQuery
 
+
+---------------------------------------
+
+Mantis
+================
+
+Whether you're a fan of Preying Mantis or the Mantis Shrimp, it doesn't really matter. Mantis Shrimp is better. 
+
+
+About your team
+===========================
+
+| nadeesha |
+|--- |
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/538531580759642112/6E9RC_8N_400x400.jpeg' alt='nadeesha'/> | 
+
+I'm Nadeesha from Colombo, Sri Lanka and I joined this quest for gold and glory. Not this one? Ok, sorry.
+
+I'm Nadeesha, a full stack developer from Colombo, Sri Lanka. I like to do stuff with Javascript.
+
+
+About your skills and what you are going to do?
+=======
+Node.js, probably the MEAN stack. Chrome extensions maybe, and websockets. Yes, sweet sweet websockets.
 
 ---------------------------------------
 
