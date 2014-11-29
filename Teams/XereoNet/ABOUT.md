@@ -49,5 +49,5 @@ We can do a variety of things but our main focus resides within the web.
 ## What's cooking?
 
 We have deviced quite the project for this hackathon!
-We will be using the MEAN stack. It'll be a project that will both delight and it will have a surprise twist at the end! Nitin already praised the idea in a private conversation we had :D
+We will be using the MEAN stack. It'll be a project that will both delight and it will have a surprise twist at the end! 
 I can't wait to show you guys what we have in store. 
