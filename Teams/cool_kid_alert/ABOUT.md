@@ -1,6 +1,7 @@
 #cool_kid_alert
 
 ##Alan
+    
     Just a high schooler on the east coast who wants to test his skills. I doubt I will win, but I just want to see what participating feels like.
     
   Never really knew what I wanted to do until my first day of Freshman year, when I walked into Computer Science class Period 1. Hello World in Java seemed magical to me, and I knew exactly what I wanted to do when I "grew up".
@@ -10,7 +11,7 @@
   And I got an internship at an informatics lab! 
 
 ##Kevin
-  Known as "Bear". Algorithm master and math wiz. Straight out of Longmont.
+  Known as "Bear". Algorithm master and High School math wiz. Straight out of Longmont.
   I'm pretty sure I'm cooler than Alan. I think. 
   I like to work with C/C++, so if you need help, I'd be happy to give you some **pointers**.
 
