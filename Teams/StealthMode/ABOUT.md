@@ -8,7 +8,7 @@ About your team
 
 | Vaibhav | Ramesh |  | 
 |--- |--- |--- |---
-| ![Vaibhav](https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-18/3033198834_aa030ae0968a3089c036_192.jpg) | ![Ramesh](https://pbs.twimg.com/profile_images/522297664893771777/Js9zh_9P_400x400.jpeg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
+| ![Vaibhav](https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-18/3033198834_aa030ae0968a3089c036_192.jpg) | ![Ramesh](https://pbs.twimg.com/profile_images/522297664893771777/Js9zh_9P_400x400.jpeg) |  | |
 
 
 
