@@ -1,0 +1,35 @@
+{
+  "teamName": "Meteorhacks",
+  "members": [
+    {
+      "name": "Arunoda Susiripala",
+      "twitter": "",
+      "koding": "",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Pahan Sarachchandra",
+      "twitter": "",
+      "koding": "",
+      "location": ""
+    },
+    {
+      "name": "Muhammed Thanish",
+      "twitter": "@mnmtanish",
+      "koding": "mnmtanish",
+      "location": "Negombo, LK"
+    },
+    {
+      "name": "Pasindu De Silva",
+      "twitter": "",
+      "koding": "",
+      "location": "Colombo, LK"
+    },
+    {
+      "name": "Chathu Vishwajith",
+      "twitter": "",
+      "koding": "",
+      "location": "Colombo, LK"
+    }
+  ]
+}
