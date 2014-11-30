@@ -17,7 +17,7 @@ It would be great to learn something new and see other people ideas and thoughts
 About our project.
 ===========================
 
-Our project will be connected to software development learning theme
+Our project will be related to software development learning theme
 
 Our Skills:
 =======================
