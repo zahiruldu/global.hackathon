@@ -1,0 +1,12 @@
+{
+  "teamName": "Angel Eats",
+  "members": [
+    {
+      "name": "Camelia Boban",
+      "twitter": "cameliaboban",
+      "koding": "aissatech",
+      "location": "Rome, IT",
+      "lead":true
+    }
+  ]
+}
