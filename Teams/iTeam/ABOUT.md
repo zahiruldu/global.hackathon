@@ -19,3 +19,10 @@ Shin Masaharu
 Electrical Engineer by profession and my avid interest in firmware programming 
 lead me to exploring more programming languages and design patterns.
 Skills: Javascript, jQuery, AngularJS, UX design. Java, C, PHP, APIs & MySQL.
+
+
+##########
+
+Joseph Loyola 
+
+front-end web developer html5 css3 javascript
