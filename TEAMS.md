@@ -57,6 +57,15 @@ I won't say much about the project and the APIs I plan to use as I feel it might
 
 ---------------------------------------
 
+0xDEADBABE
+================
+*** Stay Tuned ***
+
+
+
+
+---------------------------------------
+
 /////////LOADING/////////
 
 
@@ -591,23 +600,43 @@ Languages-Lenguages
 
 ---------------------------------------
 
-###About me
+```
+             _    __   _             __  __   _                               _   _         
+     /\     | |  / _| (_)           |  \/  | (_)                             | | (_)        
+    /  \    | | | |_   _    ___     | \  / |  _   ___   ___    __ _    __ _  | |  _    __ _ 
+   / /\ \   | | |  _| | |  / _ \    | |\/| | | | / __| / __|  / _` |  / _` | | | | |  / _` |
+  / ____ \  | | | |   | | | (_) |   | |  | | | | \__ \ \__ \ | (_| | | (_| | | | | | | (_| |
+ /_/    \_\ |_| |_|   |_|  \___/    |_|  |_| |_| |___/ |___/  \__,_|  \__, | |_| |_|  \__,_|
+                                                                       __/ |                
+                                                                      |___/
+```
+[`{My Website}`](https://www.missaglialfio.pw/) - [`{Google+}`](https://plus.google.com/u/0/+AlfioMissaglia/) - [`{Twitter}`](https://twitter.com/missaglialfio) - [`{GitHub}`](https://github.com/missaglialfio) - [`{Facebook}`](https://www.facebook.com/alfio.missaglia) - [`{Koding}`](https://koding.com/xenon05) - `public [AT] missaglialfio [DOT] pw`
+#About me
 Hello! I'm **Alfio Missaglia**, a  thirteen years old computer science student who lives in Venice, Italy.
 I own the [www.missaglialfio.pw](https://www.missaglialfio.pw/) blog :)
 
-###My project
-I would like to make a nice project based on theme 1 and 4, but I have to decide a lot of other things :)
->Problems facing our planet, explained using interactive data visualization.
+#My project
+My project'll be based on the first and the fourth themes.
+So, I'll make a creative and interactive lesson platform, with games developed probably in Node.js and jQuery.
+I'll also try to learn Python's basics before Hackathon start, I think I can make nice things with it :D
 
->HTML5 games that are educational and learning oriented.
-
-###Languages
-I'll probably use:
+#Skills
+I do have experience with those programming languages:
+* Java
 * PHP
 * jQuery
-* SQL (maybe [MariaDB](https://mariadb.org/) engine)
-* Node.js
+* CSS
+* JavaScript
+* SQL - [MySQL](http://www.mysql.com/) and [MariaDB](https://mariadb.org/)
 * HTML5
+* Node.js
+* A **veeeeery** little bit of Python
+
+I also know the basics of Photoshop and GIMP.
+
+#Infos
+I think I'll participate in the Hackathon as an individual, but I'm not sure C:
+Feel free to send me an email (`public [AT] missaglialfio [DOT] pw`) if you're interested in me.
 
 
 ---------------------------------------
@@ -1002,6 +1031,29 @@ Languages-Lenguages
 - Javascript
 - Erlang
 - PHP MVC Frameworks 
+
+
+---------------------------------------
+
+#Betelgeuse
+
+We are Android developers from Dnipropetrovsk, Ukraine.
+
+##About us
+
+We are making the world better.
+
+##Technologies we familiar
+
+- Java
+- Android
+- Gradle, Maven, And build systems
+- Google services (APIs)
+- Facebook, Twitter, Google+, VK APIs
+- Retrofit, Picasso, EventBus, Glide, Universal Image Loader
+- SQLite database
+- JSON & XML types
+- NDK
 
 
 ---------------------------------------
@@ -1903,6 +1955,26 @@ What you are going to do?
 We're interested in exploring theme number 1 or 3. We will try to combine the available APIs with our capabilities to deliver suitable app to answer the narrated problems.
 
 
+
+
+---------------------------------------
+
+
+# DarthKoders
+
+We are Baran and Göktuğ. We like coding and learning new things.
+
+## About Us
+
+-Göktuğ: I'm Göktuğ. I like coding with C++, python and C. I'm interested in Android App Development.
+-Baran: Hi, I'm Baran. I've developed some windows phone apps and android apps. I like coding with C.
+
+## Languages we love
+
+-C/C++
+-Python
+-Java
+-C#
 
 
 ---------------------------------------
@@ -5033,6 +5105,40 @@ I'm Tim, hoping to build a team to do great things with mapping for a community 
 
 ---------------------------------------
 
+Team1
+================
+
+Programming as an art
+
+
+About your team
+===========================
+
+My name is Sergey Parkhomenko. I'm first year student and i decided to do my best and prove to all and firstly to myself that I'm the best in my area. 
+
+
+About your skills and what you are going to do?
+=======
+
+My main technologies are:
+
+Python, Django, Javascript, AngularJS
+
+But my choice always strongly depends on task.
+
+I strongly believe that every line of code written by programmer is art and I am going to prove it on this competition.
+
+Social
+=======
+[Twitter](https://twitter.com/proitm)
+
+[Linkedin](https://www.linkedin.com/pub/sergey-parkhomenko/73/717/3b4)
+
+[Facebook](https://www.facebook.com/proitm)
+
+
+---------------------------------------
+
 A team from 4 continents
 ================
 
@@ -6293,7 +6399,9 @@ We can do a variety of things but our main focus resides within the web.
 
 ## What's cooking?
 
-We still quite haven't decided what to do but we have some good ideas. Stay tuned :)
+We have deviced quite the project for this hackathon!
+We will be using the MEAN stack. It'll be a project that will both delight and it will have a surprise twist at the end! 
+I can't wait to show you guys what we have in store. 
 
 
 ---------------------------------------
@@ -6466,6 +6574,30 @@ We don't know what we are going to make yet!
 
 ---------------------------------------
 
+# coDeUNIT
+
+We are a bunch of workholic lads willing to challange our coding skills and you bet there's no better platform than HACKATHON! And we are both eagar and excited to be here .... Lets get started !
+
+## About Us
+
+- Jayesh 'jey' Sawant : Designer 
+- Swapnil 'nil' Karande : Developer 
+- Ajit 'Mouse' Mane : Developer
+- Darshan 'shan' Bhogle : Databse Admin
+- Nikhil 'uNIKs' Paramar : Linux Admin
+
+## Languages We love
+
+- Javascript
+- sql
+- php
+- bootstrap
+- postgresql
+- nodejs
+
+
+---------------------------------------
+
 About codingkitten
 ===========================
 I'm a ruby/rails developer from Hungary.
@@ -6501,24 +6633,31 @@ make up a little for the lack of knowledge in coding. I will try to build a PC g
 
 ---------------------------------------
 
-cool_kid_alert
-================
-Just a high schooler on the east coast who wants to test his skills. I doubt I will win, but I just want to see what participating feels like.
+#cool_kid_alert
 
-Never really knew what I wanted to do until my first day of Freshman year, when I walked into Computer Science class Period 1.
-Hello World in Java seemed magical to me, and I knew exactly what I wanted to do when I "grew up".
-Since then, I've tried to learn as much as I can, as fast I can. 
-I found myself overreaching at one point, trying to become a coding polyglot- I was trying to learn 3 or more languages at once, which did not work. So I focused on learning a few things, and learning them well.
+##Alan
 
-And I got an internship at an informatics lab! 
+Just a high schooler on the east coast who wants to test his skills. 
+I doubt I will win, but I just want to see what participating feels like. 
+Never really knew what I wanted to do until my first day of Freshman year, when I walked into Computer Science class Period 1. Hello World in Java seemed magical to me, and I knew exactly what I wanted to do when I "grew up".
+Since then, I've tried to learn as much as I can, as fast I can. I found myself overreaching at one point, trying to become a coding polyglot- I was trying to learn 3 or more languages at once, which did not work. So I focused on learning a few things, and learning them well.
+  And I got an internship at an informatics lab! 
 
-Skills/Experience
-================
-Javascript, Java, HTML/CSS.
+##Kevin
+  Known as "Bear". Algorithm master and High School math wiz. Straight out of Longmont.
+  I'm pretty sure I'm cooler than Alan. I think. 
+  I like to work with C/C++, so if you need help, I'd be happy to give you some **pointers**.
+
+#Skills/Experience
+##Alan: 
+Javascript, Java, HTML/CSS, a little Python and Ruby.
 D3.js, Node, Sails.
+##Kevin:
+HTML/CSS, Javascript, Java, C++, C.
 
-I want to make an interactive website to explain and visualize the severity of Global Warming with interactive charts of all shapes and sizes.
-Obviously, I'd use d3.js for that.
+
+We want to make an interactive website to explain and visualize the severity of Global Warming with interactive charts of all shapes and sizes.
+Obviously, we'd use d3.js for that.
 Another cool idea would be a way for people to highlight the most important parts of a legal document for users to read and then some sort of game to make sure people read those sentences, at least.
 
 
@@ -6826,6 +6965,17 @@ As I mentioned above, my main interests fall along the lines of AI, Image Proces
 Mashape, and API Tools, so plan on seeing API's from at least one of these sites. Moreover, I'll probably use QUANDL if I find that I need a large dataset unless I find a suitable dataset elsewhere. 
 
 
+
+
+---------------------------------------
+
+#Hello
+
+##The Team
+
+##Skillz
+
+##Project
 
 
 ---------------------------------------
@@ -7270,6 +7420,23 @@ We are Sponzorme team, a team of Top Talent Colombian Developers.
  - CSS (SCSS)
  - JavaScript (Angular)
  - PHP
+
+
+---------------------------------------
+
+
+# Team GR
+
+## About Us
+
+- Dimitrios
+  opensource monkey
+
+- Ioannis
+  .NET know-it-all
+
+## Languages we love
+Python, C, C#, Java
 
 
 ---------------------------------------
