@@ -8,10 +8,7 @@ About your team
 
 | paulliwali | lyamelia | Brian | Ben | Matt |
 |---|---|---|---|---|
-|![paulliwali](https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)| ![lyamelia](http://placehold.it/350x150)| 
-![Brian](http://placehold.it/350x150)| 
-![Ben](http://placehold.it/350x150)|
-![Matt](http://placehold.it/350x150)|
+|(https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg)|![lyamelia](http://placehold.it/350x150)|!(http://placehold.it/350x150)|!(http://placehold.it/350x150)|!(http://placehold.it/350x150)|
 
 Tell us who you are, why you did you decide to join?
 
