@@ -57,6 +57,17 @@ I won't say much about the project and the APIs I plan to use as I feel it might
 
 ---------------------------------------
 
+#Hello
+
+##About
+
+##Skillz
+
+##Project
+
+
+---------------------------------------
+
 0xDEADBABE
 ================
 *** Stay Tuned ***
@@ -2453,6 +2464,13 @@ I'm still not sure what APIs I will be using. But most likely I will use Node.JS
 
 ---------------------------------------
 
+# FunnyBretzels
+
+Coding fun stuff since the invention of sliced bread
+
+
+---------------------------------------
+
 # Team G10aT
 
 Like doing stuff.
@@ -3287,6 +3305,25 @@ So, we develop backend systems, frontend and mobile apps. It seems to be a full-
 
 ---------------------------------------
 
+
+# Jostlers
+
+My name is Vincent.
+
+## About Me
+
+I started learning python a few years ago, and found that I really liked coding.
+
+## Languages I've learned/I'm learning
+- Java
+- Python
+- PHP
+- Ruby (kind of)
+- JS (kind of)
+
+
+---------------------------------------
+
 # Just Wanna Play Games
 David Graham, Rane Boe Graham and a couple of others from Just Wanna Play Games a 4 man gaming crew
 
@@ -3437,6 +3474,21 @@ We are Viswaprasath and Barath who loves programming and loves to participate in
   -C for Sure
   
 
+
+---------------------------------------
+
+This is my page
+================
+
+Hey, I joined this event just for fun! We will see what I can do. :)
+
+
+About your team
+===========================
+
+| kaan 
+|---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/527042542894739456/LRaWFeyd.jpeg' alt='Kaan'/> | 
 
 ---------------------------------------
 
@@ -3983,6 +4035,29 @@ To be fair, we can work with many languages and frameworks. But, for this partic
 
 ---------------------------------------
 
+This is our page
+================
+
+We are the Koding team, so we are not really participating. But this page is here
+to give you an idea about your own page.
+
+
+About your team
+===========================
+
+| aphelionz (Mark) | skybondsor (Jordyn) |
+|--- |--- |
+| <img width="100" height="100" src='https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/429397_10151321831125069_2084122506_n.jpg?oh=ab41ad0750b749a532bbd8f2d3f5a9cd&oe=550E92A4&__gda__=1423315627_a25fd60398c2cba46cb88530c5358420' alt='aphelionz'/> | <img width="100" height="100" src='https://scontent-a-iad.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1392014_10151601758896266_672020922_n.jpg?oh=20ae0c38af31d7c017a699a3a8fbe0a1&oe=550CD680' alt='skybondsor'/> |
+
+Jordyn and Mark have been coding together both on and off the job for over 6 years now. We initially joined the hackathon because of the opportunity to do something based on climate change.
+
+However, when the topics were announced, we both felt drawn towards the privacy policy / terms of service topic. That is the topic we ended up choosing.
+
+We plan to make a web application to this effect. We have a good idea of what we're building. API choices are pending
+
+
+---------------------------------------
+
 NotLastPlace
 ==========
 
@@ -4031,6 +4106,25 @@ Coming soon
 - Java
 - Javascript
 - Sql
+
+
+---------------------------------------
+
+OpenUpData
+================
+
+Coming Soon
+
+
+About your team
+===========================
+
+
+
+About your skills and what you are going to do?
+=======
+
+
 
 
 ---------------------------------------
@@ -4483,6 +4577,31 @@ Dream don't work unless you do...
 This is our page
 ================
 
+I am software developer and want to realize my idea in koding hackaton
+
+
+About me
+===========================
+
+
+I am 26 and software developer and some monthes ago I found are there any online hackatons. And it was very surprisingly when I didn't find any. 
+But now  I have got a mail from elance with explanation of koding.com hackaton and was very happy to know about it.
+When I registered and was approved for participating I found that first theme (about global problems of the Earth) is very interesting for me.
+I want to make something interesting, beatiful and of course  useful . And I want to win not for the money but for the communication with interesting people.
+
+
+About my skills
+=======
+I think that programming is general skill. But of course there must be the platform where a programmer realizes his ideas.And 
+nowadays I am focusing on web projects. I program on C# for ASP.NET /MVC/WebApi platforms, Javascript (jQuery and Angular.js mainly) for frontend. And I love alghoritms and especially I  like machine learning and big data, and using for it Python (May be I will move to that language in future :) )
+
+
+
+---------------------------------------
+
+This is our page
+================
+
 Rhinoceros is a team of one (for now!) eager to participate in Koding Hackathon.
 
 
@@ -4528,6 +4647,11 @@ About our project.
 ===========================
 
 We not a choose now which of our ideas to put into Hackathon, but as far as technology, the project will be based on Javascript. On the server we use Node.js, client-server communication via web sockets. Other details we will post before Hackaton.
+
+
+---------------------------------------
+
+Hey so my name is Sacheth and I am a one man team.
 
 
 ---------------------------------------
@@ -5794,6 +5918,21 @@ way we have structured our data so far and how should we go about changing it, i
 
 ---------------------------------------
 
+<h1>This is our page</h1>
+Coming soon...
+
+<h1>About our team</h1>
+Coming soon...
+
+<h3>About our skills and what we are going to do?</h3>
+PHP
+CSS3
+HTML5
+Creativity!
+
+
+---------------------------------------
+
 We are The GOAT
 ================
 
@@ -6717,6 +6856,33 @@ I might change my mind, and build applications using firebase instead of App Eng
 
 ---------------------------------------
 
+Brazil Koders
+================
+
+We are the super brazilian team! We are about the build something awesome and get to the top.
+
+
+About your team
+===========================
+
+| Andre | Gabriel | Paullo
+|--- |--- |---
+| <img width="100" height="100" src='https://scontent-b-gru.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1425683_10153525032145261_2036125457_n.jpg?oh=fa7486729a0de880ccf27e347f70a5a2&oe=5509069F' alt='Andre'/> | <img width="100" height="100" src='https://scontent-b-gru.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/1391491_10202347341759549_8101725418041298135_n.jpg?oh=7cfd85eb91b70aa7417c8a9feadb2532&oe=55161C72' alt='Gabriel'/> | <img width="100" height="100" src='https://scontent-a-gru.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10734099_756158111119910_3530888804525742896_n.jpg?oh=1a7913c3408f60fdd4bff6b8a38a61bf&oe=54DA8C0C' alt='Paullo'/>
+
+We are a team of developers and hackathon lovers.
+
+We have been waiting for this competition for a long time and each of us have a specific reason to be here, but if there is one word that can describe what we are hoping to find here is: Opportunity.
+
+Opportunity to work together in something new and exciting. Opportunity to have fun in this fast paced life. And opportunity to win something that can really make a difference in our future carriers!
+
+
+
+
+Two of us are really good with front-end development, but node.js is here and we have been building awesome things with it. The other one is a rails ninja and have been asked to work in tons of nice companies (but he really likes his own company).
+=======
+
+---------------------------------------
+
 c0D3 mUNCH3R5
 ================
 
@@ -6934,6 +7100,21 @@ will come.
 We do embedded programming (C/C++), as well Python/PHP/JS.
 
 
+
+
+
+---------------------------------------
+
+#Team discoverakrur
+Hi this is discoverakrur.. A Kool Koder..
+
+## About me
+-Akrur: I am Akrur , I am a code geek.I am huge opensource fan and loves Grails.
+
+## Languages I Like
+-Groovy
+-Javascript
+-Java
 
 
 
@@ -7302,6 +7483,38 @@ PHP,C++,Python,Javascript.
 
 ---------------------------------------
 
+Inglorious Hacker
+================
+
+My name is Amit Haval, and I had image in my friend circle and college as IngloriousHacker.
+
+About Me
+===========================
+
+| Amit
+|---
+| <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1985451?v=3&u=0169a09a1db1aac8df147b2058957bc3cb6d2b37&s=140' alt='Amit'/>
+
+I began doing freelance web development in high school, and had become disenchanted with it by the time I reached
+University.  However, after working some co-op positions with some passionate web developers, I gained a appreciation
+and insight for what the web is capable of.
+
+Now, I'm all about pushing the limits of what the web can do.  I like to think I have some creative and innovative
+ideas to bring to the table, and I'm excited to be taking part in the first ever Global Hackathon.  One day, when events
+like this are commonplace, I'll be able to look back and say that I was there for the beginning!
+
+
+Skills and Direction
+=======
+
+My passion has always been in interactive media, anything that takes entertainment beyond something to be simply
+consumed, allowing people to influence and engage with it.  I love experimenting with new web technologies to
+break expectations regarding the limitations of the web.  My hope is to combine my passion with these
+technologies in a result that is both practical and delightful for users.
+
+
+---------------------------------------
+
 About Itzteam
 ================
 Itzteam members
@@ -7467,6 +7680,42 @@ Yet to decide.
 - Javascript
 - HTML5
 - CSS3
+
+
+---------------------------------------
+
+Team Lead : Mohammed Intekhab khan
+URL : http://www.bestwebdesigner.co
+Address : Ujjain - India
+
+
+---------------------------------------
+
+NH3d
+================
+
+I feel as though we live in a time where we find ourselves at intersection 
+between the real and virtual world understanding the difference will show us an 
+exciting new world that we did not existed 
+
+haha I will write something better tonite ...
+
+ok ... enough crapola ...
+
+Anyways check out some of my sites ...
+
+
+http://gifpaint.in/  ->  animated gif painting
+
+
+http://yourimage.io/  ->  downloadable image painting 
+
+
+http://unitedstatesian.com/  ->  just some weirdness for you
+
+
+
+
 
 
 ---------------------------------------
@@ -7751,3 +8000,20 @@ He now works as an Objective-C developer at Memorado, making Brain Training game
 
 #### The Project
 We will be tackling the "Game to teach beginners how to code" category. If all goes well, we will continue the project after the Hackathon with the intent to make it an official [Hour of Code](http://hourofcode.com/) tutorial.
+
+---------------------------------------
+
+# TeamJevin   
+
+I am Jevin!
+
+## About Us
+
+- My name is Jevin and I am a 10th grade student at North Park Secondary School in Brampton, Ontario, Canada.
+
+## Languages 
+
+- HTML
+- CSS 
+- JavaScript
+
