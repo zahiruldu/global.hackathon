@@ -1,12 +1,14 @@
 # Incorgito
 
-Tell us who you are, why you did you decide to join?
+[Tell us who you are, why you did you decide to join?]
 
-# The Duo
+[Judges will read this page before making a final decision, so write your story, make it emotional and impressive. Tell us why you want to win.]
 
-## marksteve
+## The Duo
 
-## beatobongco
+### marksteve
+
+### beatobongco
 
 ## Toolbelt
 
