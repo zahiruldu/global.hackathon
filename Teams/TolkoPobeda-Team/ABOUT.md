@@ -1,6 +1,6 @@
 # TolkoPobeda Team
 
-We whant make some supaprogram!
+We want make some supaprogram!
 
 ## About Us
 
