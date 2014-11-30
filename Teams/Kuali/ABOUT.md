@@ -2,6 +2,10 @@
 TEAM KUALI
 ==========
 
+The word *kuali* in Ancient Mayan means *beautiful or good* and we like how it resembles the English word for **Quality** and that is what we are building **Beautiful and Good quality Software**.
+BTW The ancient mayans predicted we would win for sure, let us hope its not a fake prediction like the apocalypse.
+
+
 
 The Awesome star developers:
 
