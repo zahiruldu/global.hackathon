@@ -1,6 +1,6 @@
 {
-teamName : "TolkoPobeda Team",
-members : [
+"teamName" : "TolkoPobeda Team",
+"members" : [
    {
    "name": "Oleg Vilkov",
    "twitter": "mertvytko",
