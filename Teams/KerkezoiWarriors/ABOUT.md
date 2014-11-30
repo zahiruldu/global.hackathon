@@ -1,10 +1,10 @@
 #KerkezoiWarriors
 
-Team Desc
+A team with warrior spirit
 
 #About Us
 
-About us stuff
+- George Kollias: Loves coding, fitness, sports.
 
 #Languages we love
 
