@@ -28,6 +28,7 @@ I do have experience with those programming languages:
 * SQL - [MySQL](http://www.mysql.com/) and [MariaDB](https://mariadb.org/)
 * HTML5
 * Node.js
+* Ruby - Using [Sinatra](http://www.sinatrarb.com/) webserver
 * A **veeeeery** little bit of Python
 
 I also know the basics of Photoshop and GIMP.
