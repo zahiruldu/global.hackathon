@@ -696,6 +696,41 @@ Haven’t decided what to do yet, but it will be done using Python
 
 ---------------------------------------
 
+Angel Eats
+================
+
+This is our team (for now it's just me, but I'm looking for reinforcements) on Koding Hackathon. 
+
+===========================
+
+| Camelia 
+|--- 
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/3518330?v=3&s=460' alt='aissatech'/> 
+
+My name is Camelia Boban (https://github.com/aissatech), I am a intermediate programmer no more young anymore, a bit "bigger" than the average. 
+Web application developer, Google enthusiast and open source/data/gov lover.   
+
+I am going to participate to Koding Hackathon because I like challenges, I like to compare myself with others and I want to learn. But also 
+because I want to see how it looks my project idea (java webapp about food/diet/health) on fresh technologies like Polymer, Angular and Firebase :-)
+
+
+Skills:
+=======
+
+ * Java EE
+ * Struts, Spring (IoC), Hibernate
+ * JSP
+ * JPA
+ * HTML, CSS
+ * MySQL, SQL Server, Oracle, Postgres
+ * some REST-API
+ * some Firebase
+ * some AngularJS
+ * some JQuery
+
+
+---------------------------------------
+
 
 # Antonio
 
@@ -998,6 +1033,28 @@ you can tell us the technologies, APIs you are going to use and what kind
 of application you are going to build.
 
 You can change your mind, that's ok. Just push an update here when you do.
+
+
+---------------------------------------
+
+Bakso
+=====
+
+Bakso is meatballs in Indonesian.
+
+Why?
+====
+
+This is about testing my capabilities within such time and resource constraints.
+I don't think I will consume bakso during the event.
+
+What?
+=====
+
+I use NodeJS/Angular/jQuery in daily basis.  I think I will go for theme #5. What I'm gonna do is to creat****signal lost****
+
+
+
 
 
 ---------------------------------------
@@ -4724,6 +4781,31 @@ Interested in all things tech
 
 ---------------------------------------
 
+Stealth Mode
+================
+
+We are Pythonist. 
+
+About your team
+===========================
+
+| Vaibhav | Ramesh |  | 
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-18/3033198834_aa030ae0968a3089c036_192.jpg' alt='Vaibhav'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/522297664893771777/Js9zh_9P_400x400.jpeg' alt='Ramesh'/> |  | |
+
+
+
+
+
+
+I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted join because I see Koding.com is giving an opportunities to showcase their skills to at global level.
+
+
+I'm Python guy that's going to use Python. I havn't decided which API would be used. but I have will be analysing the terms and condition of Facebook, Google and Twitter and show it in itreactive way.
+
+
+---------------------------------------
+
 #Team Stergeron
 
 No regrets, ever.
@@ -5322,6 +5404,32 @@ I like Gameboy Advance games and putting strange Unicode characters in places th
 
 ---------------------------------------
 
+Team Conquiz
+================
+
+Hello and welcome to our team page. 
+
+About your team
+===========================
+
+| vladstoick | alexstoick | alexclp
+|--- |--- |---
+| <img width="100" height="100" src='https://avatars3.githubusercontent.com/u/1658727?v=3&s=460' alt='Vladstoick'/> | <img width="100" height="100" src='https://avatars2.githubusercontent.com/u/1664100?v=3&s=460' alt='Alexstoick'/> | <img width="100" height="100" src='https://avatars0.githubusercontent.com/u/1869071?v=3&s=460' alt='Sinan'/>
+
+Alexandru Stoica, our oldest member(20), is a student at King's College London. Vlad Stoica and Alexandru Clapa are both studying and the National College of Computer Science in Bucharest and are both looking forward to continue their studies in United Kingdom.
+We decided to join the hackathon because we have what we consider a great ideea about an educational game which could help pupils learn while having fun.
+
+
+About your skills and what you are going to do?
+=======
+
+We are trying to build a multiplayer educational game with Node.JS and WebSockets. 
+Vlad Stoica is a front-end developer with experience in Android development and web development. Alexandru Clapa is an iOS Programmer and Alexandru Stoica is a backend developer which currently works at the UK startup lostmyname.
+
+
+
+---------------------------------------
+
 
 #Team Cookie
 
@@ -5705,6 +5813,37 @@ Coming soon..
 About our skills and what we'll do
 =======
 Coming soon..
+
+---------------------------------------
+
+#"The Green Elephant" team
+
+<img width="100" height="100" src='https://dl.dropboxusercontent.com/u/30380743/logo.jpg' alt='team's logo'/>
+
+> The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures...
+>
+> *-- Fred Brooks (1975) The Mythical Man-Month: Essays on Software Engineering*
+
+#About us
+
+| Pavel | Sergey | Dmitrii | Nick
+|--- |--- |--- |---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/500390546687275009/xE7EdVCF_200x200.jpeg' alt='Pavel'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1613844645/13_S-Mag_10_200x200.jpg' alt='Sergey'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/1861818995/8bba3bd4f73fe9319b367b616b63a4b3_200x200.jpeg' alt='Dmitrii'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/538638674070482945/eQ2oXDUn_200x200.jpeg' alt='Nick'/> |
+
+We are team of experienced web developers working together in the same company.
+
+#What we are going to use
+
+ - Ruby and Ruby on Rails
+ - JavaScript, Backbone.js and probably some other cool libs
+ - HTML and CSS of course ;)
+ - MySQL or maybe MongoDB
+
+#Some words about our idea
+
+We are going to create a web application somehow related to online education ([MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course))
+
+
 
 ---------------------------------------
 
@@ -6896,15 +7035,15 @@ Hello, Everyone. This is team "everestack" (maybe it's combination of everest an
 About your team
 ===========================
 
-- Nootan Ghimire
-- Nishan Bajracharya
+- Nootan Ghimire   -- http://github.com/nootanghimire
+- Nishan Bajracharya  -- http://gitub.com/Nishan13
+- Rhoit Man Amatya  -- http://rhoit.github.io/bio/
 
-We are two undergrad students currently pursuing a bachelor's degree in Computer Engineering. 
-
+We are two undergrad students currently pursuing a bachelor's degree in Computer Engineering. And one graduate student doing Masters by Research.
 
 About your skills and what you are going to do?
 =======
-Nootan Ghimire will be seeing the development part mostly, and Nishan Bajracharya will be incharge of all the artistic looks and feel. We'll be exchanging shifts though! :D
+Nootan Ghimire will be seeing the programming part mostly, and Nishan Bajracharya will be incharge of all the artistic looks and feel. We'll be exchanging shifts though! :D . Rhoit Man Amatya will be incharge of overall application development. 
 
 
 
