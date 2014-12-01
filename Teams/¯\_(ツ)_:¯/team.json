@@ -11,20 +11,23 @@
     {
       "name": "Billy Janssen",
       "twitter": "janspants11",
+      "koding": "dufootball11",
       "location": "Phoenix, US"
     },
     {
       "name": "Sloane Smith",
       "twitter": "S10Dimensional",
-      "location": "Phoenix, US",
+      "koding": "sloane@lucidagency.com",
+      "location": "Phoenix, US"
     },
     {
       "name": "Michael Scott",
+      "koding": "",
       "location": "Phoenix, US"
     },
     {
       "name": "Lauren Jordan",
-      "twitter": "gniting",
+      "koding": "",
       "location": "Phoenix, US"
     }
   ]
