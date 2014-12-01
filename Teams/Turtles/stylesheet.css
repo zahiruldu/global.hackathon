@@ -1,0 +1,12 @@
+.background {
+	background-color: "blue";
+}
+
+.menuItem {
+	font-family: "helvetica";
+	font-size: 2em;
+	font-style: "bold";
+	color: "white";
+	background-color: "black";
+}
+
