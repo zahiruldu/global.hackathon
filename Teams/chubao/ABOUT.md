@@ -17,7 +17,7 @@ I am a developer from Hong Kong.
 |--- |
 | ![Tony Lee](https://koding.com/hktonylee) |
 
-iProgrammer. Programming with [](http://upload.wikimedia.org/wikipedia/zh-yue/a/ab/Apple-logo.png) is my life.
+iProgrammer. Programming with [](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png) is my life.
 
 About your skills and what you are going to do?
 =======
