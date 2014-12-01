@@ -19,5 +19,10 @@ We always try out new things that require short deadlines and so we thought this
 About your skills and what you are going to do?
 =======
 
-We are front-end developers and are therefore going to experiement on a new multiplayer educational game.
+We are front-end developers and are therefore going to experiement on a new multiplayer educational game. We will be using:
+
+- Ember.js on the front-end
+- PubNub for realtime messaging
+- Node.js for the server
+- Nginx
 
