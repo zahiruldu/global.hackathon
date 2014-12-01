@@ -1145,6 +1145,22 @@ We are making the world better.
 
 ---------------------------------------
 
+# BinaryLinguists
+We are BinaryLinguists,a team of two members from Kolkata,India and Bonn,Germany.This is our first hackathon
+and we are super excited to be a part of it.
+
+# The Team 
+* [Sritanu Chakraborty](https://github.com/SRITANU) 
+* [Poulastya Mukherjee](https://twitter.com/poulastyab) 
+
+# Skills and Project
+* MeteorJS 
+* MongoDB
+* Twitter Bootstrap 
+
+
+---------------------------------------
+
 Birmingham.IO
 ===========================
 
@@ -2431,6 +2447,32 @@ We'll be targeting themes 2, 5, and 6.
 
 ---------------------------------------
 
+About the Team
+==============
+
+| dheeraj suthar| rahul bhanushali | jeet parikh
+|--- |--- |--- |---
+
+Tell us who you are, why you did you decide to join?
+==============
+
+We are three full time developers working for past few years in a budding start-up in Mumbai. All three of us work 
+most of time in different web development related technologies like PHP, Javascript and related Frameworks. When not 
+busy working we like to spend time playing games like UNO and Bluff
+
+We decided to join Koding Global Hackathon because of followig reasons:
+* To use our skills to plan, design and ulitmate code something useful in constrained time; that too as team.
+* To dabble with atleast one latest technology and know more about Koding cloud development platform itself.
+* For Fun and Profit [:P](http://cecs.wright.edu/~tkprasad/courses/cs781/alephOne.html)
+
+About your skills and what you are going to do?
+=============
+Skills: PHP, Javascript, Backbone, Zend and related Web Technologies.
+We are still in planning for what we are going to do. To be updated soon.
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -2551,6 +2593,33 @@ With joking aside, we are a group of skilled front end developers who are excite
 Love Always,
 
 Float-Center
+
+
+---------------------------------------
+
+FromPovoWithFury
+================
+
+We are a team of programmers from Povo, where the Department of Information, Engineering and Computer Science of Trento is located.
+
+About your team
+===========================
+
+| Nicolò | Patrick |
+|--- |--- 
+| <img width="100" height="100" src='https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p160x160/10649773_10204143071491240_2502311455542450322_n.jpg?oh=2d180f67def6b7c4abb680c87962623f&oe=550544E3&__gda__=1426911346_035ee7b7c3d91ce419773c9d78b47613' alt='Nicolò'/> | <img width="100" height="100" src='https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p160x160/10511137_10204043818688818_2414824019947488027_n.jpg?oh=5590d2402f684420abc71f2514bd5d01&oe=55124121&__gda__=1423061168_999a31c39d46275839baa458302dcb09' alt='Patrick'/>
+
+We took part in a Hackathon during the ICT Days when we were both enrolled in the first year of Computer Science degree.
+We both enjoied the experience and we found in this hackathon the opportunity to have fun again.
+
+
+About your skills and what you are going to do?
+=======
+Nicolò makes html5 games using Haxe in his free time and would like to bring his skills in this hackathon.
+
+Patrick enjoys programming android applications, he loves all things that pertaining to the world of computers.
+
+We still have to decide the details of our project though.
 
 
 ---------------------------------------
@@ -2835,6 +2904,39 @@ Still brainstorming, probably best ideas always take little time to grow!
 
 I'm Ranjith, Designer Developer and a coffee addict.. 
 Pretty much my first hackathon, looking forward to having a good time..
+
+
+
+---------------------------------------
+
+HackGamers
+================
+
+We are a gang of three that are passionate about OSS.
+
+
+About your team
+===========================
+
+| [Ferarkan](http://twitter.com/ferdaous) | [Mitchel](http://twitter.com/kelonye) | [Mac](http://twitter.com/medhapandas)
+|--- |--- |--- |--- |---
+| <img width="100" height="100" src='https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fferarkan%2Favatar-1416215941999' alt='Ferarkan'/> | <img width="100" height="100" src='https://blog.openshift.com/wp-content/uploads/imported/dev-mitchelkelonye.jpg' alt='Mitchel'/> | <img width="100" height="100" src='https://scontent-b-sin.xx.fbcdn.net/hphotos-xfp1/v/l/t1.0-9/10397838_2177677412371486_3079859969795783780_n.jpg?oh=a4ecbac2e8f0179d7c8d7125dd46b077&oe=550802F1' alt='Mac'/> |
+
+Tell us who you are, why you did you decide to join?
+=======
+We are three developpers each from different country.
+No one knew the other before this big challenge opportunity :)
+Gathred by the fact that we are all willing to try out new things that require short deadlines, so we thought this hackathon would be that next great challenge.
+
+About your skills and what you are going to do?
+=======
+
+We are front-end developers and are therefore going to experiement on a new multiplayer educational game. We will be using:
+
+- Ember.js on the front-end
+- PubNub for realtime messaging
+- Node.js for the server
+- Nginx
 
 
 
@@ -4619,6 +4721,24 @@ Java.
 
 ---------------------------------------
 
+
+ProgGods Team
+================
+
+We are Máté, Vili and Barnabás, and we are from Hungary. We are teenagers and we love coding. We learn programming at one of 
+the best school of Hungary. Today most of the children use their freetime to playing.
+
+We have a dream that one day...
+===========================
+
+In the present world, where personal computers, mobile phones, and other electrical appliances are widely available, 
+big part of the new generation tends to spend most of their time next to the computer, playing video games, or staring
+at the news feed. We want to steer the result of this tendency, in words the slathers of youngster's interest forward 
+the computers, to a good direction, a useful purpose, which, in long terms could cause the development of the whole society.
+
+
+---------------------------------------
+
 Project Scarlet Sails
 ================
 
@@ -5185,10 +5305,10 @@ About your team
 
 
 
-I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted join because I see Koding.com is giving an opportunities to showcase their skills to at global level.
+I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted to join because I see Koding.com is giving an opportunities to showcase our skills at global level.
 
 
-I'm Python guy that's going to use Python. I havn't decided which API would be used. but I have will be analysing the terms and condition of Facebook, Google and Twitter and show it in itreactive way.
+I'm Python guy, we'll be using Python(Django)for backend. I haven't decided which API would be used. but I will be analysing the terms and condition of Facebook, Google and Twitter and show it in intreactive way.
 
 
 ---------------------------------------
@@ -6647,6 +6767,14 @@ I believe in Java ^^
 
 ---------------------------------------
 
+"In 1972, a crack commando unit was sent to prison by a military court for a crime they didn't commit. These men promptly escaped from a maximum security stockade to the Beloit College underground. Today, still wanted by the government they survive as koders of fortune. If you have a problem, if no one else can help, and if you can find them....maybe you can hire The Turtles."
+
+
+
+Made up of Beloit College Undergrad Computer Science Majors who are yet to figure out exactly what they are doing.
+
+---------------------------------------
+
 #WE ARE 27
 Hi. We are [Twentyseven](http://twentyseven.in) & we create beautiful and efficient code.
 
@@ -7031,6 +7159,26 @@ We can do a variety of things but our main focus resides within the web.
 We have deviced quite the project for this hackathon!
 We will be using the MEAN stack. It'll be a project that will both delight and it will have a surprise twist at the end! 
 I can't wait to show you guys what we have in store. 
+
+
+---------------------------------------
+
+We are Xuaps
+================
+
+We are a small and young team. We make excellent products focus on education and free knowledge. Through games, interactive books and educational tools we want to support your dreams and make them come true.
+
+| dvilchez | averdion | eanovoa 
+|--- |--- |--- 
+| <img width="100" height="100" src='http://0.gravatar.com/avatar/78316045d734c439ec92d31e0ca2f15c?s=200' alt='dvilchez'/> | <img width="100" height="100" src='http://1.gravatar.com/avatar/bab0289b1a232c2eb0059bac93b57a21?s=200' alt='averdion'/> | <img width="100" height="100" src='http://www.refly.co/img/team/edu.jpg' alt='eanovoa'/> | 
+
+Why we want to win?
+
+
+Our project
+=======
+
+
 
 
 ---------------------------------------
