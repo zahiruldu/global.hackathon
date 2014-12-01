@@ -795,6 +795,25 @@ always possible to make it awesome.
 
 ---------------------------------------
 
+# Aryans
+
+## About us:
+
+- Deep:   My name is Deep Shah, I am working on Sencha Touch, Phonegap/Cordova, HTML5, Javascript, CSS3 and SASS.
+- Pinak:  My name is Pinak, I am working on ROR, HTML and Javascript.
+- Shreya: My name is Shreya, I am working on ROR, HTML and Javascript.
+
+## Languages we have:
+- ROR
+- Sencha Touch
+- HTML5
+- CSS3
+- Phonegap
+- Javascript
+
+
+---------------------------------------
+
 AsepCo
 ================
 We are located in South Jakarta, Indonesia.
@@ -1974,6 +1993,25 @@ The game will be connected with facebook and (probably) will use Google Game Ser
 ---------------------------------------
 
 
+# Coqui Hackers
+
+We are students at the University of Puerto Rico at Mayaguüez. We are currently doing a bachelor degree in Computer Engineering.
+We are here to challenge ourselves.
+
+## About Us
+
+- Jesiniel: My name is Jesiniel. I live in Puerto Rico. I am currently a student at UPRM where I study Computer Engineering. I have worked with C and Java languages during my current studies. I have little knowledge in HTML and CSS, hoping this gets me somewhere in this hackathon. I am looking forward in learning other languages. I have interest in Javascript, Python and PHP.
+- Roberto: 
+
+## Languages we love
+
+- Java
+- C
+
+
+---------------------------------------
+
+
 # Croders
 
 We are a group of young web enthusiast
@@ -2950,17 +2988,19 @@ Hey Mate! Let me present you the super duper extra megantastic geekomatic **Hack
 About your team
 ===========================
 
-| Edoardoo | Baldarn 
+| Edoardoo | Baldarn | Sanje
 |--- |--- |--- |---
-| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000628549804/0fa3b62a9437d0d6271ffa893c59453c_400x400.png' alt='Edoardoo'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000849480405/be5e58e35437e4ee5154010d0031e696_400x400.jpeg' alt='Baldarn'/>|
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000628549804/0fa3b62a9437d0d6271ffa893c59453c_400x400.png' alt='Edoardoo'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/378800000849480405/be5e58e35437e4ee5154010d0031e696_400x400.jpeg' alt='Baldarn'/>| <img width="100" height="100" src='http://i.imgur.com/XjUc40I.jpg' alt='Sanje'/>|
 
-We are a two friends, **Edoardo Odorico (edoardoo)** and **Lorenzo Farnararo (baldarn)** from Florence, Italy. We studied both engineer. While we were studying we joined our University Open Source Software Lab, LILiK, where we developed our coding and unix skills, and some free software philosophy. 
-Together with other **LILiK** members we began to meet together at Edoardoo's house, in hacking sessions during the weekends. This is where we thought at first one of our success projects: turning lights on and off with an arduino, a raspberry, a pinch of javascript and a lot of hacking nights (usually with some wine, don't forget we're italian). Since we wanted to share our hard and funny work with the rest of the world, we've built a blog/tutorial about our hacking projects, hack.lenotta.com. We mainly hack on arduino, raspberry, antennas, HTML5, Javascript and CSS3. 
+We are three friends, **Edoardo Odorico (edoardoo)**,  **Lorenzo Farnararo (baldarn)**  and **Sanjeya Cooray (Sanje)** from Florence, Italy. We all studied engineer. While we were studying Edo and Lorenzo joined our University Open Source Software Lab, LILiK, where they developed their coding and unix skills, and some free software philosophy. 
+Together with other **LILiK** members they began to meet together at Edoardoo's house, in hacking sessions during the weekends. This is where they thought at first one of their success projects: turning lights on and off with an arduino, a raspberry, a pinch of javascript and a lot of hacking nights (usually with some wine, don't forget we're italian). Since we wanted to share our hard and funny work with the rest of the world, we've built a blog/tutorial about our hacking projects, hack.lenotta.com. We mainly hack on arduino, raspberry, antennas, HTML5, Javascript and CSS3. 
+Lorenzo met Sanje while working together in a software house and we all knew from the very beginning he was the right full stack developer we were missing.
 
 
 About your skills and what you are going to do?
 =======
 We're skilled on both frontend and backend development. We'll probably use baaskets of javacript (perhaps for the server side too, why not?) and we would like to bleach the mess of EULA and TOS around, compress it, colour it and... you'll see (me heheheh)...
+Update (1/12/2014): maybe some changes in plans? maybe some multimedia stuff? Something is boiling under the plate...
 
 
 
@@ -3590,6 +3630,22 @@ So, we develop backend systems, frontend and mobile apps. It seems to be a full-
 
 ---------------------------------------
 
+
+# Just Dev It
+
+Just a few guys who enjoy solving problems with code. Our curiosity drives us.
+
+## About Us
+
+5 guys who studied Computer Science at Anderson University in Anderson, IN.
+
+## Languages We'll Likely Use
+
+- Javascript
+
+
+---------------------------------------
+
 # Just Wanna Play Games
 David Graham, Rane Boe Graham and a couple of others from Just Wanna Play Games a 4 man gaming crew
 
@@ -3887,6 +3943,40 @@ The **Awesome** star developers:
 
 ---------------------------------------
 
+Team LJS(Learn JavaScript)
+==========================
+Just a couple of fools who woke up one day and decided to learn programming via JavaScript. 
+You could count our combined experience on one hand.
+
+Who we are
+==========
+### robotmayo
+A dev in the here and the now, I don't even know where this sentence is going as that is outside my planning ra
+
+JavaScript
+
+### danecando
+A worthless web dev from fort lauderdale florida lusting for trashy women.
+
+JavaScript
+
+### oliveirrr
+Has two buttons dedicated to semicolons on his keyboard.
+
+JavaScript
+
+### beingbrown
+Once proved that 1 == fish
+
+Java, JavaScript
+
+What we're doing
+=================
+We are really interested in educational aspects of #3 but #1 and #5 also has our eyes. We haven't come up with a solid idea yet.
+
+
+---------------------------------------
+
 We are the "Lamp" and we are awesome
 
 ### devpony ###
@@ -4137,6 +4227,13 @@ My Stack
 ---------------------------------------
 
 <h3>Hello World!</h3>
+
+---------------------------------------
+
+Meteorhacks
+===========
+
+
 
 ---------------------------------------
 
@@ -4725,8 +4822,8 @@ Java.
 ProgGods Team
 ================
 
-We are Máté, Vili and Barnabás, and we are from Hungary. We are teenagers and we love coding. We learn programming at one of 
-the best school of Hungary. Today most of the children use their freetime to playing.
+We are Mate, Vili and Barnabas, and we are from Hungary. We are teenagers and we love coding. We learn programming at one of 
+the best school of Hungary.
 
 We have a dream that one day...
 ===========================
@@ -5006,6 +5103,30 @@ About our skills and what we are going to do?
 =======
 
 The TOS and EULA are one tough nut to crack, but it sure would be fun to tackle it as a weekend project. Any attempt to simplify understanding their coverage would surely require working on the front-end, which would make the implementation part an experimental endeavor to me, as I am more used to working in the back-end. I am still going through the wondrous APIs encouraged, though, and I may end up implementing something based on one (or a few) or them.
+
+
+---------------------------------------
+
+This is our page
+================
+
+Coming soon...
+
+
+About our team
+===========================
+
+Coming soon...
+
+
+About our skills and what we are going to do?
+=======
+- PHP
+- CSS3
+- HTML
+- Creativity!
+
+
 
 
 ---------------------------------------
@@ -6629,6 +6750,29 @@ Java, LibGDX, OpenGL
 
 I am looking for team members.
 
+
+
+---------------------------------------
+
+# TolkoPobeda Team
+
+We want make some supaprogram!
+
+## About Us
+
+- Oleg: My name is oleg, i love koding games, i like when my programs like people.
+- Alex: My name is Aleks and i love php. And I also love people who love my scripts))
+- Serega : my name is Sergey, and i am supaman!
+
+## Languages we Love
+
+- Javascipt
+- C#
+- PHP
+
+## Programs
+- 3d Max
+- Photoshop
 
 
 ---------------------------------------
