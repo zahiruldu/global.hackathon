@@ -2162,6 +2162,28 @@ Actually, brainstorming…
 
 ---------------------------------------
 
+# Deco Team
+
+http://decollete.com.ua/ - WordPress specialists
+
+## About Us
+
+- Alexey: Team Lead, Designer
+- Serj: WordPress Developer
+- Dima Romanenko: WordPress Developer
+- Dima Sinkevich: Designer
+- Vova: Front-End Developer
+
+## Technologies we love
+
+- WordPress
+- PHP
+- JavaScript
+- etc..
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -4753,6 +4775,21 @@ We hope that our project will inspire people to do something good.
 
 ---------------------------------------
 
+# Team Red Cloudy
+We are Giang, Hoat and Tham from Viet Nam and we will give you awesome app!
+
+## About Us
+- Giang N:
+- Hoat D:
+- Tham V:
+
+## Languages we love:
+- PHP
+- Javascript
+
+
+---------------------------------------
+
 This is our page
 ================
 
@@ -7070,6 +7107,20 @@ Some of the things I'll probably use:
  
 I might change my mind, and build applications using firebase instead of App Engine.
 
+
+
+---------------------------------------
+
+# bnts
+This is our team page. The team name is nonsense, don't try to understand it.
+
+## About us
+We are students from University of São Paulo, Brazil. Colleagues since 2010, we
+started working together at programming contests, such as the ACM ICPC
+regionals.
+
+## Skills, technologies, plan, etc.
+Coming soon...
 
 
 ---------------------------------------
