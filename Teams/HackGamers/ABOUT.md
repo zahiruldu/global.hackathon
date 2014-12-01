@@ -1,7 +1,7 @@
 HackGamers
 ================
 
-We are a gang of three that are partionate about OSS.
+We are a gang of three that are passionate about OSS.
 
 
 About your team
