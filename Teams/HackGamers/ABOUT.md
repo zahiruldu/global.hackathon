@@ -9,7 +9,7 @@ About your team
 
 | Ferarkan | Mitchel | Mac
 |--- |--- |--- |--- |---
-| ![Ferarkan](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fferarkan%2Favatar-1416215941999) | ![Mitchel](https://blog.openshift.com/wp-content/uploads/imported/dev-mitchelkelonye.jpg) | ![Mac](https://scontent-a-sin.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10702176_2174005602738667_8166690517562187844_n.jpg?oh=dcbc4f79ae67746c85ad410bdddbd92a&oe=550346C9) |
+| ![Ferarkan](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fferarkan%2Favatar-1416215941999) | ![Mitchel](https://blog.openshift.com/wp-content/uploads/imported/dev-mitchelkelonye.jpg) | ![Mac](https://scontent-b-sin.xx.fbcdn.net/hphotos-xfp1/v/l/t1.0-9/10397838_2177677412371486_3079859969795783780_n.jpg?oh=a4ecbac2e8f0179d7c8d7125dd46b077&oe=550802F1) |
 
 Tell us who you are, why you did you decide to join?
 =======
