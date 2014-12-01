@@ -13,8 +13,9 @@ About your team
 
 Tell us who you are, why you did you decide to join?
 =======
-
-We always try out new things that require short deadlines and so we thought this hackathon would be that next great challenge.
+We are three developpers each from different country.
+No one knew the other before this big challenge opportunity :)
+Gathred by the fact that we are all willing to try out new things that require short deadlines, so we thought this hackathon would be that next great challenge.
 
 About your skills and what you are going to do?
 =======
