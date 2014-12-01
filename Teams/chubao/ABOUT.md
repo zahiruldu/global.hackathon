@@ -1,7 +1,7 @@
 This is our page
 ================
 
-We are the chubao team.
+We are the ChuBao team.
 
 
 About your team
@@ -13,7 +13,14 @@ About your team
 
 I am a developer from Hong Kong.
 
+| hktonylee |
+|--- |
+| ![Tony Lee](https://koding.com/hktonylee) |
+
+iProgrammer. Programming with [](http://upload.wikimedia.org/wikipedia/zh-yue/a/ab/Apple-logo.png) is my life.
 
 About your skills and what you are going to do?
 =======
-TBD
+
+We are crazy in making new stuff.
+
