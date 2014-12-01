@@ -4,7 +4,8 @@
     {
       "name": "Emil Bergold",
       "koding": "bergold",
-      "location": "Stockholm, SE"
+      "location": "Stockholm, SE",
+      "lead": true
     }
   ]
 }
