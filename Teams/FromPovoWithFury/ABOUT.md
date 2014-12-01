@@ -18,4 +18,6 @@ About your skills and what you are going to do?
 =======
 Nicolò makes html5 games using Haxe in his free time and would like to bring his skills in this hackathon.
 
+Patrick enjoys programming android applications, he loves all things that pertaining to the world of computers.
+
 We still have to decide the details of our project though.
