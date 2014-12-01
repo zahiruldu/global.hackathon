@@ -1,4 +1,4 @@
-# Incorgito
+![Incorgito](http://i.imgur.com/CfZBQJK.png)
 
 [Tell us who you are, why you did you decide to join?]
 
