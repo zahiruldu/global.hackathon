@@ -1,0 +1,36 @@
+{
+  "teamName": "Leo Burnett Germany",
+  "members": [
+    {
+      "name": "Ufuk Avci",
+      "twitter": "iphuk4",
+      "koding": "",
+      "location": "Frankfurt am Main, DE"
+    },
+    {
+      "name": "Viktor Kislovskij",
+      "twitter": "kislovskij",
+      "koding": "kislovskij",
+      "location": "Frankfurt am Main, DE",
+      "lead": true
+    },
+    {
+      "name": "Helge Knieß",
+      "twitter": "hellohelge",
+      "koding": "600",
+      "location": "Frankfurt am Main, DE"
+    },
+    {
+      "name": "Philipp Trübiger",
+      "twitter": "truebiger",
+      "koding": "truebi",
+      "location": "Frankfurt am Main, DE"
+    },
+    {
+      "name": "Alexander Wagner",
+      "twitter": "",
+      "koding": "",
+      "location": "Frankfurt am Main, DE"
+    }
+  ]
+}
