@@ -1,24 +1,23 @@
 HackGamers
 ================
 
-We are the Koding team, so we are not really participating. But this page is here
-to give you an idea about your own page.
+We are a gang of three that are partionate about OSS.
 
 
 About your team
 ===========================
 
-| Ferarkan | nitin | sinan | emre | Medha
+| Ferarkan | Mitchel | Mac
 |--- |--- |--- |--- |---
-| ![Ferarkan](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fferarkan%2Favatar-1416215941999) | ![Nitin](https://pbs.twimg.com/profile_images/1416284972/NitinGupta-1.jpg) | ![Sinan](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) | ![Emre](https://pbs.twimg.com/profile_images/513260359398871040/z-_436ig.jpeg) |
-
-
+| ![Ferarkan](https://koding.com/-/image/cache?endpoint=crop&grow=true&width=300&height=300&url=https%3A%2F%2Fkoding-client.s3.amazonaws.com%2Fuser%2Fferarkan%2Favatar-1416215941999) | ![Mitchel](https://blog.openshift.com/wp-content/uploads/imported/dev-mitchelkelonye.jpg) | ![Mac](https://pbs.twimg.com/profile_images/533920104249954305/8KZPcvIa.jpeg) |
 
 Tell us who you are, why you did you decide to join?
+=======
 
-We are tow developpers, seeking learnig new thechlogies as well as winnig this hackthon :)
+We always try out new things that require short deadlines and so we thought this hackathon would be that next great challenge.
 
 About your skills and what you are going to do?
 =======
-We have basic knoldge on deseign, good skill back end 
+
+We are front-end developers and are therefore going to experiement on a new multiplayer educational game.
 
