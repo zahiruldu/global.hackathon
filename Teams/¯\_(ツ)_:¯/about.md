@@ -4,22 +4,21 @@
 This page is all about Team ¯\_(ツ)_/¯ our team name is a symbol, kind of like Prince, only better. 
 
 
-About your team
+Who is ¯\_(ツ)_/¯?
 ===========================
 
-| Samantha | Billy | Beyonce | Michael Scott | Lauren |
-|--- |--- |--- |---
-| ![Samantha](http://secure.gravatar.com/avatar/220757a68cc9a426b6f9078ac9170d21.jpg) | 
-![Billy](http://secure.gravatar.com/avatar/f041847f9cd976ec025f3dd9501edb2d.jpg) |
-![Beyonce](http://secure.gravatar.com/avatar/a85684d314967429e5c77dfe65cf3bc5.jpg) |
-![Michael Scott](http://secure.gravatar.com/avatar/e4e65063402813b9263c0ba9ba53f4d0.jpg) |
-| ![Lauren](http://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-07/2961609119_1195c0bccb572b2af950_72.jpg) |
+We look like this: 
+![Samantha](http://secure.gravatar.com/avatar/220757a68cc9a426b6f9078ac9170d21.jpg)
+![Billy](http://secure.gravatar.com/avatar/f041847f9cd976ec025f3dd9501edb2d.jpg) 
+![Beyonce](http://secure.gravatar.com/avatar/a85684d314967429e5c77dfe65cf3bc5.jpg) 
+![Michael Scott](http://secure.gravatar.com/avatar/e4e65063402813b9263c0ba9ba53f4d0.jpg) 
+ ![Lauren](http://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-11-07/2961609119_1195c0bccb572b2af950_72.jpg) 
 
-Tell us who you are, why you did you decide to join?
+Who we are: 
 
 We're a team of developers for Lucid Agency in Tempe, and we are always up for new challenges regarding web technologies. We love finding creative solutions to problems people don't think about, whether it's maps, reporting, Wordpress Security or interesting methodologies to save our code from ourselves. We're up to the challenge of finding out how to do it with as much caffeine and as little tears as possible and as beautifully as possible.
 
-About your skills and what you are going to do?
+Our Skills:
 =======
 
 Samantha is a front end designer with a lot of security experience and is great at bothering companies with bad documentation on twitter, she loves to use new APIs and harp on everyone about open sourcing code. Samantha is great with Linux but not so great when Windows breaks.
@@ -42,9 +41,8 @@ Lauren is the coolest person on our team with optimism and great design in all p
 
 Expertise: Project Management, UI/UX, Wireframes, reassuring devs that it's not the end times.
 
-------
-
-What we're doing for the hackathon: 
+What we're doing:
+=======
 
 Legalese is usually in 5pt font at the bottom of the page that no one ever reads, but in the end, if you're caught doing something you're not supposed to with sites, images and privacy, that stuff you scrolled past a million times becomes important.
 
