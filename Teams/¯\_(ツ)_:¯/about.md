@@ -7,7 +7,8 @@ This page is all about Team ¯\_(ツ)_/¯ our team name is a symbol, kind of lik
 Who is ¯\_(ツ)_/¯?
 ===========================
 
-We look like this: 
+We look like this:
+
 ![Samantha](http://secure.gravatar.com/avatar/220757a68cc9a426b6f9078ac9170d21.jpg)
 ![Billy](http://secure.gravatar.com/avatar/f041847f9cd976ec025f3dd9501edb2d.jpg) 
 ![Beyonce](http://secure.gravatar.com/avatar/a85684d314967429e5c77dfe65cf3bc5.jpg) 
