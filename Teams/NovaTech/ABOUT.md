@@ -1,4 +1,4 @@
-# team NovaTech
+# Team NovaTech
 
 Stay Hungry, Stay Foolish
 
