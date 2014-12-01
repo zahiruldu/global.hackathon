@@ -2,8 +2,8 @@
 ProgGods Team
 ================
 
-We are Máté, Vili and Barnabás, and we are from Hungary. We are teenagers and we love coding. We learn programming at one of 
-the best school of Hungary. Today most of the children use their freetime to playing.
+We are Mate, Vili and Barnabas, and we are from Hungary. We are teenagers and we love coding. We learn programming at one of 
+the best school of Hungary.
 
 We have a dream that one day...
 ===========================
