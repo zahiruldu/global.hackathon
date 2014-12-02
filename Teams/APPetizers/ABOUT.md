@@ -1,4 +1,4 @@
-APPetizers put you in a good mood
+APPetizers Put You in a Good Mood
 ================
 
 We are the APPetizers. We build apps, in competitions!   Need we say more?  Probably! (and that's what the section below is for)
