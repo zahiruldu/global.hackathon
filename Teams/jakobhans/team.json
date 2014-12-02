@@ -1,0 +1,12 @@
+{
+  "teamName": "Team Koders",
+  "members": [
+    {
+      "name": "Jakob Renpening",
+      "twitter": "jakobhans",
+      "koding": "jakobhans",
+      "location": "Guadalajara, MX",
+      "lead": true
+    }
+  ]
+}
