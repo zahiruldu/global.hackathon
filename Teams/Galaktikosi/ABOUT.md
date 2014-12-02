@@ -4,7 +4,7 @@
 
 ###1. Sumejja Porča
 
-***title : the Commanding officer***
+***title : Commanding Officer***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262854/bb68edfe-7a2a-11e4-9ddc-f1ab84d7f899.jpg)
 
