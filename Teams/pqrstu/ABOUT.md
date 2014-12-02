@@ -25,3 +25,13 @@ Thank you for taking your time to read this page.
 
 Regards,
    Prajogo Tio
+
+###UPDATE: Another Member!
+
+###Knock, knock, who's there?
+He is Andhieka Putra, an enthusiastic Year 2 Computer Science undergraduate from National University of Singapore. Github: [github.com/andhieka](https://github.com/andhieka)
+
+We have been friends since eternity.
+
+We will be working together to bring out the best of our abilities :D
+
