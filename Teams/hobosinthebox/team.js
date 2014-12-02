@@ -19,18 +19,6 @@
       "twitter": "",
       "koding": "morriswinkler",
       "location": "Berlin, DE"
-    },
-    {
-      "name": "chris",
-      "twitter": "",
-      "koding": "",
-      "location": "Berlin, DE"
-    },
-    {
-      "name": "joan",
-      "twitter": "",
-      "koding": "",
-      "location": "Berlin, DE"
     }
   ]
 }
