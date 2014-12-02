@@ -14,9 +14,9 @@ command the directions.. and the code.. It gets in right place. All of us can do
 the secret in imagination. ;)
 
 The tools that help me express my ideas: 
-.NET
-C#, C++, C, Python, HTML5, Javascript, Matlab, VHDL
-ASP .NET MVC 5, Web API, Entity Framework, Google Map Web API, CSS
+.NET,
+C#, C++, C, Python, HTML5, Javascript, Matlab, VHDL,
+ASP .NET MVC 5, Web API, Entity Framework, Google Map Web API, CSS,
 Photoshop, Blender
 
 I love doing magic with my team. We go off the Earth very often together and this time stars are our destination." 
