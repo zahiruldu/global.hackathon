@@ -334,6 +334,60 @@ I'll enumerate the most important ones:
 
 ---------------------------------------
 
+8000plz
+================
+
+8000plz is a group of developers and designers from Manila, Philippines
+
+
+TEAM
+===========================
+
+| Bonj | Monica | Izel | Jeru | Dex |
+|--- |--- |--- |--- | ---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/479145444044328960/CyNHgFHi_400x400.jpeg' alt='Bonj'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/454194262788165632/AZASPVwX_400x400.jpeg' alt='Monica'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/3042945665/4d4fc887bf2df622248fa81e3768778a_400x400.png' alt='Izel'/> | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/430521527600033792/UqQrwBYD_400x400.jpeg' alt='Jeru'/> |<img width="100" height="100" src='https://pbs.twimg.com/profile_images/500177600925294592/mr-smwj-_400x400.jpeg' alt='Dex'/> |
+
+We're a mixture of specializations in the digital world.
+
+Joining this hackathon is a privilege that allows us to showcase our skills and at the same time, open an avenue for innovation.
+
+**Bonj & Monica** handle the artsy-fartsy side of things. They're our creative geniuses.
+
+**Izel, Jeru, Dex** generate the lines of codes to make the idea *virtually tangible*.
+
+
+Team Toolbox
+=======
++ Photoshop
++ Illustrator
++ HTML5/CSS3
++ Javascript
++ node.js
++ C#
++ PHP
+
+
+---------------------------------------
+
+#Team 876Koders
+
+Were are Tremaine and Tywayne and we love coding competitions..duh..you get kool prizes <golum voice>Precious!!!..
+
+##About Us
+
+- Tremaine (first twin born..so they say..). Tremaine dabbles in new languages and frameworks
+- Tywayne (party animal). Makes things look good..period.
+
+##Languages we use
+-PHP
+-Javascript
+-Java
+-MongoDB
+-HTML5
+
+
+---------------------------------------
+
 8cookin
 ================
 
@@ -625,6 +679,20 @@ Languages-Lenguages
 - Jquery
 - JqueryMobile
 - PHP MVC Frameworks 
+
+
+---------------------------------------
+
+#Team Alelak
+
+My Name Is Alladin El Akhrass  an enthusiastic and self-motivated front end web developer from Montreal.
+
+##Skills 
+*HTML/CSS
+
+*Javascript
+
+*Some PHP 
 
 
 ---------------------------------------
@@ -2635,6 +2703,41 @@ Float-Center
 
 ---------------------------------------
 
+Flying Tarrasque
+================
+
+We are a team composed by two dudes who love to program and seek to make our mark in the world, 
+whether by a project to improve the lives of people or recognition for quality work .
+
+
+About us
+===========================
+
+| pedrohenriquerls | japoneiz
+|--- |---
+| <img width="100" height="100" src='http://i.imgur.com/0BHtbiF.png' alt='pedrohenriquerls'/> | <img width="100" height="100" src='http://sc-cdn.scaleengine.net/i/7551aebb4a77b8b16471f2151b0f7b4d.png' alt='japoneiz'/>
+
+We are already working hard for some time on a project, 
+this hackaton is the opportunity to gain money and the visibility we need to become this dream a reality .
+
+It is also a good showcase for us to show how good we are at what we do .
+
+
+Yes we have a lot of skills!
+=======
+We are good with nodejs , javascript , java and groovy , but we have a little weak to develop layouts.
+
+
+The project
+=======
+We love Retrogames and we know how much we can learn while you play, so our project will follow this path, 
+a great game to teach future great minds how to create great software.
+
+
+
+
+---------------------------------------
+
 FromPovoWithFury
 ================
 
@@ -3364,6 +3467,30 @@ these API's and would relish the opportunity to build something cool by utilizin
 
 ---------------------------------------
 
+# About ITBeaver
+
+We are small team of young programmers trying to make this world better.
+
+Participation in the Hackathon Koding.com will allow us to have fun, write beautiful code and meet interesting people, and of course, win some money for Christmas gifts to our loved ones.
+
+We develop REST API for web and mobile apps.
+
+Tech stack:
+- Ruby
+- Rails
+- Rspec
+- Js(coffee)
+- Backbone, Marionette
+- CSS, SCSS
+- HTML5
+
+---
+[itbeaver.co](http://itbeaver.co)
+
+
+
+---------------------------------------
+
 # Team In-Toke-A-Bola
 
 Though I'm a team of one, I'm passionate about software development, engineering and just building fun and interesting tools and products.
@@ -3380,6 +3507,30 @@ I've joined this hackathon because I'm trying to bootstrap 2 companies in my tim
 I'm skilled in development using a number of different technologies: Java, Ruby on Rails, Angular JS, etc.,  to name a few.
 
 I've seen a number of different HTML5 / Angular Games out there, and that might be what I go for.  I do live in Colorado, so building an app for the Medical Marijuana Industry is not off the table.
+
+
+---------------------------------------
+
+<img width="100" height="100" src='http://i.imgur.com/KbwBKnH.png' alt='Incorgito'/>
+
+Incorgito is composed of Mark Steve Samson and Beato Bongco from the Philippines. We took one look at the hackthon themes and decided to join. You had us at educational HTML5 games.
+
+We work at [Insync](https://insynchq.com) doing web development, but the only reason we really even dipped our toes into the world of programming was to try and make games. As with many things in life, you often end up doing something else entirely than what you set out to do. As time passed, the world of application and web development consumed us. But the urge to develop a game has always burned at the back of our minds and will probably never leave us. When we read the topic list on koding.com, we immediately saw the opportunity to combine two things we love: making games and teaching others how to program.
+
+We want to win this hackathon because it will validate our that voice at the back of our heads. We want to win because we believe programming is an essential skill in the world today, and we want to be the ones that help spread the fire.
+
+We are Incorgito. Expect us.
+
+## Toolbelt
+
+- Python
+  - Flask
+  - requests
+- Javascript
+  - React
+  - Phaser
+- HTML
+- CSS
 
 
 ---------------------------------------
@@ -4226,6 +4377,26 @@ My Stack
 
 ---------------------------------------
 
+
+# Team MasterMinds
+
+We are Eric, Gerry, and Irene. We are all from UBC and love creating awesome and innovative things.
+
+## About Us
+
+- Eric: My name is Eric, 
+- Gerry:
+
+## Languages we love
+
+- Java
+- C#
+- PHP
+- MySQL
+
+
+---------------------------------------
+
 <h3>Hello World!</h3>
 
 ---------------------------------------
@@ -4514,6 +4685,34 @@ My Team
 ==========
 
 MechE student who loves coding. First time doing a hackathon, not entirely sure what to expect!
+
+
+---------------------------------------
+
+# Team NovaTech
+
+Stay Hungry, Stay Foolish
+
+## About
+
+I'm Marco Frau, Italian student of Electronic Engineering , and I'm passionate to IT security and environment related topics.
+
+## Languages
+
+C#
+PHP
+
+## True Passions
+
+Arduino
+Software security
+Machine Learning
+
+## What do I believe in
+
+My dream is that one day technology may really help serious injured persons. Technologies for home automation are really doing much,
+but there is more we can do. I'm gonna work for it!
+
 
 
 ---------------------------------------
@@ -8231,6 +8430,35 @@ My idea is to work on gathering and processing one kind of statistics that will 
 of possible users. I'll focus on usability, because "usable" thing means "something that helps me
 every day".
  
+
+
+---------------------------------------
+
+Nice to meet you in two words in each four sentences
+================
+
+Front-end developer. Responsive adopter. Semantic lover. DRY coder.
+
+
+About me
+===========================
+
+| mir4a 
+|--- 
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/421618950573547520/lkEulPOB_400x400.jpeg' alt='Miroslav'/> 
+
+I believe this hackathon will push new ideas to my mind and help me get things done. 
+I think this is a good starting point for creating your own app from scratch.
+And, hey, who knows, maybe this time it will find theirs users.
+
+
+The Project
+=======
+I want to implement something helpful and distraction free tool for daily usage. 
+
+Something that you can setup for your needs.
+ 
+I'd like to use AngularJS and MongoDB with simple NodeJS server. 
 
 
 ---------------------------------------
