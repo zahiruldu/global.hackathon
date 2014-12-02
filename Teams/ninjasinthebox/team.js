@@ -1,5 +1,5 @@
 {
-  "teamName": "hobosinthebox",
+  "teamName": "ninjasinthebox",
   "members": [
     {
       "name": "silbo",
