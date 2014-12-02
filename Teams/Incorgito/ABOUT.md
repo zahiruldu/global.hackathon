@@ -1,4 +1,4 @@
-![Incorgito](http://i.imgur.com/msOAkAS.png)
+![Incorgito](http://i.imgur.com/KbwBKnH.png)
 
 Incorgito is composed of Mark Steve Samson and Beato Bongco from the Philippines. We took one look at the hackthon themes and decided to join. You had us at educational HTML5 games.
 
