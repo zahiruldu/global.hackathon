@@ -8,7 +8,7 @@ About Nibbles
 |:---------------:|:---------------:|:---------------:|
 |Leader|spelzinho|Game enthusiast|
 |Developer|luancomputacao|-|
-|Developer|joserios|-|
+|Developer|joseriosneto|Really like coding and self improvement|
 |Developer|hgouveia|-|
 |Developer|juliadazoo||
 
