@@ -11,7 +11,7 @@
     {
       "name": "dono",
       "twitter": "",
-      "koding": "",
+      "koding": "gdprabowo",
       "location": "Kiel, DE"
     },
     {
