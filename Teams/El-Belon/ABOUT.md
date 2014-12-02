@@ -12,6 +12,5 @@
   
 ## Skillz(!) to be used
   - Python
-  - MongoDB
   - Whatever we remember to add
   
