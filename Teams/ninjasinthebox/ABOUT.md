@@ -1,5 +1,6 @@
 ninjasinthebox
 ==============
+![logo](https://twitter.com/ninjasinthebox)
 We are ninjasinthebox, the most awesome ninjas in a box.
 
 teamzor
