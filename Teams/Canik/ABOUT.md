@@ -2,8 +2,7 @@ Canik
 ================
 
 This is my first hackathon and I have entered as a solo participant. 
-I want to challenge myself and see if I can take a concept from idea to execution in 48 hours by myself. 
-Above all, I'm hoping to have some fun, learn some new things, and be amazed at what everyone creates!
+I want a challenge. I want to create a software about a real world problem in 48 hours and I want to see what everybody else did.
 
 
 
