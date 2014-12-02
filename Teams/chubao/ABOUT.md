@@ -1,7 +1,7 @@
 This is our page
 ================
 
-We are the ChuBao team.
+We are the ChuBao team from Hong Kong. Chu Bao is named after David's blood parrot cichlid which died recently.
 
 
 About your team
@@ -11,7 +11,7 @@ About your team
 |--- |
 | ![David Cheung](https://avatars2.githubusercontent.com/u/1140487?v=3&s=96) |
 
-I am a developer from Hong Kong.
+I am a developer from Hong Kong who love fish keeping. Eager to self-improve through the world's first virtual hackathon. I am learning Django recently.
 
 | hktonylee |
 |--- |
@@ -29,4 +29,3 @@ About your skills and what you are going to do?
 =======
 
 We are crazy in making new stuff.
-
