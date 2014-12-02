@@ -14,12 +14,9 @@ We were all on a secret ninja mission and got stuck in a box and want to get out
 
 our ninja skillz
 ================
-###silbo
-Silbo is a first class roboninja.
-###dono
-Dono is a first class webninja.
-###morris
-Morris is a first class 3Dninja.
+<strong>silbo</strong> is a first class roboninja. <br>
+<strong>dono</strong> is a first class webninja. <br>
+<strong>morris</strong> is a first class 3Dninja. <br>
 
 mizzion
 =======
