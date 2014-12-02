@@ -4,7 +4,7 @@
 
 ###1. Sumejja Porča
 
-*title : the Commanding officer*
+***title : the Commanding officer***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262854/bb68edfe-7a2a-11e4-9ddc-f1ab84d7f899.jpg)
 
@@ -22,7 +22,7 @@ I love doing magic with my team. We go off the Earth very often together and thi
 
 ###2. Vildan Tursić
 
-*title : Science Officer*
+***title : Science Officer***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262879/fc4fb744-7a2a-11e4-916e-819a7594f64b.jpg)
 
@@ -30,7 +30,7 @@ I love doing magic with my team. We go off the Earth very often together and thi
 
 ###3. Luka Pejović
 
-*title : First Officer*
+***title : First Officer***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262872/e01ec2ae-7a2a-11e4-9b9f-bed0e27d114c.jpg)
 
@@ -42,7 +42,7 @@ And most of all, I like object oriented design because it lets me be creative, m
 
 ###4. Elma Gazetić
 
-*title : Chief Medical Officer*
+***title : Chief Medical Officer***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262900/46ba6df6-7a2b-11e4-853e-85c8eeda79da.jpg)
 
@@ -52,7 +52,7 @@ web technologies, .NET, C#, C, C++, HTML... I love to code. And I love cats and 
 
 ###5. Ahmed Đuherić
 
-*title : Helmsman*
+***title : Helmsman***
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262888/2821e78e-7a2b-11e4-9b94-ad6581f472b3.jpg)
 
