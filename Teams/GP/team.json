@@ -1,0 +1,23 @@
+{
+  "teamName": "GP",
+  "members": [
+    {
+      "name": "Georgi Marinov",
+      "twitter": "venom1724",
+      "koding": "venom1724",
+      "location": "Varna, BG"
+    },
+    {
+      "name": "Momchil Vilyanov",
+      "twitter": "",
+      "koding": "LazyMomo",
+      "location": "Varna, BG"
+    },
+    {
+      "name": "Alexander Krustev",
+      "twitter": "",
+      "koding": "",
+      "location": "Varna, BG"
+    }
+  ]
+}
