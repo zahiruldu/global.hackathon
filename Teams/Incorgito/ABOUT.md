@@ -18,4 +18,3 @@ We are Incorgito. Expect us.
   - Phaser
 - HTML
 - CSS
-- Docker + Fig
