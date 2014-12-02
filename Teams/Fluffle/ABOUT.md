@@ -18,6 +18,7 @@ slick that just begs to be used, clicked, played with.
 Skills
 =======
 Data: Databases (Oracle, Informix, MySql), ETL: Ab Initio 
+
 Programming: PHP, Python, Ruby on Rails, C, C++
 
 Plan
