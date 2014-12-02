@@ -1,7 +1,7 @@
 ninjasinthebox
 ==============
-![logo](https://pbs.twimg.com/profile_images/539771378212167682/zqWyZteS.png) <br>
-We are ninjasinthebox, the most awesome ninjas in a box.
+We are ninjasinthebox, the most awesome ninjas in a box. <br>
+![logo](https://pbs.twimg.com/profile_images/539771378212167682/zqWyZteS.png)
 
 teamzor
 =======
