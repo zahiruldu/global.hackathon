@@ -196,6 +196,21 @@ Some of us meditates, floating in between dreams and hopes. Some of us enjoy eac
 
 ---------------------------------------
 
+#TeamName: 2slots
+
+- We are 3 member group (Surangi Tissera/Saranga Ranaweera/Praveen Tissera )
+- Surangi is my sister.
+- Saranga is my good friend meets @ High School
+
+-Saranga Technically specilised on PHP/MySql/Wordpress/Css/JavaScript/HTML/Bootstrap/Yii
+-Surangi Technically specilised on Grapic Desiging/ CSS/ Sql
+-Praveen(Me) Technically Specilised on PHP/MySql/Drupal/HTML/CSS
+
+- We planned to align to Theme 2. Because all of us face the difficulty when we first step to learn technical stuff in programming language also me personlly experience as a lecture to deliver these consepts for beginner. 
+
+
+---------------------------------------
+
 Hello, we are 3!
 ================
 
@@ -8302,6 +8317,32 @@ Itzteam members
 | <img width="100" height="100" src='https://pbs.twimg.com/profile_images/489266515271643136/skskMIOE_400x400.jpeg' alt='Mukesh'/>
 
 ===========================
+
+
+---------------------------------------
+
+jakobhans
+================
+
+Great team of one. Developer and pseudo-designer
+
+
+About jakobhans
+===========================
+
+| jakobhans 
+|---
+| <img width="100" height="100" src='https://pbs.twimg.com/profile_images/490120478996955137/2B8sN1eZ_400x400.jpeg' alt='jakobhans'/> |
+
+I'm a self-taught coder who studied marketing in college. For the last 7 years I've been developing mobile and web apps and really enjoying it. Trying to grow and learn as much as I can.
+I've been to two hackathons previously, one in Barcelona (my former home) and the other one in Berlin. Really like the vibe one gets in this kind of competitions and the growth attainable from seeing other peoples projects.
+
+
+My skills
+=======
+I've worked server side with PHP and Python. Probably what I'll be doing for the hackathon will be more of a client side app, so JavaScript this time :)
+For API's I'm interested in doing something with Wolfram Alpha and maybe Google Predictions (the whole interface looks interesting).
+For the project I like the TOA/EULA theme.
 
 
 ---------------------------------------
