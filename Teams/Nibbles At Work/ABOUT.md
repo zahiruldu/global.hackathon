@@ -9,7 +9,7 @@ About Nibbles
 |Nibble Position|User|Description|Leader Speech|Expertise|
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 |Leader|spelzinho|Game enthusiast and technology lover :3|i am their leader and to victory we ride!|Backend and Lite Frontend Developer|
-|Developer|luancomputacao|Avatar fanboy >:D|although he will never control air, or any other element, sorry bro|Backend and Frontend Developer|
+|Developer|luancomputacao|Avatar fanboy >:D|he will never control air, or any other element, sorry bro|Backend and Frontend Developer|
 |Developer|joseriosneto|Really like coding and self improvement|Oh damn, he is so lazy, but we will put Beatles to keep him fired up :D|Backend Developer|
 
 
