@@ -19,6 +19,12 @@ I am a developer from Hong Kong.
 
 iProgrammer. Programming with [](http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1200px-Apple_logo_black.svg.png) is my life.
 
+| kwokeith1989 |
+|--- |
+| ![Keith Chan](https://koding.com/kwokeith1989) |
+
+Eval and Apply.
+
 About your skills and what you are going to do?
 =======
 
