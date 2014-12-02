@@ -10,7 +10,7 @@ About us
 
 | pedrohenriquerls | japoneiz
 |--- |---
-| ![pedrohenriquerls](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/300754_106289596145938_1864628453_n.jpg?oh=fae99ac6bed62e311329bd5385244436&oe=5509034F&__gda__=1428064430_3218cf8497d9b8a694a9efd514889b86) | ![japoneiz](https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/03b/276/3d1fb2f.jpg)
+| ![pedrohenriquerls](http://i.imgur.com/0BHtbiF.png) | ![japoneiz](http://sc-cdn.scaleengine.net/i/7551aebb4a77b8b16471f2151b0f7b4d.png)
 
 We are already working hard for some time on a project, 
 this hackaton is the opportunity to gain money and the visibility we need to become this dream a reality .
