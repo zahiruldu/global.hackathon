@@ -34,7 +34,11 @@ I love doing magic with my team. We go off the Earth very often together and thi
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262872/e01ec2ae-7a2a-11e4-9b9f-bed0e27d114c.jpg)
 
-(we shall tell you more about this crew member when he is ready)
+"Running through the Space is joyful experience, stars are so peaceful and lively at the same time, and you can always run into something unexpected. Why am I the First Officer? Co-working with captain and the crew makes me see things from a different perspective and makes me capable to make things work.  When I'm on the Earth I live at Sarajevo where I go to college. 
+
+What do I know? C#, C++, .NET, ASP.NET MVC5, Entity Framework, Java, Javascript, HTML, ...
+
+And most of all, I like object oriented design because it lets me be creative, makes me use my knowledge and helps me in solving plenty of new tricky problems. Beside OOD, things that attract me are algorithm design and teamwork too."
 
 ###4. Elma Gazetić
 
