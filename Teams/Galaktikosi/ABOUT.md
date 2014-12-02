@@ -15,9 +15,8 @@ the secret in imagination. ;)
 
 The tools that help me express my ideas: 
 .NET,
-C#, C++, C, Python, HTML5, Javascript, Matlab, VHDL,
-ASP .NET MVC 5, Web API, Entity Framework, Google Map Web API, CSS,
-Photoshop, Blender
+C#, C++, C, Python, Javascript, HTML5,
+ASP .NET MVC 5, Web API, Entity Framework, Google Map Web API, CSS..
 
 I love doing magic with my team. We go off the Earth very often together and this time stars are our destination." 
 
