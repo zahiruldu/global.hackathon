@@ -26,7 +26,8 @@ I love doing magic with my team. We go off the Earth very often together and thi
 
 ![](https://cloud.githubusercontent.com/assets/7198919/5262879/fc4fb744-7a2a-11e4-916e-819a7594f64b.jpg)
 
-(we shall tell you more about this crew member when he is ready)
+"Back on Earth, I am a Student of International Burch University at department of Information technology. Born on 19.04.1993 in Zavidovići, Bosnia and Herzegovina. Now student and co-owner of BeeHappy, startup company which is product of Hackathon. Started with programming at university    and gain lot of knowledge working as intern in many companies. My favourite programming languages are JavaScript, C, C++, HTML / CSS, and I am enjoying coding with them, I am learning Swift for iOS. I am part of Agile organisation in my country. I have experience working in different programming environments, and operation systems, worked with teams in virtual and now working in live, and I am learning more and more every day and willing to participate in many events to gain knowledge.
+I am half human, half Android, so I like short, concrete and meaningful statements. Over and out."
 
 ###3. Luka Pejović
 
