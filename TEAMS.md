@@ -1361,6 +1361,38 @@ rich UI sites, complicated biz webapps and distributed heavily async systems.
 
 ---------------------------------------
 
+Team Name
+================
+
+Hi all, we are engineers of UofT, excited to participate in the first ever global hackathon!
+
+About your team
+===========================
+
+| paulliwali | lyamelia | Brian | Ben | Matt |
+|---|---|---|---|---|
+|<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/25b/2d0/247ae72.jpg' alt='paulliwali'/>|<img width="100" height="100" src='https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/03c/1f7/3de2e09.jpg' alt='lyamelia'/>|<img width="100" height="100" src='http://placehold.it/350x150' alt='Brian'/>|<img width="100" height="100" src='http://placehold.it/350x150' alt='Ben'/>|<img width="100" height="100" src='http://placehold.it/350x150' alt='Matt'/>|
+
+Tell us who you are, why you did you decide to join?
+
+Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
+Tell us why you want to win.
+
+We are PEY Students.
+
+About your skills and what you are going to do?
+=======
+Don't reveal too much about your project, this is a competition but maybe
+you can tell us the technologies, APIs you are going to use and what kind
+of application you are going to build.
+
+You can change your mind, that's ok. Just push an update here when you do.
+
+
+
+
+---------------------------------------
+
 We are The Black Rabbits
 ================
 Why do we want to join the competition and what do we have to bring? 
@@ -2074,6 +2106,27 @@ We are a bunch of geeks who love to learn and master software development techno
 - Ruby
 
 http://www.codeepy.com/about/
+
+
+---------------------------------------
+
+# Coder53
+
+We are Coder53. A team consists of 2 coders and a designer. 
+
+# About Us
+
+Kin Meng - I am the lead and coder. I do Java, Objective-C and Javascript.
+Wai Kit - I am the coder. I do Java and Javascript.
+Wai Yen - I am the designer. I design beautiful stuff.
+
+# Languages we love
+
+- Java
+- Javascript
+- Objective-C
+- HTML
+- CSS
 
 
 ---------------------------------------
@@ -5453,6 +5506,22 @@ Ourselves, we know a thing or two about C#, Python, Angular.JS and where to get 
 
 ---------------------------------------
 
+# PseudoLabs
+
+## About Us
+
+### Ananda Kanagaraj Sankar
+I am a graduate student majoring in Computer Science at the State University of New York at Buffalo. My passionate areas are web and mobile application development. For more info, visit http://sanandk.co/ 
+
+#### Languages I love
+Java, C#,
+HTML5, CSS, PHP, MySQL,
+JavaScript, JQuery,
+Android, Windows Phone.
+
+
+---------------------------------------
+
 PumpedDevs
 ================
 Hey! You've actually visited our page(?). We are pumpedDevs! We're thrilled to be part of the first Global Hackathon, well actually, this is the first hackathon for some of us. :)
@@ -5588,6 +5657,38 @@ About your skills and what you are going to do?
 I'm interested in both the theme of realtime communication and translation and the theme of problems facing our planet and data visualization.
 
 I'm not entirely sure what I'd like to tackle specifically.  Perhaps I'll gather some other devs/designers and come up with a more concrete idea soon.
+
+---------------------------------------
+
+ReadLeD
+================
+
+<pre>
+      __...--~~~~~-._   _.-~~~~~--...__
+    //  Readable     `V'   Legal       \\ 
+   //             Documents             \\ 
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
+ //__.....----~~~~._\ | /_.~~~~----.....__\\
+====================\\|//====================
+</pre>
+
+About our team
+-------------
+We are a group of technology enthusiasts from Sri Lanka currently based in different parts of the world ;) 
+
+We are motivated to solve real world problems. We have identified that there is a huge gap between legal documents
+such as TOS, EULA.. and the end user as they are reluctant to read them. We are on track to a novel and an efficient 
+solution to address this issue with the use of latest realtime technologies with usability in mind. 
+
+Our members 
+-------------
+
+* [Pasindu](https://lk.linkedin.com/in/rumalp)
+* [Eranga](https://lk.linkedin.com/in/erangamapa)
+* [Vimukthi](https://lk.linkedin.com/in/vimukthiweerasiri)
+* [Dumindu](https://lk.linkedin.com/in/dumindubuddhika)
+* [Kasun](http://lk.linkedin.com/in/dinalkurukulasooriya)
+
 
 ---------------------------------------
 
@@ -6039,6 +6140,31 @@ I'm Vaibhav Mule, a programmer from Bangalore, India. I wanted to join because I
 
 
 I'm Python guy, we'll be using Python(Django)for backend. I haven't decided which API would be used. but I will be analysing the terms and condition of Facebook, Google and Twitter and show it in intreactive way.
+
+
+---------------------------------------
+
+This is Step's page
+================
+
+This is Step's page
+
+
+About Step
+===========================
+
+| Step | Lucy the Cat | Swartjie the Cat | Sydney the Cat | Geeltjie the Cat | Gypsey the Cat |
+|--- |--- |--- |--- |---
+|  |  |  |  |  |
+
+I've been coding since the dawn of time, or so it feels. I am very active in animal welfare and climate matters.
+I'd like to see what I can do to improve matters!
+
+
+About your skills and what you are going to do?
+=======
+I typically to NLP and Data Science on the back end of things, so not too good on GUI!
+
 
 
 ---------------------------------------
@@ -6995,6 +7121,25 @@ We think ourselves proficient in JavaScript, Python and Ruby, but no language is
 
 TeamShog
 =========
+
+
+---------------------------------------
+
+About your team
+===========================
+
+|Chris|
+
+Tell us who you are, why you did you decide to join?
+
+Judges will read this page before making a final decision, so write your story, make it emotional and impressive.
+Tell us why you want to win.
+
+
+About your skills and what you are going to do?
+=======
+Still deciding.
+
 
 
 ---------------------------------------
