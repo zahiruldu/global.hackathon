@@ -2027,6 +2027,30 @@ You can expect something fun, multiplayer and educational. We are avid learners,
 
 ---------------------------------------
 
+About your team
+===========================
+
+| vovak
+|--- 
+| <img width="100" height="100" src='https://s3-us-west-2.amazonaws.com/stuffsyo/download.png' alt='vovaks'/> 
+
+The first time I found a reference to kinding on some online blog I thought 
+I had misread. A free online ide with an awesome text edditor and hosting
+for your random web projects whaaaaat? I've used koding throughout it's
+journey from it's conception to the great place it has become today. I'm
+joining the hackathon because I think the web is a great place for many
+coders to "meet up" and create some hack and share it with the world.
+
+
+About your skills and what you are going to do?
+=======
+Skills:
+* HTML5/CSS3/javascript
+* ruby rails
+
+
+---------------------------------------
+
 # Code Quest
 
 Join us on our journey on the world of Fun and Exciting Coding. We are excited to join the 1st Global Hackathon. And We will surely make this a fun and meaningful Experience. Let the Koding Begin..!!!!
@@ -5206,6 +5230,23 @@ Coming soon
 
 ---------------------------------------
 
+# Team One Man Wreck
+
+Go Easy on Me
+
+## About Me
+
+I am a college student doing my first hackathon.
+
+## Languages:
+
+- C++
+- Javascript
+- Ruby
+
+
+---------------------------------------
+
 About my team
 ===========================
 I am a Software Engineer with experience of MEAN stack, specialized in back-end web development. I am a citizen of Sri Lanka.
@@ -7502,6 +7543,29 @@ You can change your mind, that's ok. Just push an update here when you do.
 
 ---------------------------------------
 
+The Wave Dev Team
+================
+
+We are a small development team from Mar del Plata and La Plata, Argentina. We love the web and hack in it on daily basis. We want to show our expertise by maken an awesome app.
+
+About your team
+===========================
+
+| comtom | nicoman | mac | braulio | juan |
+
+
+About your skills and what you are going to do?
+=======
+We use a lot of open source projects to help us build things faster. We love simple things and of course, Python.
+Also, for web developments we prefer Django and Flask. But have tested dozens of other frameworks for web development. In fact, we still mantain a few Php apps right now.
+Building apps is our life and we enjoy it very much, we are confident that this is going to stand out in our final product.
+
+More updates comming... :)
+
+
+
+---------------------------------------
+
 # AceTeam
 
 We are a bunch of programmers in Indonesia, with different background and age.
@@ -8222,6 +8286,13 @@ About your skills and what you are going to do?
 
 ---------------------------------------
 
+# team appleskin
+
+It's just little 'ole meh.  I prefer to do everything in javascript.
+
+
+---------------------------------------
+
 This is my page
 ================
 
@@ -8750,6 +8821,11 @@ Skills
 - Firebase/Backbone
 - Jade/Stylus/CoffeeScript
 - Node.js
+
+
+---------------------------------------
+
+LET'S DO THIS!!!
 
 
 ---------------------------------------
