@@ -1,5 +1,5 @@
 {
-  "teamName": "Team Koders",
+  "teamName": "Bits-Please",
   "members": [
     {
       "name": "Sanjana Kambalaplly",
@@ -7,18 +7,6 @@
       "koding": "srkambbs",
       "location": "Toronto, CA",
       "lead": true
-    },
-    {
-      "name": "Rayun Mehrab",
-      "twitter": "",
-      "koding": "",
-      "location": "Toronto, CA"   
-    },
-    {
-      "name": "Richa Rajgolikar",
-      "twitter": "",
-      "koding": "",
-      "location": "Toronto, CA"
     }
     
   ]
