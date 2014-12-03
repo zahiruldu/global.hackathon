@@ -1092,6 +1092,28 @@ Social
 
 ---------------------------------------
 
+# The Average Joes
+We are a group of highschool friends who are all freshmen at the University of Michigan - Ann Arbor, this fall.
+All four of us took introductory level programming courses this fall, and most of us aren't so experienced in any form of web development.
+We see this as a unique challenge that will be very difficult for all of us.
+
+## The Members
+ - Luke Barwikowski: I have the most experience out of the group with web languanges, and that's the scary thing. I dabble in webdesign as a hobby, but see a future career in the backend parts of web applications. I will be leading this team, and hopefully I can teach these guys a thing or two and we'll make an awesome project.
+ - Lyle Antieau: I admittedly am the worst person in this group. And I suck.
+ - Nick Martinelli: I've taken a huge interest in programming lately. I don't really know much about anything, but I'm really excited for this.
+ - Joseph Lafayette: Lyle sucks.
+ 
+ ## Our Plan
+ We plan on implementing the following frameworks, libraries, and languages
+    -HTML5
+    -jquery
+    -Python
+    -Flask
+    -backbone.js
+
+
+---------------------------------------
+
 Axon
 ====
 
@@ -1357,6 +1379,24 @@ rich UI sites, complicated biz webapps and distributed heavily async systems.
   * .Net
 
 ##Yes, we love JS )
+
+
+---------------------------------------
+
+#Team Bits Please
+
+We are third year students from University of Toronto. Since I just created this profile, we'll be coming back to update it
+
+##About Us
+
+-Sanjana: Well I've been looking forward to an online hackathon since forever. Currently I am on my 16 months internship at 
+Environment Canada. 
+
+##Languages
+-Java
+-C++
+-C
+etc.
 
 
 ---------------------------------------
@@ -6001,6 +6041,21 @@ It's soon to tell on what idea we'll work during the Hackathon
 
 ---------------------------------------
 
+## SMALL SUCCESS
+
+Small Success is a technology company dedicated to creating amazing products!
+
+## About Us
+
+- Titus: My name is Titus and I love to develop apps in Meteor.  I also work in PHP and Angular.
+
+## Languages We Love
+
+- Javascript
+
+
+---------------------------------------
+
 Our team
 ===========================
 
@@ -6840,6 +6895,11 @@ My name is Michael and I love tinkering with code and data
 - Java
 - XSLT
 
+
+
+---------------------------------------
+
+Team Borsch consists of one member. Whatever.
 
 
 ---------------------------------------
@@ -8320,6 +8380,26 @@ I'm good at Python, C++, Node.js and MVC frameworks. Currently no idea what I'm 
 This is our page
 ================
 
+We are the Avengers team from India.
+
+
+About your team
+===========================
+
+Nivedita Dixit: Lead developer and team lead
+Kishor Gandham: Developer
+
+
+About your skills and what you are going to do?
+=======
+We havent thought about the idea yet, will udpate shortly
+
+
+---------------------------------------
+
+This is our page
+================
+
 
 About your team
 ===========================
@@ -9365,6 +9445,20 @@ He is Andhieka Putra, an enthusiastic Year 2 Computer Science undergraduate from
 We have been friends since eternity.
 
 We will be working together to bring out the best of our abilities :D
+
+
+
+---------------------------------------
+
+My name is Philip Tolton. I'm a software developer.
+
+I recently built a startup called DishGo. I built incredible software for over a year. We made some money and my software was used by thousands of people. I'm now looking for my next challenge.
+
+I've used Rails, Objective-C, Linux, Javascript, MongoDB, Mysql and much much more. I'm building a custom router out of a Banana Pi right now. It's running Arch Linux.
+
+I have some free time and a buddy suggested I sign up for this. I'm going to build something really cool.
+
+I think I'm going to use some OCR technology and integrate it into Quickbooks. There were some things I was forced to do for DishGo when it was time to do our taxes that were really painful. I think they can be automated.
 
 
 
